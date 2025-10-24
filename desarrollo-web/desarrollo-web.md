@@ -1,11 +1,11 @@
 # 💻 Escuela de Desarrollo Web
 
-Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web]("https://platzi.com/escuela/web") que Contiene *16 rutas*
+Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene *16 rutas*
 
 ---
 
 ## 1. 🧱 Fundamentos del Desarrollo Web Profesional - 
-👉🏻 [Ruta de Platzi]("https://platzi.com/ruta/intro-desarrollo-web")
+👉🏻 [Ruta de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
 ### 10 Cursos de la ruta:
 
 | Curso | Estado | Progreso | Notas |
