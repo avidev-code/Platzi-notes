@@ -3,7 +3,7 @@
   
   | Nombre del profesor | Perfil profesional |
   | :--- | :--- |
-  | **Profesor:** Diego De Granda. | Google developer <br/> Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
+  | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
   
   <br/>
 <img src="./banners-cursos/curso01.jpg"/>
