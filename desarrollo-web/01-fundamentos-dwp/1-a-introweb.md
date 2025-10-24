@@ -9,16 +9,14 @@
   
   <br/>
 
-  | Nombre del profesor | Perfil profesional |
-  | :--- | :--- |
-  | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
+  | Nombre del profesor | Perfil profesional | Fecha publicación del Curso |
+  | :--- | :--- | :--- |
+  | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el **06 de julio de 2023** |
   
   <br/>
 
 
 > Explora la evolución y el funcionamiento de Internet. Comprende su historia, el papel crucial de los protocolos, cómo se comunican las computadoras y su impacto en la web moderna. Ideal para quienes desean entender el corazón tecnológico de la web desde sus cimientos.
-  
-  <br/>
 
 ---
 
