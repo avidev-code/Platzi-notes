@@ -11,9 +11,13 @@
 
 ## Clases del curso
 
-#### Historia de las computadoras
+#### 🏛️ Historia de las computadoras
 
 <details>
-  <summary>**01/32 - Fundamentos de Internet y Evolución de la Web**</summary>
+  <summary>01/32 - Fundamentos de Internet y Evolución de la Web</summary>
+  <br/>
+
+  ### ¿Cuál fue el origen de las computadoras?
+  La historia de cómo las computadoras llegaron a ser lo que son hoy es fascinante y marca una evolución destacada de la tecnología. Desde sus inicios con herramientas tan simples como el Abaco hasta convertirse en las poderosas máquinas que conocemos hoy, el panorama computacional ha tenido un recorrido largo e innovador. El interés humano por mejorar los cálculos y registrar operaciones efectivamente fue el motor principal que impulsó este desarrollo. Acompáñame en este recorrido por el tiempo.
   <br/>
 </details>
