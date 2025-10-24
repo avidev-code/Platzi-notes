@@ -1,4 +1,4 @@
-<img src="https://static.platzi.com/media/achievements/badge-intro-web-historia-12d10866-cec5-41bb-9ade-ced04aa1060f.png"/>
+<img width="32px" src="https://static.platzi.com/media/achievements/badge-intro-web-historia-12d10866-cec5-41bb-9ade-ced04aa1060f.png"/>
 
 <details>
   <summary>Haz click aquí para ver la documentación de esta clase 👀</summary>
