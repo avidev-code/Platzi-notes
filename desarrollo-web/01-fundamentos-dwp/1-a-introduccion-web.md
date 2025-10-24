@@ -50,7 +50,7 @@
 <br/>
 
 ### 🖥️ El Lenguaje de la Computadora
-
+<br/>
 <details>
   <summary>02/32 - Evolución de Cálculos: Del Ábaco a Computadoras Humanas</summary>
   <br/>
@@ -149,6 +149,6 @@
 </details>
 
 <details>
-  <summary>16/32 - Historia y Evolución de la Web: De ARPANET a Tim Berners-Lee</summary>
+  <summary>21/32 - Motores de Navegadores y Estándares Web</summary>
    <br/>
 </details>
