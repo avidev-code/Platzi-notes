@@ -175,6 +175,6 @@
 </details>
 
 <details>
-  <summary>23/32 - Introducción a WebAssembly: El nuevo estándar web</summary>
+  <summary>25/32 - Internet de las Cosas y su Impacto en la Vida Cotidiana</summary>
    <br/>
 </details>
