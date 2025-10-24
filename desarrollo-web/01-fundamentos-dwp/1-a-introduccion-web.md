@@ -47,7 +47,7 @@
   [Curso de Historia de la Programación](https://platzi.com/cursos/historia-programacion)
 
 </details>
-<br/><br/>
+<br/>
 
 ### 🖥️ El Lenguaje de la Computadora
 
@@ -82,3 +82,5 @@
 <details>
   <summary>09/32 - Conversión de Colores RGB a Código Binario</summary>
 </details>
+
+### 🌐 Cómo funciona el Internet?
