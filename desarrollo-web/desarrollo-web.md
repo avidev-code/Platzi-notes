@@ -5,9 +5,9 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 
 ## 1. 🧱 Fundamentos del Desarrollo Web Profesional
-<img src="../img/01.jpg"/>
+<img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
+👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
 
 > Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
 
@@ -29,7 +29,12 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 
 ## 2. ⚙️📐 Diseño y Desarrollo Frontend
+<img src="../img/02-diseño-desarrollo.jpg"/>
+
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/diseno-desarrollo-frontend)
+
+> Domina JavaScript avanzado, manipulación del DOM, CSS moderno (Flexbox, Grid, Sass, Tailwind), rendimiento web y los frameworks/librerías más populares como React, Vue, Angular, junto con TypeScript y herramientas de build.
+
 ### Cursos de la ruta:
 
 | Nombre del curso | Estado | Progreso | Notas |
@@ -53,6 +58,8 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 
 ## 3. ⚙️ Desarrollo Frontend con JavaScript
+<img src="../img/03-desarrollo-js.jpg"/>
+
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarollo-frontend-con-javascript)
 ### Cursos de la ruta:
 
