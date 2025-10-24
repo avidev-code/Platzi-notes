@@ -5,18 +5,18 @@
 
   <br/>
 
-  👉🏻 [Ve al curso: Básico de Computadores e Informática](https://platzi.com/cursos/computacion-basica)
+  👉🏻 [Ve al curso Básico de Computadores e Informática](https://platzi.com/cursos/computacion-basica)
   
   <br/>
 
   | Nombre del profesor | Perfil profesional | Fecha publicación del Curso |
   | :--- | :--- | :--- |
-  | Profesor: **Ricardo Celis** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el 11 de marzo de 2022 |
+  | Profesor: **Ricardo Celis** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el **11 de marzo de 2022** |
   
   <br/>
 
 
-> Explora la evolución y el funcionamiento de Internet. Comprende su historia, el papel crucial de los protocolos, cómo se comunican las computadoras y su impacto en la web moderna. Ideal para quienes desean entender el corazón tecnológico de la web desde sus cimientos.
+> Comprende los conceptos básicos de computación. Aprende a utilizar tu primera computadora, instalar y desinstalar programas, navegar por internet de forma segura, manejar archivos e identificar software malicioso. Ideal para principiantes.
 
 ---
 
