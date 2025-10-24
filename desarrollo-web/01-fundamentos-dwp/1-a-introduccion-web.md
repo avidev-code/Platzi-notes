@@ -50,7 +50,6 @@
 <br/>
 
 ### 🖥️ El Lenguaje de la Computadora
-<br/>
 <details>
   <summary>02/32 - Evolución de Cálculos: Del Ábaco a Computadoras Humanas</summary>
   <br/>
@@ -90,6 +89,7 @@
   <summary>09/32 - Conversión de Colores RGB a Código Binario</summary>
    <br/>
 </details>
+<br/>
 
 ### 🌐 Cómo funciona el Internet?
 <details>
@@ -121,6 +121,7 @@
   <summary>15/32 - Direcciones IP y DNS: Fundamentos para la Conectividad en Internet</summary>
    <br/>
 </details>
+<br/>
 
 ### 🏛️ Historia de la Web
 <details>
@@ -150,5 +151,30 @@
 
 <details>
   <summary>21/32 - Motores de Navegadores y Estándares Web</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>21/32 - Motores de Navegadores y Estándares Web</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>22/32 - Fundamentos de HTML, CSS y JavaScript para Desarrollo Web</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>23/32 - Introducción a WebAssembly: El nuevo estándar web</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>24/32 - Diseño Web Multiplataforma: Mobile First y su Evolución</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>23/32 - Introducción a WebAssembly: El nuevo estándar web</summary>
    <br/>
 </details>
