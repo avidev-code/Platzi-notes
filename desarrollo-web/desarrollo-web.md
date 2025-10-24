@@ -20,7 +20,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
 | **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
-| **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ing-software.md) |
+| **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
 | **Curso de HTML** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
 | **Curso de CSS** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
 | **Curso Práctico de HTML y CSS** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
