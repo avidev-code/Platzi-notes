@@ -5,7 +5,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 
 ## 1. 🧱 Fundamentos del Desarrollo Web Profesional
-<img src=./img/01.jpg>
+<img src="./img/01.jpg alt="Banner principal de Desarrollo Web" width="800"/>
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
 
 Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
