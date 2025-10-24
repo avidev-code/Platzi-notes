@@ -11,8 +11,13 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | Curso | Estado | Progreso | Notas |
 | :--- | :--- | :--- | :--- |
 | **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | ✅ Completado | 100% | [Ir a las Notas](./fundamentos-dwp/introduccion-web.md.md) |
-| **JavaScript Básico** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **React.js Profesional** | ⏳ En Progreso | 60% | [Ir a las Notas](./Ruta-Frontend/Curso-React-Profesional/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso Básico de Computadores e Informática** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso de Introducción a la Terminal y Línea de Comandos** | ⏳ En Progreso | 60% | [Ir a las Notas](./Ruta-Frontend/Curso-React-Profesional/README.md) |
 
 ---
 
