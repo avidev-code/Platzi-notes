@@ -4,8 +4,8 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 
-## 1. 🧱 Fundamentos del Desarrollo Web Profesional - 👉🏻 [Ruta de Platzi]("https://platzi.com/ruta/intro-desarrollo-web")
-
+## 1. 🧱 Fundamentos del Desarrollo Web Profesional - 
+👉🏻 [Ruta de Platzi]("https://platzi.com/ruta/intro-desarrollo-web")
 ### 10 Cursos de la ruta:
 
 | Curso | Estado | Progreso | Notas |
