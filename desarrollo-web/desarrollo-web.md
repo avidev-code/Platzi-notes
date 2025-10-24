@@ -8,15 +8,15 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
 ### Cursos de la ruta:
 
-| Curso | Estado | Progreso | Notas |
+| Curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | ✅🎓 Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/introduccion-web.md.md) |
-| **Curso Básico de Computadores e Informática** | ✅🎓 Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
-| **Curso de Introducción a la Terminal y Línea de Comandos** | ✅🎓 Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
-| **Curso de Fundamentos de Ingeniería de Software** | ✅🎓 Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
-| **Curso de HTML** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
-| **Curso de CSS** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
-| **Curso Práctico de HTML y CSS** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
+| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/introduccion-web.md.md) |
+| **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/) |
+| **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/) |
+| **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/) |
+| **Curso de HTML** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/) |
+| **Curso de CSS** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/) |
+| **Curso Práctico de HTML y CSS** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/) |
 | **Curso Gratis de Programación Básica** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
 | **Curso de Git y GitHub** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/) |
