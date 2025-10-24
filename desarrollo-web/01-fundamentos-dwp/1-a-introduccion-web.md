@@ -1,6 +1,10 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/badge-intro-web-historia-12d10866-cec5-41bb-9ade-ced04aa1060f.png"/> 🎓 Curso de Introducción a la Web: Historia y Funcionamiento de Internet
   
+  | Nombre del profesor | Perfil profesional |
+  | :--- | :--- |
+  | **Profesor:** Diego De Granda. | Google developer <br/> Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
+  
   <br/>
 <img src="./banners-cursos/curso01.jpg"/>
 
