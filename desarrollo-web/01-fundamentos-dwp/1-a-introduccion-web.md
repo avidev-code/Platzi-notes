@@ -53,34 +53,102 @@
 
 <details>
   <summary>02/32 - Evolución de Cálculos: Del Ábaco a Computadoras Humanas</summary>
+  <br/>
 </details>
 
 <details>
   <summary>03/32 - Evolución de las Computadoras y el Código Máquina</summary>
+   <br/>
 </details>
 
 <details>
   <summary>04/32 - Inputs y Outputs: Interacción con Computadoras</summary>
+   <br/>
 </details>
 
 <details>
   <summary>05/32 - Conversión de Números Decimales a Binario</summary>
+   <br/>
 </details>
 
 <details>
   <summary>06/32 - Bits y Bytes: Fundamentos del Código Binario y Transistores</summary>
+   <br/>
 </details>
 
 <details>
   <summary>07/32 - Traducción de texto a binario usando código ASCII</summary>
+   <br/>
 </details>
 
 <details>
   <summary>08/32 - Introducción a Unicode y su impacto en la comunicación digital</summary>
+   <br/>
 </details>
 
 <details>
   <summary>09/32 - Conversión de Colores RGB a Código Binario</summary>
+   <br/>
 </details>
 
 ### 🌐 Cómo funciona el Internet?
+<details>
+  <summary>10/32 - Historia del Internet: De ARPANET a la Conexión Global</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>11/32 - Evolución de ARPANET y el Surgimiento de Protocolos de Internet</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>12/32 - Funcionamiento de los Protocolos de Comunicación en Internet</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>13/32 - Interacción de Mensajes en las Capas de Protocolo de Internet</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>14/32 - Origen y evolución de los proveedores de Internet (ISP)</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>15/32 - Direcciones IP y DNS: Fundamentos para la Conectividad en Internet</summary>
+   <br/>
+</details>
+
+### 🏛️ Historia de la Web
+<details>
+  <summary>16/32 - Historia y Evolución de la Web: De ARPANET a Tim Berners-Lee</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>17/32 - Evolución de los Navegadores Web: De Mosaic a Chrome</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>18/32 - Estándares Web y el Rol del W3C en su Evolución</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>19/32 - Funcionamiento y métodos del protocolo HTTP</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>20/32 - Seguridad en Internet: Diferencias entre HTTP y HTTPS</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>16/32 - Historia y Evolución de la Web: De ARPANET a Tim Berners-Lee</summary>
+   <br/>
+</details>
