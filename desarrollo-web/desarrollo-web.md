@@ -10,14 +10,14 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
   <br/>
-  
+
 > Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
 
 ### Cursos de la ruta:
 
 | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introduccion-web.md.md) |
+| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introduccion-web.md) |
 | **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computadoras-informatica.md) |
 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
 | **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ing-software.md) |
