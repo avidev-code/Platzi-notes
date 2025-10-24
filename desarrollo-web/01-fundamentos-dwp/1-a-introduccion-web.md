@@ -48,7 +48,8 @@
 
 </details>
 
-### 🏛️ Historia de las computadoras
+### 🖥️ El Lenguaje de la Computadora
+
 <details>
   <summary>02/32 - Evolución de Cálculos: Del Ábaco a Computadoras Humanas</summary>
 </details>
