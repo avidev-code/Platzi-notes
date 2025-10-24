@@ -1,6 +1,7 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/badge-intro-web-historia-12d10866-cec5-41bb-9ade-ced04aa1060f.png"/> 🎓 Curso de Introducción a la Web: Historia y Funcionamiento de Internet
-  
+  <br/>
+
   | Nombre del profesor | Perfil profesional |
   | :--- | :--- |
   | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
@@ -181,5 +182,42 @@
 
 <details>
   <summary>25/32 - Internet de las Cosas y su Impacto en la Vida Cotidiana</summary>
+   <br/>
+</details>
+<br/>
+
+### 🌐 Cómo funciona el Internet?
+<details>
+  <summary>26/32 - Funcionamiento del navegador y el Critical Render Path</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>27/32 - Introducción al DOM: Estructura y Función en HTML</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>28/32 - Modelo de Objetos CSS: Interpretación y Generación de Árboles de Estilo</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>29/32 - Renderizado de Árboles DOM y CSSOM en Navegadores</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>30/32 - Generación de Layout en HTML y CSS</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>31/32 - Renderizado y Estilización de Páginas Web</summary>
+   <br/>
+</details>
+
+<details>
+  <summary>16/32 - Historia y Evolución de la Web: De ARPANET a Tim Berners-Lee</summary>
    <br/>
 </details>
