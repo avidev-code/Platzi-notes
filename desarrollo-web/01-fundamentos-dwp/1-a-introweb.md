@@ -1,5 +1,8 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/badge-intro-web-historia-12d10866-cec5-41bb-9ade-ced04aa1060f.png"/> 🎓 Curso de Introducción a la Web: Historia y Funcionamiento de Internet
+
+<img src="./banners-cursos/curso01.jpg"/>
+
   <br/>
 
   👉🏻 [Ve al curso: Introducción a la Web: Historia y Funcionamiento de Internet](https://platzi.com/cursos/introweb)
@@ -11,7 +14,7 @@
   | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components |
   
   <br/>
-<img src="./banners-cursos/curso01.jpg"/>
+
 
 > Explora la evolución y el funcionamiento de Internet. Comprende su historia, el papel crucial de los protocolos, cómo se comunican las computadoras y su impacto en la web moderna. Ideal para quienes desean entender el corazón tecnológico de la web desde sus cimientos.
   
