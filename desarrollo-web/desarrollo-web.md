@@ -1,6 +1,6 @@
 # 💻 Escuela de Desarrollo Web
 
-Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene **16 rutas**
+Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
 
 ---
 
@@ -10,6 +10,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
   <br/>
+  
 > Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
 
 ### Cursos de la ruta:
@@ -27,6 +28,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Ir a las Notas](./01-fundamentos-dwp/1-i-fund-js.md) |
 | **Curso de Git y GitHub** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Ir a las Notas](./01-fundamentos-dwp/1-j-git-github.md) |
   <br/>
+
 ---
 
 ## 2. ⚙️📐 Diseño y Desarrollo Frontend
