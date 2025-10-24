@@ -8,7 +8,7 @@ Este repositorio contiene mis notas y resúmenes de los cursos que he completado
 
 | Escuela | Descripción | Progreso | Enlace a Notas |
 | :--- | :--- | :--- | :--- |
-| **Desarrollo Web** | Fundamentos de frontend y backend, tecnologías modernas. | 80% | [Ir a la Escuela](./desarrollo-web/README.md) |
+| **Desarrollo Web** | Fundamentos de frontend y backend, tecnologías modernas. | 80% | [Ir a la Escuela](./desarrollo-web/desarrollo-web.md) |
 | **Data Science** | Machine Learning, análisis de datos y herramientas. | 35% | [Ir a la Escuela](./Escuela-de-Data-Science/README.md) |
 | **Marketing Digital** | Estrategias, SEO y contenido. | 100% | [Ir a la Escuela](./Escuela-de-Marketing/README.md) |
 
