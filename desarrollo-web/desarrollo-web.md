@@ -4,8 +4,12 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 
-## 1. 🧱 Fundamentos del Desarrollo Web Profesional - 
+## 1. 🧱 Fundamentos del Desarrollo Web Profesional
+<img src=./img/01.jpg>
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
+
+Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
+
 ### Cursos de la ruta:
 
 | Nombre del curso | Estado | Progreso | Mis Notas |
@@ -51,7 +55,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarollo-frontend-con-javascript)
 ### Cursos de la ruta:
 
-| Curso | Estado | Progreso | Notas |
+| Nombre del curso | Estado | Progreso | Notas |
 | :--- | :--- | :--- | :--- |
 | **Curso de JavaScript: Manipulación del DOM** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | **Curso de ECMAScript: Historia y Versiones de JavaScript** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
@@ -72,7 +76,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-frontend-react-js)
 ### Cursos de la ruta:
 
-| Curso | Estado | Progreso | Notas |
+| Nombre del curso | Estado | Progreso | Notas |
 | :--- | :--- | :--- | :--- |
 | **Curso de React.js** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | **Curso de React.js: Manejo Profesional del Estado** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
