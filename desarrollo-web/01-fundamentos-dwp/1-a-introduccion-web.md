@@ -23,24 +23,24 @@
   <summary>01/32 - Fundamentos de Internet y Evolución de la Web</summary>
   <br/>
 
-  ### ¿Cuál fue el origen de las computadoras?
+  ## ¿Cuál fue el origen de las computadoras?
   La historia de cómo las computadoras llegaron a ser lo que son hoy es fascinante y marca una evolución destacada de la tecnología. Desde sus inicios con herramientas tan simples como el Abaco hasta convertirse en las poderosas máquinas que conocemos hoy, el panorama computacional ha tenido un recorrido largo e innovador. El interés humano por mejorar los cálculos y registrar operaciones efectivamente fue el motor principal que impulsó este desarrollo. Acompáñame en este recorrido por el tiempo.
   <br/><br/>
 
-  #### ¿Cómo resolvían matemáticas las civilizaciones antiguas?
+  ### ¿Cómo resolvían matemáticas las civilizaciones antiguas?
   A lo largo de los siglos, la necesidad de realizar cálculos precisos llevó a la invención de herramientas que facilitaran esta tarea. Entre éstas, destacan:
 
   - **El Ábaco**: Considerado la primera "computadora" por su capacidad para realizar y registrar operaciones matemáticas. Era esencial en mercados y transacciones complejas, permitiendo llevar históricos de cuentas.
   - **Máquinas no electrónicas**: Tras el ábaco, la evolución tecnológica nos llevó a dispositivos que, sin usar electricidad, aumentaban la eficiencia y precisión de los cálculos.
 
 
-  ### ¿Qué son las "primeras computadoras"?
+  ## ¿Qué son las "primeras computadoras"?
   Antes de la era digital, el término "computadora" se refería a personas especializadas en resolver cálculos complejos. Estas personas, con su experticia, ayudaban a solucionar problemas matemáticos de manera rápida y precisa, mucho antes de que existieran las calculadoras electrónicas.
 
-  ### ¿Cómo influyó la necesidad de precisión en los cálculos complejos?
+  ## ¿Cómo influyó la necesidad de precisión en los cálculos complejos?
   La búsqueda constante de resultados sin errores en operaciones matemáticas fue vital para el progreso tecnológico. Documentos y libros con fórmulas preestablecidas comenzaron a ser parte del proceso computacional. Estos libros permitían obtener soluciones rápidas y precisas ante problemas matemáticos desafiantes.
 
-  ### ¿Cómo fue la transición hacia las computadoras electrónicas?
+  ## ¿Cómo fue la transición hacia las computadoras electrónicas?
   La evolución desde "computadoras humanas" hacia computadoras electrónicas marcó un hito. Esta transformación no ocurrió de la noche a la mañana. Nació de la necesidad de manejar grandes volúmenes de operaciones más rápidamente y con máxima precisión, algo que las computadoras humanas ya no podían soportar con la misma velocidad.
 
   La tecnología continuó mejorando hasta desarrollar lo que hoy conocemos como computadoras de escritorio, donde los procesos que antes requerían mucho tiempo ahora se realizan en milisegundos. Las computadoras de hoy demuestran cuán lejos hemos llegado desde aquellos primeros pasos con el ábaco y las personas ordenador.
@@ -218,6 +218,6 @@
 </details>
 
 <details>
-  <summary>16/32 - Historia y Evolución de la Web: De ARPANET a Tim Berners-Lee</summary>
+  <summary>32/32 - Interpretación de JavaScript por el Navegador</summary>
    <br/>
 </details>
