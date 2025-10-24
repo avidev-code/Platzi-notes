@@ -47,9 +47,38 @@
   [Curso de Historia de la Programación](https://platzi.com/cursos/historia-programacion)
 
 </details>
+<br/><br/>
 
 ### 🖥️ El Lenguaje de la Computadora
 
 <details>
   <summary>02/32 - Evolución de Cálculos: Del Ábaco a Computadoras Humanas</summary>
+</details>
+
+<details>
+  <summary>03/32 - Evolución de las Computadoras y el Código Máquina</summary>
+</details>
+
+<details>
+  <summary>04/32 - Inputs y Outputs: Interacción con Computadoras</summary>
+</details>
+
+<details>
+  <summary>05/32 - Conversión de Números Decimales a Binario</summary>
+</details>
+
+<details>
+  <summary>06/32 - Bits y Bytes: Fundamentos del Código Binario y Transistores</summary>
+</details>
+
+<details>
+  <summary>07/32 - Traducción de texto a binario usando código ASCII</summary>
+</details>
+
+<details>
+  <summary>08/32 - Introducción a Unicode y su impacto en la comunicación digital</summary>
+</details>
+
+<details>
+  <summary>09/32 - Conversión de Colores RGB a Código Binario</summary>
 </details>
