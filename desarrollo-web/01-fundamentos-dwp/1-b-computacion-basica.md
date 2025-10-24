@@ -11,7 +11,7 @@
 
   | Nombre del profesor | Perfil profesional | Fecha publicación del Curso |
   | :--- | :--- | :--- |
-  | Profesor: **Ricardo Celis** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el **11 de marzo de 2022** |
+  | Profesor: **Ricardo Celis** | **Ingeniero de Software y Líder Técnico con un enfoque en la dirección de equipos** <br/> 👨‍🏫 Experto en Software Engineering y Computer Science <br/> 💚 Especialista de Educación en Línea <br/> 👾 Amante de los Robots y Videojuegos | 📅 Publicado el **11 de marzo de 2022** |
   
   <br/>
 

@@ -11,7 +11,7 @@
 
   | Nombre del profesor | Perfil profesional | Fecha publicación del Curso |
   | :--- | :--- | :--- |
-  | Profesor: **Diego De Granda** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el **06 de julio de 2023** |
+  | Profesor: **Diego De Granda** | **Head of Education en Platzi** <br/> 👨‍🏫 Google Developer Expert <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> 👨‍💻 Experto en JavaScript y Web Components | 📅 Publicado el **06 de julio de 2023** |
   
   <br/>
 

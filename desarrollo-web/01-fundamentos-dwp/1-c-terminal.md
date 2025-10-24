@@ -11,7 +11,7 @@
 
   | Nombre del profesor | Perfil profesional | Fecha publicación del Curso |
   | :--- | :--- | :--- |
-  | Profesor: **Ricardo Celis** | Google developer <br/> 🖥️ Chief Technology Officer at Besage.ai <br/> Experto en Javascript y web Components | 📅 Publicado el **01 de mayo de 2025** |
+  | Profesor: **Enrique Devars** | **Front-End Developer** <br/> 👨‍🏫 Desarrollador de Software <br/> ➕ Amante de las matemáticas <br/> 🇲🇽 Ingeniero del Instituto Politécnico Nacional | 📅 Publicado el **01 de mayo de 2025** |
   
   <br/>
 
