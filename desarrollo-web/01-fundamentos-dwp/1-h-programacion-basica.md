@@ -1292,11 +1292,238 @@
 <details>
   <summary>11/84 - Creación y uso de funciones en programación</summary>
   <br/>
+
+  Hay actividades rutinarias que realizamos siguiendo los mismos pasos una y otra vez. En programación esto se llaman **funciones**, y es momento de usarlas en nuestro ejercicio de piedra, papel o tijera.
+
+  ## **Funciones en JavaScript**
+
+  Piensa en tu mente como si fuera un programa de computadora. Cepillarte los dientes es una tarea de todos los días. Entonces ¿escribirías de nuevo el código para cepillar tus dientes todos los días?
+
+  Pues, no. Lo que harías es guardar los pasos en tu memoria (con una función), y luego invocarlos cada vez que tengas que cepillarte los dientes.
+
+  Lo mismo ocurre en la programación. Solo tienes que seguir la regla de oro: **Si tienes que copiar el código y pegarlo en otro lado, entonces mejor conviértelo en una función.** Así puedes invocarlo tantas veces necesites.
+
+  ## **¿Cómo declarar funciones en JavaScript?**
+
+  Hay varias formas de declarar una función. Pero la más básica de todas consiste en escribir la palabra reservada `function`, seguida de la función con sus parámetros entre paréntesis, y el bloque de código entre llaves `{ }`.
+
+  Ejemplo:
+
+  ```jsx
+  function hacerAlgo( param1 , param2 ) {
+      let resultado = param1 + param2;
+      return resultado;
+  }
+
+  hacerAlgo( 3 , 4 ); //Devuelve 7
+  ```
+
+  💡 Cuando ejecutas la función, esta ejecuta todo el código que insertaste dentro de las llaves `{ }` cuando la declaraste. De este modo, puedes ejecutar la función tantas veces como necesites con solo declararla una vez.
+
+  💡 Cuando la declaras, puedes indicar parámetros y usarlos dentro del bloque de código. Luego, cuando la ejecutes, esos parámetros se sustituirán con los valores que escribas entre paréntesis al momento de ejecutarla.
+
+  💡 También puedes usar la palabra reservada `return` dentro del bloque de código de la función para que, al ejecutarla, recibas el valor que indiques luego de escribir `return` (ojo, cuando la función llega a un `return`, su ejecución se detiene. Los comandos que escribas después de un `return` no se van a ejecutar).
+
+  💡 Ojo, todas las funciones deben empezar por una letra. No pueden iniciar con un número o un símbolo, siempre deben empezar por una letra (y la práctica común es que sea una letra minúscula en el caso de variables y funciones).
+
+  ## **¿Cómo usar funciones en JavaScript?**
+
+  Las funciones, al momento de ejecutarlas, tienen una estructura similar: Un nombre, seguido por sus parámetros entre paréntesis.
+
+  💡 Ojo, si la función no usa parámetros, igual necesitas escribir los paréntesis para que tu computadora entienda que tiene que ejecutar la función. Por ejemplo: `alert()`.
+
+  ```jsx
+  función( parámetro1 , parámetro2 )
+  ```
+
+  Luego tienes dos casos de uso:
+
+  - Si la función tiene el trabajo de ejecutar procesos en tu programa (ej: `alert()`), entonces puedes ejecutarla por si sola en una línea de código (como ves en el ejemplo de arriba).
+  - Si la función, en cambio, tiene el trabajo de usar los parámetros para calcular algo más y devolver un valor con un `return`, entonces suele usarse para asignar valores a otra variable.
+
+  Por ejemplo:
+
+  ```jsx
+  ganador = mejorEntre( opcion1 , opcion2 );
+  ```
+
+  ![Ejemplo de función en JavaScript](https://static.platzi.com/media/articlases/Images/11-1%20ejemplo%20de%20funci%C3%B3n%20en%20JavaScript.png)
+
+  {height="" width=""}
+
+  ## **¿Dónde escribo las funciones?**
+
+  Es una buena práctica escribir las funciones **al inicio del código**. Los navegadores suelen ser permisivos cuando creas sitios web, pero la mayoría de los lenguajes de programación son estrictos sobre este punto.
+
+  En general, declara tus funciones antes de usarlas 👍
+
+  ## **Aplicando funciones al programa de piedra, papel o tijera**
+
+  Es hora de mejorar la calidad del código usando funciones.
+
+  Empecemos por optimizar las alertas que indican la elección del jugador y del computador:
+
+  ### Optimizando las alertas
+
+  Si te fijas bien, el algoritmo que nos informa nuestra elección y la del computador son muy parecidos, y podemos reemplazarlo con una función:
+
+  ```jsx
+  //INFORMANDO LA ELECCIÓN DEL JUGADOR
+  if ( eleccionDelJugador == 1 ) {
+      alert( "Elegiste 🥌" );
+  } else if ( eleccionDelJugador == 2 ) {
+      alert( "Elegiste 📄" )
+  } else if ( eleccionDelJugador == 3 ) {
+      alert( "Elegiste ✂️" )
+  } else {
+      alert( "Elegiste otra cosa, así no puedes jugar 😣" )
+  }
+
+  //INFORMANDO LA ELECCION DEL COMPUTADOR
+  if ( eleccionDelComputador == 1 ) {
+      alert( "La computadora eligió 🥌" );
+  } else if ( eleccionDelComputador == 2 ) {
+      alert( "La computadora eligió 📄" )
+  } else if ( eleccionDelComputador == 3 ) {
+      alert( "La computadora eligió ✂️" )
+  } else {
+      alert( "Cometí un error programando la elección del computador 🙃" )
+  }
+  ```
+
+  Intenta hacerlo por tu cuenta, luego puedes compararla con la posible solución de abajo.
+
+  💡 Ojo, esta igual necesita que la encajes bien con tu código para que el programa siga funcionando. Así que no temas experimentar y hacer ajustes poco a poco para que funcione el juego. Al final te mostraré un ejemplo con el código completo usando funciones 😉
+
+  ```jsx
+  //FUNCIÓN PARA LAS ALERTAS
+  function alertaDeElecciones( quienElije , eleccion ) {
+      if ( eleccion == 1 ) {
+          alert( "El " + quienElije + " eligió 🥌" );
+      } else if ( eleccion == 2 ) {
+          alert( "El " + quienElije + " eligió 📄" )
+      } else if ( eleccion == 3 ) {
+          alert( "El " + quienElije + " eligió ✂️" )
+      } else {
+          alert( "Hubo un error con la elección del " + quienElije + " 🙃" )
+      }
+  }
+  ```
+
+  ### Decidiendo el ganador con una función
+
+  En estos momentos puede que no veas la necesidad de convertir esto en una función. Pero piensa por un momento que quieres convertir este juego en algo serio, que en el futuro podrías implementar un modo para dos jugadores, o una versión en línea.
+
+  En ese sentido, te conviene convertir la decisión del ganador en una función que puedas ejecutar para cualquiera de los modos de juego que implementes.
+
+  💡 Si no es por eso, al menos hazlo a modo de práctica 😅 Intenta hacerlo por tu cuenta, luego compara con la solución de abajo 👍
+
+  ```jsx
+  //FUNCIÓN PARA DECIDIR EL GANADOR
+  function quienGanaEntre ( eleccionJugador , eleccionOponente ) {
+      if ( eleccionJugador == eleccionOponente ) {
+          alert( "¡EMPATE! 🤼" );
+      } else if ( eleccionJugador == 1 && eleccionOponente == 3 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else if ( eleccionJugador == 2 && eleccionOponente == 1 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else if ( eleccionJugador == 3 && eleccionOponente == 2 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else {
+          alert( "PERDISTE... 😢" );
+      }
+  }
+  ```
+
+  ### Juego de piedra, papel o tijeras con funciones
+
+  Recuerda que, por lo general, hay varias soluciones al mismo problema. Lo que ves abajo es solo una forma de crear este pequeño videojuego.
+
+  No te preocupes si tu código aún no se ve así. Lo más importante es que lo intentes por ti mismo y llegues al resultado. Luego el tiempo y la experiencia te ayudarán a escribir código más presentable, o más optimizado 👍
+
+  ```jsx
+  //FUNCIÓN PARA LAS ALERTAS
+  function alertaDeElecciones( quienElije , eleccion ) {
+      if ( eleccion == 1 ) {
+          alert( "El " + quienElije + " eligió 🥌" );
+      } else if ( eleccion == 2 ) {
+          alert( "El " + quienElije + " eligió 📄" );
+      } else if ( eleccion == 3 ) {
+          alert( "El " + quienElije + " eligió ✂️" );
+      } else {
+          alert( "Hubo un error con la elección del " + quienElije + " 🙃" );
+      }
+  }
+
+  //FUNCIÓN PARA GENERAR NÚMEROS ALEATORIOS
+  function numeroAleatorio( min , max ) {
+      return Math.floor( Math.random() * ( max - min + 1 ) + min );
+  }
+
+  //FUNCIÓN PARA DECIDIR EL GANADOR
+  function quienGanaEntre ( eleccionJugador , eleccionOponente ) {
+      if ( eleccionJugador == eleccionOponente ) {
+          alert( "¡EMPATE! 🤼" );
+      } else if ( eleccionJugador == 1 && eleccionOponente == 3 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else if ( eleccionJugador == 2 && eleccionOponente == 1 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else if ( eleccionJugador == 3 && eleccionOponente == 2 ) {
+          alert( "¡GANASTE! 🥳" );
+      } else {
+          alert( "PERDISTE... 😢" );
+      }
+  }
+
+  //ELECCIÓN DEL JUGADOR
+  let eleccionDelJugador = 0;
+  eleccionDelJugador = prompt( "Elige: 1 para 🥌, 2 para 📄, 3 para ✂️" );
+  alertaDeElecciones( "jugador" , eleccionDelJugador );
+
+  //ELECCIÓN DEL COMPUTADOR
+  let eleccionDelComputador = numeroAleatorio( 1 , 3 );
+  alertaDeElecciones( "computador" , eleccionDelComputador );
+
+  //DECIDIENDO EL GANADOR
+  quienGanaEntre ( eleccionDelJugador , eleccionDelComputador );
+  ```
+
 </details>
 
 <details>
   <summary>12/84 - Ciclos y Condiciones en Programación: Piedra, Papel o Tijera</summary>
   <br/>
+
+  Al igual que ir a la escuela, en programación hay operaciones que se repiten mientras se cumpla alguna condición (por ejemplo: ir a la escuela solo de lunes a viernes). Así que quédate si quieres aprender cómo funcionan 😉
+
+  ## **¿Cómo funcionan los ciclos?**
+
+  Hay varias formas de generar ciclos en programación. Pero todos siguen la misma lógica:
+
+  1. Primero fijas las condiciones. Por ejemplo: “Mientras no sea sábado, domingo ni feriado”.
+  2. Luego indicas lo que sucederá cuando las condiciones se cumplan (operaciones, funciones a ejecutar, entre otros). Por ejemplo: “Voy a la escuela”.
+  3. Finalmente, indicas lo que sucederá cuando las condiciones dejen de cumplirse (operaciones, funciones a ejecutar, entre otros). Por ejemplo: “Me quedo en casa”.
+
+  ![Forma estandar de ejecutar ciclos](https://static.platzi.com/media/articlases/Images/12-1%20-%20Forma%20estandar%20de%20ejecutar%20ciclos.jpg)
+
+  ## **¿Por qué usar ciclos?**
+
+  En programación, en ocasiones te toparás con código que tienes que repetir varias veces para lograr el efecto deseado. Quizás puedas usar funciones para resumirlos, pero ellas no resuelven el problema cuando te ves obligado a ejecutarla una y otra vez.
+
+  En estos casos, lo mejor es programar un ciclo. De este modo, el ciclo repetirá un fragmento de código tantas veces como sea necesario hasta que deje de cumplirse la condición que indicaste.
+
+  💡 Ojo, es importante que en el código escribas un modo de que el ciclo termine. Generalmente se hace aplicando en cada repetición una pequeña modificación a la variable donde se observa la condición.
+
+  Por ejemplo, en el ciclo de ir a la escuela que vimos arriba, cada vez que evaluamos la condición va a pasar un día. De ese modo, tarde o temprano llegaríamos al fin de semana o a un día feriado, y no sería necesario ir a la escuela.
+
+  Tu computadora no se va a quemar si por error escribes un ciclo infinito. Pero tu programa fallará cuando lo ejecute.
+
+  ---
+
+  Ahora, usaremos esta información para modificar el código del [**juego de piedra, papel o tijera**](https://platzi.com/clases/3208-programacion-basica/51984-algoritmo-de-piedra-papel-o-tijera/) que creamos previamente. Vamos a crear un ciclo que nos permita hacer tres partidas seguidas, que guarde el número de victorias, y al final nos diga quien obtuvo más victorias.
+
+  Haz click [**aquí**](https://platzi.com/clases/3208-programacion-basica/51989-gana-3-veces/) cuando estés listo para hacer la modificación 😉
+
 </details>
 
 <details>
