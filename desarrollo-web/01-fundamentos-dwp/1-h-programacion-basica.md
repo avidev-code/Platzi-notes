@@ -429,196 +429,196 @@
 
     El lenguaje de marcas de hipertexto (HTML) se caracteriza porque su estructura es como la de un árbol 🙂 ¿Te animas a aprender cómo funciona? 😉
 
-    Imagina que cada etiqueta es una rama, y que el contenido son hojas. Por lo tanto, algunas etiquetas nacerán dentro de otras etiquetas, y podrías encontrar contenido en alguna de las etiquetas más pequeñas 😉 Ahora, explorémoslas en orden para que entiendas a qué me refiero.
+  Imagina que cada etiqueta es una rama, y que el contenido son hojas. Por lo tanto, algunas etiquetas nacerán dentro de otras etiquetas, y podrías encontrar contenido en alguna de las etiquetas más pequeñas 😉 Ahora, explorémoslas en orden para que entiendas a qué me refiero.
 
-    ## **La regla: `<!DOCTYPE html>`**
+  ## **La regla: `<!DOCTYPE html>`**
 
-    Primero, cada archivo HTML empieza con una etiqueta que se cierra sola. Esto es una convención y no modifica el contenido del sitio, pero es importante que empieces con ella.
+  Primero, cada archivo HTML empieza con una etiqueta que se cierra sola. Esto es una convención y no modifica el contenido del sitio, pero es importante que empieces con ella.
 
-    ```html
-    <!DOCTYPE html>
-    ```
+  ```html
+  <!DOCTYPE html>
+  ```
 
-    ## **El árbol: `<html>`**
+  ## **El árbol: `<html>`**
 
-    Debajo encontrarás el tronco del árbol: la etiqueta `<html>`. Todo el contenido del sitio va dentro de esta etiqueta, y está viene con un atributo que indica el idioma en que está escrito el sitio web.
+  Debajo encontrarás el tronco del árbol: la etiqueta `<html>`. Todo el contenido del sitio va dentro de esta etiqueta, y está viene con un atributo que indica el idioma en que está escrito el sitio web.
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
 
-    </html>
-    ```
+  </html>
 
-    Después, el árbol se abre hacia dos secciones principales: la primera es `<head>`, dónde encontrarás la metadata del sitio web. Esta sección te ayudará a decirle al navegador cómo va a mostrar tu sitio web, y también te permite darle información a buscadores como google para que sepan cómo mostrar tu sitio.
+  ```
 
-    Y la segunda rama principal es `<body>`, donde introducirás el contenido que los usuarios van a ver cuando visiten tu sitio web.
+  Después, el árbol se abre hacia dos secciones principales: la primera es `<head>`, dónde encontrarás la metadata del sitio web. Esta sección te ayudará a decirle al navegador cómo va a mostrar tu sitio web, y también te permite darle información a buscadores como google para que sepan cómo mostrar tu sitio.
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
-        <head>
+  Y la segunda rama principal es `<body>`, donde introducirás el contenido que los usuarios van a ver cuando visiten tu sitio web.
 
-        </head>
-        <body>
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
 
-        </body>
-    </html>
-    ```
+      </head>
+      <body>
 
-    ## **Las raíces: `<head>`**
+      </body>
+  </html>
+  ```
 
-    La etiqueta `<head>` se parece mucho a las raíces de un árbol: el usuario no puede verlas, pero son fundamentales para que el sitio web funcione.
+  ## **Las raíces: `<head>`**
 
-    Suele contener muchas etiquetas `<meta>` que revelan información sobre el sitio web al navegador y a buscadores como Google.
+  La etiqueta `<head>` se parece mucho a las raíces de un árbol: el usuario no puede verlas, pero son fundamentales para que el sitio web funcione.
 
-    También incluye la etiqueta `<title>` que tiene el título del sitio web (que aparece en la pestaña del navegador), y al menos una etiqueta <link> que carga la hoja de estilos de tu sitio web (el archivo “.css”; esto es lo que organiza los elementos de tu sitio web y les da forma y color).
+  Suele contener muchas etiquetas `<meta>` que revelan información sobre el sitio web al navegador y a buscadores como Google.
 
-    Aquí abajo te dejo un ejemplo muy común de lo que puedes encontrar en un `<head>`.
+  También incluye la etiqueta `<title>` que tiene el título del sitio web (que aparece en la pestaña del navegador), y al menos una etiqueta <link> que carga la hoja de estilos de tu sitio web (el archivo “.css”; esto es lo que organiza los elementos de tu sitio web y les da forma y color).
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
-        <head>
-            <meta/>
-            <meta/>
-            <meta/>
-            <title></title>
-            <meta/>
-            <link/>
-        </head>
-        <body>
+  Aquí abajo te dejo un ejemplo muy común de lo que puedes encontrar en un `<head>`.
 
-        </body>
-    </html>
-    ```
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
+          <meta/>
+          <meta/>
+          <meta/>
+          <title></title>
+          <meta/>
+          <link/>
+      </head>
+      <body>
 
-    ## **Las ramas, hojas y flores: `<body>`**
+      </body>
+  </html>
+  ```
 
-    Mientras tanto, la etiqueta `<body>` contiene todo lo que el usuario puede ver en el sitio web, y también aquello con lo que puede interactuar. Esta puede ser tan compleja y diversa como las ramas de un arbol.
+  ## **Las ramas, hojas y flores: `<body>`**
+  Mientras tanto, la etiqueta `<body>` contiene todo lo que el usuario puede ver en el sitio web, y también aquello con lo que puede interactuar. Esta puede ser tan compleja y diversa como las ramas de un arbol.
 
-    Si has visitado un sitio web antes, seguro habrás notado que está construido en diferentes secciones, y las más comunes son `<header>`, `<main>`, `<aside>` y `<footer>`.
+  Si has visitado un sitio web antes, seguro habrás notado que está construido en diferentes secciones, y las más comunes son `<header>`, `<main>`, `<aside>` y `<footer>`.
 
-    ![Estructura común de un sitio web](https://static.platzi.com/media/articlases/Images/Clase%204%20-%202.png)
+  ![Estructura común de un sitio web](https://static.platzi.com/media/articlases/Images/Clase%204%20-%202.png)
 
-    ### La etiqueta `<script>`
+  ### La etiqueta `<script>`
 
-    Además de esos 4, se acostumbra agregar una etiqueta `<script>` al final de `<body>`. Esta es la que tiene todo el código en JavaScript que introduces en tu sitio web para que haga cosas divertidas 😉
+  Además de esos 4, se acostumbra agregar una etiqueta `<script>` al final de `<body>`. Esta es la que tiene todo el código en JavaScript que introduces en tu sitio web para que haga cosas divertidas 😉
 
-    Probablemente pensaste que esta etiqueta se coloca en `<head>` debido a que su contenido no se muestra al usuario. Y estás en lo cierto 🙂 En realidad funciona por igual tanto en `<head>` como en `<body>`. Pero, antes de decidir dónde colocarla, quiero que pienses en esto:
+  Probablemente pensaste que esta etiqueta se coloca en `<head>` debido a que su contenido no se muestra al usuario. Y estás en lo cierto 🙂 En realidad funciona por igual tanto en `<head>` como en `<body>`. Pero, antes de decidir dónde colocarla, quiero que pienses en esto:
 
-    ¿Recuerdas que **los archivos HTML cargan progresivamente de arriba a abajo**? Pues, por lo general, el usuario no interactúa con el sitio web hasta que este termina de cargar. Así que dejar `<script>` al final de `<body>` permite que tu sitio web cargue todo el aspecto visual antes de cargar su programa 😉
+  ¿Recuerdas que **los archivos HTML cargan progresivamente de arriba a abajo**? Pues, por lo general, el usuario no interactúa con el sitio web hasta que este termina de cargar. Así que dejar `<script>` al final de `<body>` permite que tu sitio web cargue todo el aspecto visual antes de cargar su programa 😉
 
-    Al final queda de tu parte (o de tu equipo de trabajo) decidir dónde colocar `<script>`. Pero es una práctica común dejarlo al final de `<body>` para que el sitio web se muestre más rápido al usuario 🙂
+  Al final queda de tu parte (o de tu equipo de trabajo) decidir dónde colocar `<script>`. Pero es una práctica común dejarlo al final de `<body>` para que el sitio web se muestre más rápido al usuario 🙂
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
-        <head>
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
 
-        </head>
-        <body>
-            <header>
+      </head>
+      <body>
+          <header>
 
-            </header>
-            <main>
+          </header>
+          <main>
 
-            </main>
-            <footer>
+          </main>
+          <footer>
 
-            </footer>
-            <script></script>
-        </body>
-    </html>
-    ```
+          </footer>
+          <script></script>
+      </body>
+  </html>
+  ```
 
-    ### HTML semántico
+  ### HTML semántico
 
-    En este punto, ya puedes introducir etiquetas comunes de escritura como `<p>` o `<ol>`. Sin embargo, existen otras etiquetas que suelen usarse dentro de `<body>` para ordenar aún más la información, lo que beneficia a la accesibilidad, al posicionamiento de tu sitio web en buscadores, y en ocasiones también a la aplicación de estilos.
+  En este punto, ya puedes introducir etiquetas comunes de escritura como `<p>` o `<ol>`. Sin embargo, existen otras etiquetas que suelen usarse dentro de `<body>` para ordenar aún más la información, lo que beneficia a la accesibilidad, al posicionamiento de tu sitio web en buscadores, y en ocasiones también a la aplicación de estilos.
 
-    Algunas etiquetas comunes de este estilo son:
+  Algunas etiquetas comunes de este estilo son:
 
-    | **Etiqueta** | **Uso** |
-    | --- | --- |
-    | `<nav>` | Se usa para identificar el panel de navegación del sitio, dónde están los links al resto del contenido de tu sitio web. |
-    | `<section>` | Se usa para separar un elemento html en secciones, cada una con un propósito. |
-    | `<article>` | Se usa para identificar artículos individuales dentro de un sitio web. Se usa mucho para identificar entradas de un blog. |
-    | `<figure>` | Se usa como un contenedor de imágenes, para manipular su tamaño con mayor facilidad en CSS, y para agregar un pie de foto. |
-    | `<div>` | Este es un comodín. Es un contenedor que puede tener lo que sea dentro. Pero no beneficia la accesibilidad o el posicionamiento en buscadores. |
+  | **Etiqueta** | **Uso** |
+  | --- | --- |
+  | `<nav>` | Se usa para identificar el panel de navegación del sitio, dónde están los links al resto del contenido de tu sitio web. |
+  | `<section>` | Se usa para separar un elemento html en secciones, cada una con un propósito. |
+  | `<article>` | Se usa para identificar artículos individuales dentro de un sitio web. Se usa mucho para identificar entradas de un blog. |
+  | `<figure>` | Se usa como un contenedor de imágenes, para manipular su tamaño con mayor facilidad en CSS, y para agregar un pie de foto. |
+  | `<div>` | Este es un comodín. Es un contenedor que puede tener lo que sea dentro. Pero no beneficia la accesibilidad o el posicionamiento en buscadores. |
 
-    Aquí abajo tienes un ejemplo de una estructura de HTML básica sin contenido. Verás que no es tan compleja luego de que conoces los elementos que la componen 😁
+  Aquí abajo tienes un ejemplo de una estructura de HTML básica sin contenido. Verás que no es tan compleja luego de que conoces los elementos que la componen 😁
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
-        <head>
-            <meta/>
-            <meta/>
-            <meta/>
-            <title>Batata Bit</title>
-            <meta/>
-            <link/>
-        </head>
-        <body>
-            <header>
-                <nav>
-                </nav>
-            </header>
-            <main>
-                <section>
-                    <article>
-                    </article>
-                </section>
-            </main>
-            <footer>
-                <figure>
-                    <img/>
-                </figure>
-            </footer>
-            <script></script>
-        </body>
-    </html>
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
+          <meta/>
+          <meta/>
+          <meta/>
+          <title>Batata Bit</title>
+          <meta/>
+          <link/>
+      </head>
+      <body>
+          <header>
+              <nav>
+              </nav>
+          </header>
+          <main>
+              <section>
+                  <article>
+                  </article>
+              </section>
+          </main>
+          <footer>
+              <figure>
+                  <img/>
+              </figure>
+          </footer>
+          <script></script>
+      </body>
+  </html>
 
-    ```
+  ```
 
-    Por cierto, abajo te dejé el mismo código, pero con atributos 😁 Como hay más texto, quizás pienses que es más “temible” cuando los tiene. Pero la realidad es que los atributos no cambian la estructura, solo agregan información 🙂
+  Por cierto, abajo te dejé el mismo código, pero con atributos 😁 Como hay más texto, quizás pienses que es más “temible” cuando los tiene. Pero la realidad es que los atributos no cambian la estructura, solo agregan información 🙂
 
-    Dale un vistazo para que te vayas acostumbrando a como se ven. Cuando empieces a usarlos te familiarizarás mucho más con ellos 😉
+  Dale un vistazo para que te vayas acostumbrando a como se ven. Cuando empieces a usarlos te familiarizarás mucho más con ellos 😉
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="es">
-        <head>
-            <meta charset="utf-8" />
-            <meta name="description" content="La próxima revolución en el intercambio de criptomonedas, Batatabit te ayuda a navegar entre los diferentes precios y tendencias" />
-            <meta name="robots" content="index, follow" />
-            <title>Batata Bit</title>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <link rel="stylesheet" href="./styles/mobile.css" />
-        </head>
-        <body>
-            <header class="header">
-                <nav>
-                </nav>
-            </header>
-            <main class="main">
-                <section class="added-value">
-                    <article class="added-value__cards--save-time">
-                    </article>
-                </section>
-            </main>
-            <footer>
-                <figure class="footer__logo">
-                    <img src="./assets/img/FooterLogo.svg" alt="El logo de batatabit" />
-                </figure>
-            </footer>
-            <script src="./src/index.js"></script>
-        </body>
-    </html>
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
+          <meta charset="utf-8" />
+          <meta name="description" content="La próxima revolución en el intercambio de criptomonedas, Batatabit te ayuda a navegar entre los diferentes precios y tendencias" />
+          <meta name="robots" content="index, follow" />
+          <title>Batata Bit</title>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <link rel="stylesheet" href="./styles/mobile.css" />
+      </head>
+      <body>
+          <header class="header">
+              <nav>
+              </nav>
+          </header>
+          <main class="main">
+              <section class="added-value">
+                  <article class="added-value__cards--save-time">
+                  </article>
+              </section>
+          </main>
+          <footer>
+              <figure class="footer__logo">
+                  <img src="./assets/img/FooterLogo.svg" alt="El logo de batatabit" />
+              </figure>
+          </footer>
+          <script src="./src/index.js"></script>
+      </body>
+  </html>
 
-    ```
+  ```
 
-    Experimenta un poco con las etiquetas que conociste el día de hoy, y luego continúa tu aprendizaje aprendiendo a instalar tu primer editor de código: [Visual Studio Code](https://platzi.com/clases/3208-programacion-basica/51982-visual-studio-code/).
+  Experimenta un poco con las etiquetas que conociste el día de hoy, y luego continúa tu aprendizaje aprendiendo a instalar tu primer editor de código: [Visual Studio Code](https://platzi.com/clases/3208-programacion-basica/51982-visual-studio-code/).
 
 </details>
 
