@@ -38,201 +38,389 @@
 
   Si nos regalas solo unos minutos, podemos enseñarte a escribir tus primeras líneas de código 💚 Solo necesitas un navegador de Internet y la voluntad para intentarlo 😉 .
 
-## **Abriendo la consola del navegador**
+  ## **Abriendo la consola del navegador**
 
-Primero necesitamos un espacio dónde escribir código. Así que ve a tu navegador favorito (Google chrome, Edge, Firefox, Opera, o el que prefieras) y dirígete a la barra de direcciones (ese lugar donde escribes “`Platzi.com`”).
+  Primero necesitamos un espacio dónde escribir código. Así que ve a tu navegador favorito (Google chrome, Edge, Firefox, Opera, o el que prefieras) y dirígete a la barra de direcciones (ese lugar donde escribes “`Platzi.com`”).
 
-Ahí, vas a escribir “**about:blank**” (sin las comillas). Eso hará que la pestaña donde lo escribiste quede vacía. Debería quedar un espacio totalmente blanco. Una vez ahí, vas a hacer **clic derecho** en el espacio en blanco y luego vas a hacer clic en un botón que diga “**inspeccionar**” (algunos navegadores lo llaman “inspect element”).
+  Ahí, vas a escribir “**about:blank**” (sin las comillas). Eso hará que la pestaña donde lo escribiste quede vacía. Debería quedar un espacio totalmente blanco. Una vez ahí, vas a hacer **clic derecho** en el espacio en blanco y luego vas a hacer clic en un botón que diga “**inspeccionar**” (algunos navegadores lo llaman “inspect element”).
 
-Eso abrirá el **inspector de elementos**, un menú donde puedes ver la composición del sitio web dónde estás parado (muchos se espantan cuando lo abren por accidente dentro de un sitio web 😆 Más tarde puedes hacerlo por prueba si quieres 👍).
+  Eso abrirá el **inspector de elementos**, un menú donde puedes ver la composición del sitio web dónde estás parado (muchos se espantan cuando lo abren por accidente dentro de un sitio web 😆 Más tarde puedes hacerlo por prueba si quieres 👍).
 
-El inspector se abre por defecto en una pestaña llamada “elementos” en la parte superior. Lo que estamos buscando está justo al lado: una pestaña llamada “**consola”.**
+  El inspector se abre por defecto en una pestaña llamada “elementos” en la parte superior. Lo que estamos buscando está justo al lado: una pestaña llamada “**consola”.**
 
-Ahí es dónde empezarás a programar 😉
+  Ahí es dónde empezarás a programar 😉
 
-![Captura de pantalla que muestra cómo llegar a la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%201.png)
+  ![Captura de pantalla que muestra cómo llegar a la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%201.png)
 
-## **Tus primeras líneas de código**
+  ## **Tus primeras líneas de código**
 
-Haz clic en la consola y escribe lo mismo que te indico aquí abajo. **Recuerda pulsar [enter] luego de escribir cada línea para ver el resultado** 🙂
+  Haz clic en la consola y escribe lo mismo que te indico aquí abajo. **Recuerda pulsar [enter] luego de escribir cada línea para ver el resultado** 🙂
 
-```jsx
-1 + 1   //[enter]
+  ```jsx
+  1 + 1   //[enter]
 
-9 - 5   //[enter]
+  9 - 5   //[enter]
 
-12 * 4  //[enter]
+  12 * 4  //[enter]
 
-30 / 5  //[enter]
+  30 / 5  //[enter]
 
-```
+  ```
 
-![Captura de pantalla de cómo se ven estos cálculos en la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%202.png)
+  ![Captura de pantalla de cómo se ven estos cálculos en la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%202.png)
 
-Seguro ya notaste que puedes usar la consola como una especie de calculadora. Realiza algunos experimentos antes de continuar 😉
+  Seguro ya notaste que puedes usar la consola como una especie de calculadora. Realiza algunos experimentos antes de continuar 😉
 
-## **Variables**
+  ## **Variables**
 
-Ahora, ¿qué tal si probamos algo diferente? Ingresa el siguiente código en la consola:
+  Ahora, ¿qué tal si probamos algo diferente? Ingresa el siguiente código en la consola:
 
-```jsx
-a = 1       //[enter]
+  ```jsx
+  a = 1       //[enter]
 
-b = 2       //[enter]
+  b = 2       //[enter]
 
-c = a - b
-```
+  c = a - b
+  ```
 
-¿Qué crees que ocurrirá cuando pulses [enter] en ese último comando? ¡Así es! La consola sustituirá “a” y “b” por sus valores numéricos, y los usará para calcular el valor de “c” 😃
+  ¿Qué crees que ocurrirá cuando pulses [enter] en ese último comando? ¡Así es! La consola sustituirá “a” y “b” por sus valores numéricos, y los usará para calcular el valor de “c” 😃
 
-Esto ocurre porque, cuando la consola recibe el comando “a = 1”, tu computadora guarda en su memoria RAM que la letra “a” vale “1”.
+  Esto ocurre porque, cuando la consola recibe el comando “a = 1”, tu computadora guarda en su memoria RAM que la letra “a” vale “1”.
 
-A esto lo llamamos crear una **variable,** y ocurre siempre que empleas el signo igual (=). En este escenario, a, b y c se convirtieron en variables y puedes emplearlas para calcular cosas más interesantes 🙂 De hecho, no tienes que limitarte a letras. Puedes crear variables tan locas como:
+  A esto lo llamamos crear una **variable,** y ocurre siempre que empleas el signo igual (=). En este escenario, a, b y c se convirtieron en variables y puedes emplearlas para calcular cosas más interesantes 🙂 De hecho, no tienes que limitarte a letras. Puedes crear variables tan locas como:
 
-```jsx
-perros = 4
+  ```jsx
+  perros = 4
 
-gatos = 3
+  gatos = 3
 
-totalMascotas = perros + gatos
-```
+  totalMascotas = perros + gatos
+  ```
 
-Ojo, en la consola, una vez que declaras una variable, basta con escribirla de nuevo para conocer de nuevo su valor. Prueba escribiendo solamente “c” y pulsando [enter] 😉
+  Ojo, en la consola, una vez que declaras una variable, basta con escribirla de nuevo para conocer de nuevo su valor. Prueba escribiendo solamente “c” y pulsando [enter] 😉
 
-Adelante, experimenta un poco antes de seguir leyendo 😁
+  Adelante, experimenta un poco antes de seguir leyendo 😁
 
-## **Errores**
+  ## **Errores**
 
-Ahora, ¿crees que la consola solo sabe interpretar números? Probemos esta vez con algo de texto 🙂
+  Ahora, ¿crees que la consola solo sabe interpretar números? Probemos esta vez con algo de texto 🙂
 
-```jsx
-d = texto
-```
+  ```jsx
+  d = texto
+  ```
 
-Si pulsaste `[enter]` al escribir eso, probablemente la consola te arrojó un error 😅 Verás: la consola te permite darle instrucciones a tu computadora de forma directa. Pero si escribes algo que tu computadora no puede entender, entonces te va a arrojar un error.
+  Si pulsaste `[enter]` al escribir eso, probablemente la consola te arrojó un error 😅 Verás: la consola te permite darle instrucciones a tu computadora de forma directa. Pero si escribes algo que tu computadora no puede entender, entonces te va a arrojar un error.
 
-Este error que cometiste es un **error de sintaxis**, y ocurre cuando escribes algo que no sigue las reglas del lenguaje de programación que entiende tu computadora.
+  Este error que cometiste es un **error de sintaxis**, y ocurre cuando escribes algo que no sigue las reglas del lenguaje de programación que entiende tu computadora.
 
-En este caso, nos estamos comunicando con ella usando **JavaScript**. Y en JavaScript, el texto se escribe entre comillas (”).
+  En este caso, nos estamos comunicando con ella usando **JavaScript**. Y en JavaScript, el texto se escribe entre comillas (”).
 
-## **Strings**
+  ## **Strings**
 
-Tu computadora no puede entender texto sin ayuda de programas o extensiones. Pero si puede entender caracteres, como letras y símbolos, y **secuencias de caracteres**, como palabras o contraseñas.
+  Tu computadora no puede entender texto sin ayuda de programas o extensiones. Pero si puede entender caracteres, como letras y símbolos, y **secuencias de caracteres**, como palabras o contraseñas.
 
-A este tipo de datos se les conoce como **string**. Tu computadora los entiende del mismo modo que entiende a los números, y puedes hacer cosas con ellos como:
+  A este tipo de datos se les conoce como **string**. Tu computadora los entiende del mismo modo que entiende a los números, y puedes hacer cosas con ellos como:
 
-```jsx
-d = "Hola, "
+  ```jsx
+  d = "Hola, "
 
-e = " ¿cómo estás?"
+  e = " ¿cómo estás?"
 
-profesor = "Freddy"
+  profesor = "Freddy"
 
-f = d + profesor + e
+  f = d + profesor + e
 
-```
+  ```
 
-Realiza algunos experimentos antes de continuar.
+  Realiza algunos experimentos antes de continuar.
 
-## **Funciones**
+  ## **Funciones**
 
-Las funciones son una herramienta adicional a nuestra disposición. Estas nos permiten decirle a nuestra computadora: “cuando recibas esta señal, por favor haz esto.”
+  Las funciones son una herramienta adicional a nuestra disposición. Estas nos permiten decirle a nuestra computadora: “cuando recibas esta señal, por favor haz esto.”
 
-Por el momento no te explicaremos como crearlas. Pero si te enseñaremos a usarlas 😉
+  Por el momento no te explicaremos como crearlas. Pero si te enseñaremos a usarlas 😉
 
-El navegador tiene algunas funciones por defecto. Una de ellas se llama “alert()”. Para usarla prueba escribiendo este comando en la consola:
+  El navegador tiene algunas funciones por defecto. Una de ellas se llama “alert()”. Para usarla prueba escribiendo este comando en la consola:
 
-```jsx
-alert("¡Estoy programando!")
-```
+  ```jsx
+  alert("¡Estoy programando!")
+  ```
 
-En ese ejemplo, lo que hiciste fue ejecutar la función. Eso se hace escribiendo el nombre de la función (”alert”) seguido por paréntesis con una señal dentro. Esta señal se llama **parámetro.**
+  En ese ejemplo, lo que hiciste fue ejecutar la función. Eso se hace escribiendo el nombre de la función (”alert”) seguido por paréntesis con una señal dentro. Esta señal se llama **parámetro.**
 
-Ojo, esos parámetros generalmente modifican el resultado cuando ejecutas una función. Tú decides cómo funciona cuando las creas, pero algunas funciones usan muchos parámetros, y pueden trabajar sin ningún parámetro.
+  Ojo, esos parámetros generalmente modifican el resultado cuando ejecutas una función. Tú decides cómo funciona cuando las creas, pero algunas funciones usan muchos parámetros, y pueden trabajar sin ningún parámetro.
 
-Por ejemplo, prueba con:
+  Por ejemplo, prueba con:
 
-```jsx
-alert()
+  ```jsx
+  alert()
 
-```
+  ```
 
-Fíjate en que, **a pesar de no tener parámetros, igual tuvimos que usar los paréntesis**. Esto es importante. Si no usas los paréntesis, la computadora no entiende que quieres ejecutar una función. En cambio, se confunde y piensa que le estás hablando de una variable 😅
+  Fíjate en que, **a pesar de no tener parámetros, igual tuvimos que usar los paréntesis**. Esto es importante. Si no usas los paréntesis, la computadora no entiende que quieres ejecutar una función. En cambio, se confunde y piensa que le estás hablando de una variable 😅
 
-## **¿Cómo funciona la programación?**
+  ## **¿Cómo funciona la programación?**
 
-La consola del navegador es un espacio que nos permite comunicarnos directamente con nuestro computador a través de JavaScript. Cuando creas variables, tu computador guarda la información en la memoria RAM *(Random Access Memory)* dónde la guarda para que accedas a ella siempre que lo necesitas, y la borra al apagar la computadora.
+  La consola del navegador es un espacio que nos permite comunicarnos directamente con nuestro computador a través de JavaScript. Cuando creas variables, tu computador guarda la información en la memoria RAM *(Random Access Memory)* dónde la guarda para que accedas a ella siempre que lo necesitas, y la borra al apagar la computadora.
 
-Todo esto de variables, funciones, strings y demás es lo que está detrás de los sitios web, apps para teléfonos, videojuegos, y todo tipo de software 🙂
+  Todo esto de variables, funciones, strings y demás es lo que está detrás de los sitios web, apps para teléfonos, videojuegos, y todo tipo de software 🙂
 
-Felicidades por escribir tus primeras líneas de código 🤗 Realiza todos los experimentos que quieras, y nos vemos en la próxima clase para que aprendas a [crear tu primer sitio web](https://platzi.com/clases/3208-programacion-basica/51979-crea-tu-primer-sitio-web/) 😉
+  Felicidades por escribir tus primeras líneas de código 🤗 Realiza todos los experimentos que quieras, y nos vemos en la próxima clase para que aprendas a [crear tu primer sitio web](https://platzi.com/clases/3208-programacion-basica/51979-crea-tu-primer-sitio-web/) 😉
 
-## **Resumiendo la clase**
+  ## **Resumiendo la clase**
 
-Pero antes de irnos, te dejaré este pequeño resumen para que puedas revisarlo en el futuro:
+  Pero antes de irnos, te dejaré este pequeño resumen para que puedas revisarlo en el futuro:
 
-💡 Puedes entrar a la **consola** siguiendo los siguientes pasos:
+  💡 Puedes entrar a la **consola** siguiendo los siguientes pasos:
 
-1. Abre el navegador (Google Chrome, Edge, Firefox, Opera, o el que prefieras).
-2. Escribe “**about:blank**” en la barra de direcciones.
-3. Haz clic derecho en el espacio en blanco, y selecciona “**inspeccionar**” (algunos navegadores lo muestran como “inspect element”). Eso abre el **inspector de elementos**.
-4. dentro del inspector de elementos, dirígete a una pestaña llamada “**consola**”.
+  1. Abre el navegador (Google Chrome, Edge, Firefox, Opera, o el que prefieras).
+  2. Escribe “**about:blank**” en la barra de direcciones.
+  3. Haz clic derecho en el espacio en blanco, y selecciona “**inspeccionar**” (algunos navegadores lo muestran como “inspect element”). Eso abre el **inspector de elementos**.
+  4. dentro del inspector de elementos, dirígete a una pestaña llamada “**consola**”.
 
-💡 La consola del navegador te permite comunicarte directamente con tu computador a través de un lenguaje de programación llamado **JavaScript.**
+  💡 La consola del navegador te permite comunicarte directamente con tu computador a través de un lenguaje de programación llamado **JavaScript.**
 
-En su forma más básica, puedes utilizarlo para realizar operaciones matemáticas.
+  En su forma más básica, puedes utilizarlo para realizar operaciones matemáticas.
 
-💡 Las **variables** permite almacenar valores para usarlos luego en operaciones variadas y más complejas, sin necesidad de repetirlos una y otra vez.
+  💡 Las **variables** permite almacenar valores para usarlos luego en operaciones variadas y más complejas, sin necesidad de repetirlos una y otra vez.
 
-Más adelante aprenderás sus reglas de uso. Pero, por los momentos, puedes crearlas en la consola usando este formato:
+  Más adelante aprenderás sus reglas de uso. Pero, por los momentos, puedes crearlas en la consola usando este formato:
 
-```jsx
-[variable] = [valor]
-```
+  ```jsx
+  [variable] = [valor]
+  ```
 
-Por ejemplo:
+  Por ejemplo:
 
-```jsx
-a = 1
-```
+  ```jsx
+  a = 1
+  ```
 
-💡 Las variables también pueden almacenar texto. Este tipo de datos se llaman **strings**, y puedes emplearlos siempre y cuando encierres el texto entre comillas.
+  💡 Las variables también pueden almacenar texto. Este tipo de datos se llaman **strings**, y puedes emplearlos siempre y cuando encierres el texto entre comillas.
 
-Por ejemplo:
+  Por ejemplo:
 
-```jsx
-profesor = “Freddy”
-```
+  ```jsx
+  profesor = “Freddy”
+  ```
 
-💡 Las **funciones** nos permiten indicarle a la computadora que ejecute una serie de pasos cuando se le dé la señal. En esta clase no aprendimos a crearlas, pero si a utilizarlas usando la función “alert()” que viene por defecto con el navegador.
+  💡 Las **funciones** nos permiten indicarle a la computadora que ejecute una serie de pasos cuando se le dé la señal. En esta clase no aprendimos a crearlas, pero si a utilizarlas usando la función “alert()” que viene por defecto con el navegador.
 
-Para usarla, solo tienes que escribir:
+  Para usarla, solo tienes que escribir:
 
-```jsx
-alert(”mensaje”)
-```
+  ```jsx
+  alert(”mensaje”)
+  ```
 
-Esto funciona aunque el “mensaje esté en blanco. Pero es importante que escribas los paréntesis, o la función no se ejecutará.
+  Esto funciona aunque el “mensaje esté en blanco. Pero es importante que escribas los paréntesis, o la función no se ejecutará.
 
-<aside>
-💡
+  <aside>
 
-💡 Los lenguajes de programación tienen reglas de escrituras. Si te equivocas, la computadora no entenderá lo que dices y te avisará mostrándote un error.
+  💡 _Los lenguajes de programación tienen reglas de escrituras. Si te equivocas, la computadora no entenderá lo que dices y te avisará mostrándote un error_.
 
-</aside>
+  </aside>
 
-Los errores que derivan de errores de escritura en el código se llaman **errores de sintaxis** y son bastante comunes, en especial cuando estás aprendiendo a programar.
-
+  Los errores que derivan de errores de escritura en el código se llaman **errores de sintaxis** y son bastante comunes, en especial cuando estás aprendiendo a programar.
 </details>
+
 
 <details>
   <summary>03/84 - Crear tu primer sitio web</summary>
   <br/>
+  Un **sitio web** funciona correctamente gracias a la participación de diversos tipos de archivos. Por lo tanto, antes de empezar a crear nuestro primer sitio web debemos repasar un concepto fundamental relacionado con **la estructura de los archivos**.
+
+  Aunque en esta clase generaremos un solo archivo para lanzar nuestro primer sitio web, a lo largo del curso necesitarás crear otros tipos de archivos para su correcto funcionamiento.
+
+  ## **Estructura de un archivo**
+
+  Se trata de uno de los conceptos más fáciles de asimilar en el universo de los sistemas operativos. Nada más debes recordar alguno de tantos archivos que has creado desde que usas un computador.
+
+  Es muy probable que hayas pensado que *carta.docx* o *dibujo.jpg* eran, simplemente, nombres de archivos. Resulta que en esa descripción observamos **la estructura de un archivo**.
+
+  ### Nombre
+
+  Debes tener claro que *nombre* es, apenas, una parte de la estructura de un archivo.
+
+  Los nombres son personalizados y descriptivos. Solo **en algunos casos deberás asignar nombres predefinidos** para que sean leídos automáticamente, como, por ejemplo, cuando produces un sitio web. La página principal, por defecto, debe llamarse *index.html*.
+
+  > Al asignar nombres a los archivos, debemos tener en cuenta una recomendación imprescindible como hispanohablantes: no utilizar caracteres especiales como tildes, comas o la eñe. Tampoco se deben emplear símbolos como &, $, %, !, o ". Por ejemplo, si debes crear una presentación en slides para una fecha especial, es mejor que definas el nombre de la siguiente manera: diaDelNino.pptx
+  > 
+
+  Tal como puedes darte cuenta en el ejemplo anterior, no uso ni tilde ni la eñe. Además, también debiste haber notado que no he dejado ningún espacio en el medio. En cambio, he utilizado letras mayúsculas.
+
+  ### Punto (.)
+
+  Por más diminuto que nos parezca, **el punto es un elemento importante dentro de la estructura de un archivo**.
+
+  Este carácter **está presente en las estructuras de archivos de todos los sistemas operativos**. Tanto en Windows como en Mac, Linux, incluso, en Android se usa el punto después del nombre y antes de la extensión.
+
+  ### Extensión
+
+  La extensión de un archivo es el componente que nos permite distinguirlo antes de ejecutarlo. Por ejemplo, si la extensión es *pdf* o *mp4*, sabemos que el primero es un documento y que el segundo es un video. Gracias a la **extensión** conocemos anticipadamente qué aplicación ejecutará el archivo.
+
+  Para el propósito del presente curso, tendremos en cuenta que un navegador como Chrome lee, entre otros archivos, aquellos cuya extensión es *html*. Por esta razón, el primer archivo que crearemos para lanzar un sitio web será uno que termine en *.html*. Pero, antes de todo, es necesario conocer acerca de esta tecnología.
+
+  ## **¿Qué es HTML?**
+
+  HTML es un lenguaje de marcado o de **etiquetas**. Gracias a las etiquetas escritas dentro del archivo .html, puedes ver esta página tal y como está. Las etiquetas html son, algo así, como instrucciones que el navegador debe decodificar. Viene del inglés *HyperText Markup Language*.
+
+  Las traducciones al español tienen leves variaciones. Algunos le llaman “*lenguaje de etiquetas*” o “*marcas de hipertexto*”. Otros, simplemente, “*lenguaje de marcado*”. Un archivo con extensión *HTML* contiene texto plano. **HTML no es un archivo de texto enriquecido** como los que producimos en editores como Microsoft Word. Al crear un archivo HTML no podemos formatear su texto con subrayado o con **negrita** o con diferentes colores.
+
+  En este punto ya te habrás preguntado, ¿por qué veo este texto en negrita y en cursiva en el navegador que solo lee archivos HTML, los cuales son archivos de texto plano?. No te preocupes que no se trata de un engaño, es una buena pregunta.
+
+  La versión actual de HTML incorpora más de un centenar de etiquetas. En este curso utilizaremos algunas de las que más se implementan en un sitio web.
+
+  ## **Configurando mi sistema operativo en modo profesional**
+
+  Ahora que ya sabemos lo importante que son las **extensiones**, estas deben estar siempre visibles en nuestro sistema operativo. Además, en el entorno de la programación, **es una buena práctica tener a la vista las extensiones de los archivos que están en nuestro computador**.
+
+  Por eso vamos a proceder a realizar la primera actividad de esta clase: **activar la función de *Mostrar las extensiones de los archivos*** en tu sistema operativo. Esta es una tarea muy sencilla, aunque varía de acuerdo a la versión de tu sistema operativo. Pero si trabajas en una versión reciente, el proceso es, aún, más sencillo.
+
+  ## **Actividad de la clase**
+
+  Después de que hayas realizado la tarea del paso anterior, realiza lo siguiente:
+
+  1. Crea la carpeta *programar* en el escritorio o en la unidad de tu preferencia y ábrela.
+  2. Haz clic secundario, selecciona *Nuevo*, luego *Documento de texto*. Borra todo el texto que te aparece por defecto, es decir el nombre del archivo, el punto y la extensión. Escribe pagina.html (recuerda que no se deben usar tildes).
+  3. Haz clic secundario sobre el archivo pagina.html, luego en *Abrir con* y selecciona *Bloc de notas*. No debes abrir el archivo haciendo doble clic. Eso lo haremos después. Al hacer doble clic principal, seguramente el archivo lo abra el navegador predeterminado en tu sistema operativo que puede ser Chrome, Edge o Mozilla. En cualquiera de estos solo verás una página en blanco, puesto que todavía no has ingresado contenido al archivo pagina.html.
+  4. Después de abrir el archivo en el *Bloc de notas*, escribe las siguientes líneas de código:
+
+  ```html
+  <h1>Mi primer sitio web</h1>
+  Hola <strong>querida</strong> clase
+  ```
+
+  En este ejemplo observa atentamente aquello que está entre los signos de menor que (<) y mayor que (>). Tanto los signos como lo que está dentro de ellos, conforman una etiqueta.
+
+  1. Ahora guarda los cambios, vuelve a la carpeta *programar* y abre el archivo pagina.html haciendo doble clic.
+
+  Así como estás viendo tu archivo, ya no en el *Bloc de notas*, sino en el navegador, es como puedes comprender poco a poco la manera en que funcionan las etiquetas html.
+
+  En el navegador no observas los signos de menor que y mayor que ni lo que está dentro de estos. Lo que sí ves es texto que tiene un mayor tamaño que otro. Esto se debe a que la etiqueta *h1* viene de Header o título o encabezado. El *1* se relaciona con la jerarquía del título. Si deseas ver subtítulos en tu sitio web, debes insertar la etiqueta *h2*. Ten en cuenta que html tiene hasta la etiqueta *h6*.
+
+  Continúa viendo la siguiente clase de este curso para que conozcas muchas más etiquetas html incluyendo las que debes insertar obligatoriamente en tu sitio web.
 </details>
+
 
 <details>
   <summary>04/84 - Sitios web con HTML</summary>
   <br/>
+
+  Seguro ya sabes que un sitio web es, en su forma más básica, un archivo HTML. Ahora, acompáñame a descubrir el funcionamiento de este lenguaje, y cómo puedes usarlo para empezar a crear sitios web 🙂.
+
+## **Fundamentos de HTML**
+
+El **lenguaje de marcas de hipertexto (HTML)** tiene reglas como cualquier otro lenguaje. Y no son tan complicadas cuando te tomas el tiempo para explorarlas poco a poco 😉
+
+### 1️⃣ En HTML la información se organiza con etiquetas
+
+Estas consisten en una palabra o una letra encerradas entre los símbolos “<” y “>”.
+
+Ej:
+
+```html
+<title>
+```
+
+### 2️⃣ Cada pieza contenida en tu sitio web la encierran etiquetas de apertura y de cierre
+
+Las etiquetas de cierre tienen un “/” antes de la palabra o letra que compone la etiqueta.
+
+Ej:
+
+```html
+<title>Este es el texto que aparece en la pestaña del navegador</title>
+
+```
+
+### 3️⃣ Las etiquetas se escriben sin espacios internos ni mayúsculas
+
+Un error de este estilo (de sintaxis) puede causar que el navegador no entienda la etiqueta.
+
+### 4️⃣ Existen algunas etiquetas que se cierran a sí mismas
+
+Estas generalmente **no tienen contenido**, así que empiezan y terminan con la etiqueta de apertura. Sin embargo, son muy útiles para introducir metadatos, organizar elementos de la página, o importar elementos de otras fuentes.
+
+[Solo hay 14 de estas etiquetas](https://www.tutorialstonight.com/self-closing-tags-in-html#:~:text=%3Carea%3E%20%2D%20HTML,for%20the%20browsers). Pero las más comunes son:
+
+| **Etiqueta** | **Uso** |
+| --- | --- |
+| `<br>` | Introduce un salto de línea en la página. |
+| `<img>` | Introduce imágenes a tu sitio web. |
+| `<input>` | Introduce elementos para que el usuario te de información (cómo botones, campos de texto, listas desplegables, entre otros). |
+| `<link>` | Se usa mucho para cargar hojas externas de estilos (archivos “.css”) para definir los estilos de tu sitio web. |
+| `<meta>` | Se usa para darle metadata a tu sitio web (para que el navegador y buscadores cómo google puedan trabajar mejor con él). |
+
+<aside>
+💡Ojo, hay una variante de HTML llamada XHTML que requiere que estas etiquetas terminen en “/>”. Por ese motivo, muchos developers acostumbran a terminar estas etiquetas de esa manera, incluso en el HTML común y corriente.
+
+</aside>
+
+Esto no es obligatorio en el HTML que tú estás aprendiendo ahora, pero es bueno que lo tengas en mente para cuando trabajes con otros developers 👍
+
+Ej:
+
+```html
+<meta charset=""utf-8"" />
+
+<img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
+```
+
+### 5️⃣ Hay etiquetas cuyo trabajo es contener otras etiquetas
+
+Cuando esto ocurre, se acostumbra usar la “indentación” de código para distinguir la jerarquía de las etiquetas.
+
+En palabras más simples: Solo tienes que pulsar la tecla “tab” en las etiquetas hijo para que estas se muevan un poquito hacia la derecha. Eso te ayudará a distinguir a los padres de los hijos con mayor facilidad.
+
+Ej:
+
+```html
+<picture class=""logo"">
+    <img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
+</picture>
+
+```
+
+### 6️⃣ Muchas etiquetas HTML utilizan **atributos**
+
+Estos son información adicional que se agrega en la etiqueta de apertura para personalizar sus propiedades y funcionalidad.
+
+Estos siguen el siguiente patrón:
+
+NombreDelAtributo=”ValorDelAtributo”
+
+Aprenderás más sobre los atributos poco a poco. Por ahora lo importante es que sepas que existen 👍
+
+Por cierto, en HTML, la combinación de etiquetas, atributos y contenido recibe el nombre de **elemento**.
+
+![Partes de un elemento HTML](https://static.platzi.com/media/articlases/Images/Clase%204%20-%201.png)
+
+### 7️⃣ Puedes encontrar una lista completa de las etiquetas HTML que puedes usar
+
+Con explicaciones y ejemplos de uso, en [este sitio web](https://htmlreference.io/).
+
+También puedes encontrarlas en referencias oficiales como las de [W3Schools](https://www.w3schools.com/tags/) o [Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+Las más comunes para escribir son:
+
+| **Etiqueta** | **Uso** |
+| --- | --- |
+| `<p>` | “Paragraph”, te permite introducir párrafos. |
+| `<a>` | “Anchor”, te permite introducir hipervínculos. |
+| `<b>` | “Bold”, te permite escribir en negritas. |
+| `<i>` | “Italics”, te permite escribir en cursiva. |
+| `<u>` | “Underline”, te permite escribir texto subrayado. |
+| `<ul>` | “Unordered list”, te permite crear una lista desordenada (con puntitos) |
+| `<ol>` | “Ordered list”, te permite introducir una lista ordenada (con números o letras). |
+| `<li>` | “List item”, se colocan dentro de un `<ul>` o un `<ol>`, y se convierten en los elementos de la lista. |
+| `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` | “Heading”, insertan títulos y subtítulos en tu sitio web. El número que acompaña a la “h” representa el nivel del título, dónde h1 tiene la mayor jerarquía. |
+
+### 8️⃣ Recuerda, **los archivos HTML cargan de arriba hacia abajo, un elemento tras otro**
+
+Esto significa que el orden en el que escribas el HTML sí importa. Esos son todos por ahora 😁 Recuerda experimentar un poco con las etiquetas que conociste el día de hoy 😉
+
+Para profundizar un poco más, no te pierdas de la siguiente clase: [Estructura de árbol en HTML](https://platzi.com/clases/3208-programacion-basica/51981-estructura-arbol-html/).
+
 </details>
 
 <details>
