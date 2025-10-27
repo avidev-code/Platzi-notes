@@ -71,6 +71,158 @@ Haz clic en la consola y escribe lo mismo que te indico aquí abajo. **Recuerda
 
 Seguro ya notaste que puedes usar la consola como una especie de calculadora. Realiza algunos experimentos antes de continuar 😉
 
+## **Variables**
+
+Ahora, ¿qué tal si probamos algo diferente? Ingresa el siguiente código en la consola:
+
+```jsx
+a = 1       //[enter]
+
+b = 2       //[enter]
+
+c = a - b
+```
+
+¿Qué crees que ocurrirá cuando pulses [enter] en ese último comando? ¡Así es! La consola sustituirá “a” y “b” por sus valores numéricos, y los usará para calcular el valor de “c” 😃
+
+Esto ocurre porque, cuando la consola recibe el comando “a = 1”, tu computadora guarda en su memoria RAM que la letra “a” vale “1”.
+
+A esto lo llamamos crear una **variable,** y ocurre siempre que empleas el signo igual (=). En este escenario, a, b y c se convirtieron en variables y puedes emplearlas para calcular cosas más interesantes 🙂 De hecho, no tienes que limitarte a letras. Puedes crear variables tan locas como:
+
+```jsx
+perros = 4
+
+gatos = 3
+
+totalMascotas = perros + gatos
+```
+
+Ojo, en la consola, una vez que declaras una variable, basta con escribirla de nuevo para conocer de nuevo su valor. Prueba escribiendo solamente “c” y pulsando [enter] 😉
+
+Adelante, experimenta un poco antes de seguir leyendo 😁
+
+## **Errores**
+
+Ahora, ¿crees que la consola solo sabe interpretar números? Probemos esta vez con algo de texto 🙂
+
+```jsx
+d = texto
+```
+
+Si pulsaste `[enter]` al escribir eso, probablemente la consola te arrojó un error 😅 Verás: la consola te permite darle instrucciones a tu computadora de forma directa. Pero si escribes algo que tu computadora no puede entender, entonces te va a arrojar un error.
+
+Este error que cometiste es un **error de sintaxis**, y ocurre cuando escribes algo que no sigue las reglas del lenguaje de programación que entiende tu computadora.
+
+En este caso, nos estamos comunicando con ella usando **JavaScript**. Y en JavaScript, el texto se escribe entre comillas (”).
+
+## **Strings**
+
+Tu computadora no puede entender texto sin ayuda de programas o extensiones. Pero si puede entender caracteres, como letras y símbolos, y **secuencias de caracteres**, como palabras o contraseñas.
+
+A este tipo de datos se les conoce como **string**. Tu computadora los entiende del mismo modo que entiende a los números, y puedes hacer cosas con ellos como:
+
+```jsx
+d = "Hola, "
+
+e = " ¿cómo estás?"
+
+profesor = "Freddy"
+
+f = d + profesor + e
+
+```
+
+Realiza algunos experimentos antes de continuar.
+
+## **Funciones**
+
+Las funciones son una herramienta adicional a nuestra disposición. Estas nos permiten decirle a nuestra computadora: “cuando recibas esta señal, por favor haz esto.”
+
+Por el momento no te explicaremos como crearlas. Pero si te enseñaremos a usarlas 😉
+
+El navegador tiene algunas funciones por defecto. Una de ellas se llama “alert()”. Para usarla prueba escribiendo este comando en la consola:
+
+```jsx
+alert("¡Estoy programando!")
+```
+
+En ese ejemplo, lo que hiciste fue ejecutar la función. Eso se hace escribiendo el nombre de la función (”alert”) seguido por paréntesis con una señal dentro. Esta señal se llama **parámetro.**
+
+Ojo, esos parámetros generalmente modifican el resultado cuando ejecutas una función. Tú decides cómo funciona cuando las creas, pero algunas funciones usan muchos parámetros, y pueden trabajar sin ningún parámetro.
+
+Por ejemplo, prueba con:
+
+```jsx
+alert()
+
+```
+
+Fíjate en que, **a pesar de no tener parámetros, igual tuvimos que usar los paréntesis**. Esto es importante. Si no usas los paréntesis, la computadora no entiende que quieres ejecutar una función. En cambio, se confunde y piensa que le estás hablando de una variable 😅
+
+## **¿Cómo funciona la programación?**
+
+La consola del navegador es un espacio que nos permite comunicarnos directamente con nuestro computador a través de JavaScript. Cuando creas variables, tu computador guarda la información en la memoria RAM *(Random Access Memory)* dónde la guarda para que accedas a ella siempre que lo necesitas, y la borra al apagar la computadora.
+
+Todo esto de variables, funciones, strings y demás es lo que está detrás de los sitios web, apps para teléfonos, videojuegos, y todo tipo de software 🙂
+
+Felicidades por escribir tus primeras líneas de código 🤗 Realiza todos los experimentos que quieras, y nos vemos en la próxima clase para que aprendas a [crear tu primer sitio web](https://platzi.com/clases/3208-programacion-basica/51979-crea-tu-primer-sitio-web/) 😉
+
+## **Resumiendo la clase**
+
+Pero antes de irnos, te dejaré este pequeño resumen para que puedas revisarlo en el futuro:
+
+💡 Puedes entrar a la **consola** siguiendo los siguientes pasos:
+
+1. Abre el navegador (Google Chrome, Edge, Firefox, Opera, o el que prefieras).
+2. Escribe “**about:blank**” en la barra de direcciones.
+3. Haz clic derecho en el espacio en blanco, y selecciona “**inspeccionar**” (algunos navegadores lo muestran como “inspect element”). Eso abre el **inspector de elementos**.
+4. dentro del inspector de elementos, dirígete a una pestaña llamada “**consola**”.
+
+💡 La consola del navegador te permite comunicarte directamente con tu computador a través de un lenguaje de programación llamado **JavaScript.**
+
+En su forma más básica, puedes utilizarlo para realizar operaciones matemáticas.
+
+💡 Las **variables** permite almacenar valores para usarlos luego en operaciones variadas y más complejas, sin necesidad de repetirlos una y otra vez.
+
+Más adelante aprenderás sus reglas de uso. Pero, por los momentos, puedes crearlas en la consola usando este formato:
+
+```jsx
+[variable] = [valor]
+```
+
+Por ejemplo:
+
+```jsx
+a = 1
+```
+
+💡 Las variables también pueden almacenar texto. Este tipo de datos se llaman **strings**, y puedes emplearlos siempre y cuando encierres el texto entre comillas.
+
+Por ejemplo:
+
+```jsx
+profesor = “Freddy”
+```
+
+💡 Las **funciones** nos permiten indicarle a la computadora que ejecute una serie de pasos cuando se le dé la señal. En esta clase no aprendimos a crearlas, pero si a utilizarlas usando la función “alert()” que viene por defecto con el navegador.
+
+Para usarla, solo tienes que escribir:
+
+```jsx
+alert(”mensaje”)
+```
+
+Esto funciona aunque el “mensaje esté en blanco. Pero es importante que escribas los paréntesis, o la función no se ejecutará.
+
+<aside>
+💡
+
+💡 Los lenguajes de programación tienen reglas de escrituras. Si te equivocas, la computadora no entenderá lo que dices y te avisará mostrándote un error.
+
+</aside>
+
+Los errores que derivan de errores de escritura en el código se llaman **errores de sintaxis** y son bastante comunes, en especial cuando estás aprendiendo a programar.
+
 </details>
 
 <details>
