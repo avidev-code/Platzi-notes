@@ -301,7 +301,6 @@
   Continúa viendo la siguiente clase de este curso para que conozcas muchas más etiquetas html incluyendo las que debes insertar obligatoriamente en tu sitio web.
 </details>
 
-<summary>04/84 - Sitios web con HTML</summary>
 
 <details>
   <summary>04/84 - Sitios web con HTML</summary>
@@ -309,124 +308,318 @@
 
   Seguro ya sabes que un sitio web es, en su forma más básica, un archivo HTML. Ahora, acompáñame a descubrir el funcionamiento de este lenguaje, y cómo puedes usarlo para empezar a crear sitios web 🙂.
 
-## **Fundamentos de HTML**
+  ## **Fundamentos de HTML**
 
-El **lenguaje de marcas de hipertexto (HTML)** tiene reglas como cualquier otro lenguaje. Y no son tan complicadas cuando te tomas el tiempo para explorarlas poco a poco 😉
+  El **lenguaje de marcas de hipertexto (HTML)** tiene reglas como cualquier otro lenguaje. Y no son tan complicadas cuando te tomas el tiempo para explorarlas poco a poco 😉
 
-### 1️⃣ En HTML la información se organiza con etiquetas
+  ### 1️⃣ En HTML la información se organiza con etiquetas
 
-Estas consisten en una palabra o una letra encerradas entre los símbolos “<” y “>”.
+  Estas consisten en una palabra o una letra encerradas entre los símbolos “<” y “>”.
 
-Ej:
+  Ej:
 
-```html
-<title>
-```
+  ```html
+  <title>
+  ```
 
-### 2️⃣ Cada pieza contenida en tu sitio web la encierran etiquetas de apertura y de cierre
+  ### 2️⃣ Cada pieza contenida en tu sitio web la encierran etiquetas de apertura y de cierre
 
-Las etiquetas de cierre tienen un “/” antes de la palabra o letra que compone la etiqueta.
+  Las etiquetas de cierre tienen un “/” antes de la palabra o letra que compone la etiqueta.
 
-Ej:
+  Ej:
 
-```html
-<title>Este es el texto que aparece en la pestaña del navegador</title>
+  ```html
+  <title>Este es el texto que aparece en la pestaña del navegador</title>
 
-```
+  ```
 
-### 3️⃣ Las etiquetas se escriben sin espacios internos ni mayúsculas
+  ### 3️⃣ Las etiquetas se escriben sin espacios internos ni mayúsculas
 
-Un error de este estilo (de sintaxis) puede causar que el navegador no entienda la etiqueta.
+  Un error de este estilo (de sintaxis) puede causar que el navegador no entienda la etiqueta.
 
-### 4️⃣ Existen algunas etiquetas que se cierran a sí mismas
+  ### 4️⃣ Existen algunas etiquetas que se cierran a sí mismas
 
-Estas generalmente **no tienen contenido**, así que empiezan y terminan con la etiqueta de apertura. Sin embargo, son muy útiles para introducir metadatos, organizar elementos de la página, o importar elementos de otras fuentes.
+  Estas generalmente **no tienen contenido**, así que empiezan y terminan con la etiqueta de apertura. Sin embargo, son muy útiles para introducir metadatos, organizar elementos de la página, o importar elementos de otras fuentes.
 
-[Solo hay 14 de estas etiquetas](https://www.tutorialstonight.com/self-closing-tags-in-html#:~:text=%3Carea%3E%20%2D%20HTML,for%20the%20browsers). Pero las más comunes son:
+  [Solo hay 14 de estas etiquetas](https://www.tutorialstonight.com/self-closing-tags-in-html#:~:text=%3Carea%3E%20%2D%20HTML,for%20the%20browsers). Pero las más comunes son:
 
-| **Etiqueta** | **Uso** |
-| --- | --- |
-| `<br>` | Introduce un salto de línea en la página. |
-| `<img>` | Introduce imágenes a tu sitio web. |
-| `<input>` | Introduce elementos para que el usuario te de información (cómo botones, campos de texto, listas desplegables, entre otros). |
-| `<link>` | Se usa mucho para cargar hojas externas de estilos (archivos “.css”) para definir los estilos de tu sitio web. |
-| `<meta>` | Se usa para darle metadata a tu sitio web (para que el navegador y buscadores cómo google puedan trabajar mejor con él). |
+  | **Etiqueta** | **Uso** |
+  | --- | --- |
+  | `<br>` | Introduce un salto de línea en la página. |
+  | `<img>` | Introduce imágenes a tu sitio web. |
+  | `<input>` | Introduce elementos para que el usuario te de información (cómo botones, campos de texto, listas desplegables, entre otros). |
+  | `<link>` | Se usa mucho para cargar hojas externas de estilos (archivos “.css”) para definir los estilos de tu sitio web. |
+  | `<meta>` | Se usa para darle metadata a tu sitio web (para que el navegador y buscadores cómo google puedan trabajar mejor con él). |
 
-<aside>
-💡Ojo, hay una variante de HTML llamada XHTML que requiere que estas etiquetas terminen en “/>”. Por ese motivo, muchos developers acostumbran a terminar estas etiquetas de esa manera, incluso en el HTML común y corriente.
+  <aside>
+  💡Ojo, hay una variante de HTML llamada XHTML que requiere que estas etiquetas terminen en “/>”. Por ese motivo, muchos developers acostumbran a terminar estas etiquetas de esa manera, incluso en el HTML común y corriente.
 
-</aside>
+  </aside>
 
-Esto no es obligatorio en el HTML que tú estás aprendiendo ahora, pero es bueno que lo tengas en mente para cuando trabajes con otros developers 👍
+  Esto no es obligatorio en el HTML que tú estás aprendiendo ahora, pero es bueno que lo tengas en mente para cuando trabajes con otros developers 👍
 
-Ej:
+  Ej:
 
-```html
-<meta charset=""utf-8"" />
+  ```html
+  <meta charset=""utf-8"" />
 
-<img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
-```
+  <img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
+  ```
 
-### 5️⃣ Hay etiquetas cuyo trabajo es contener otras etiquetas
+  ### 5️⃣ Hay etiquetas cuyo trabajo es contener otras etiquetas
 
-Cuando esto ocurre, se acostumbra usar la “indentación” de código para distinguir la jerarquía de las etiquetas.
+  Cuando esto ocurre, se acostumbra usar la “indentación” de código para distinguir la jerarquía de las etiquetas.
 
-En palabras más simples: Solo tienes que pulsar la tecla “tab” en las etiquetas hijo para que estas se muevan un poquito hacia la derecha. Eso te ayudará a distinguir a los padres de los hijos con mayor facilidad.
+  En palabras más simples: Solo tienes que pulsar la tecla “tab” en las etiquetas hijo para que estas se muevan un poquito hacia la derecha. Eso te ayudará a distinguir a los padres de los hijos con mayor facilidad.
 
-Ej:
+  Ej:
 
-```html
-<picture class=""logo"">
-    <img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
-</picture>
+  ```html
+  <picture class=""logo"">
+      <img src=""./assets/img/Logo.svg"" alt=""Logo de Batata Bit"" />
+  </picture>
 
-```
+  ```
 
-### 6️⃣ Muchas etiquetas HTML utilizan **atributos**
+  ### 6️⃣ Muchas etiquetas HTML utilizan **atributos**
 
-Estos son información adicional que se agrega en la etiqueta de apertura para personalizar sus propiedades y funcionalidad.
+  Estos son información adicional que se agrega en la etiqueta de apertura para personalizar sus propiedades y funcionalidad.
 
-Estos siguen el siguiente patrón:
+  Estos siguen el siguiente patrón:
 
-NombreDelAtributo=”ValorDelAtributo”
+  NombreDelAtributo=”ValorDelAtributo”
 
-Aprenderás más sobre los atributos poco a poco. Por ahora lo importante es que sepas que existen 👍
+  Aprenderás más sobre los atributos poco a poco. Por ahora lo importante es que sepas que existen 👍
 
-Por cierto, en HTML, la combinación de etiquetas, atributos y contenido recibe el nombre de **elemento**.
+  Por cierto, en HTML, la combinación de etiquetas, atributos y contenido recibe el nombre de **elemento**.
 
-![Partes de un elemento HTML](https://static.platzi.com/media/articlases/Images/Clase%204%20-%201.png)
+  ![Partes de un elemento HTML](https://static.platzi.com/media/articlases/Images/Clase%204%20-%201.png)
 
-### 7️⃣ Puedes encontrar una lista completa de las etiquetas HTML que puedes usar
+  ### 7️⃣ Puedes encontrar una lista completa de las etiquetas HTML que puedes usar
 
-Con explicaciones y ejemplos de uso, en [este sitio web](https://htmlreference.io/).
+  Con explicaciones y ejemplos de uso, en [este sitio web](https://htmlreference.io/).
 
-También puedes encontrarlas en referencias oficiales como las de [W3Schools](https://www.w3schools.com/tags/) o [Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+  También puedes encontrarlas en referencias oficiales como las de [W3Schools](https://www.w3schools.com/tags/) o [Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-Las más comunes para escribir son:
+  Las más comunes para escribir son:
 
-| **Etiqueta** | **Uso** |
-| --- | --- |
-| `<p>` | “Paragraph”, te permite introducir párrafos. |
-| `<a>` | “Anchor”, te permite introducir hipervínculos. |
-| `<b>` | “Bold”, te permite escribir en negritas. |
-| `<i>` | “Italics”, te permite escribir en cursiva. |
-| `<u>` | “Underline”, te permite escribir texto subrayado. |
-| `<ul>` | “Unordered list”, te permite crear una lista desordenada (con puntitos) |
-| `<ol>` | “Ordered list”, te permite introducir una lista ordenada (con números o letras). |
-| `<li>` | “List item”, se colocan dentro de un `<ul>` o un `<ol>`, y se convierten en los elementos de la lista. |
-| `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` | “Heading”, insertan títulos y subtítulos en tu sitio web. El número que acompaña a la “h” representa el nivel del título, dónde h1 tiene la mayor jerarquía. |
+  | **Etiqueta** | **Uso** |
+  | --- | --- |
+  | `<p>` | “Paragraph”, te permite introducir párrafos. |
+  | `<a>` | “Anchor”, te permite introducir hipervínculos. |
+  | `<b>` | “Bold”, te permite escribir en negritas. |
+  | `<i>` | “Italics”, te permite escribir en cursiva. |
+  | `<u>` | “Underline”, te permite escribir texto subrayado. |
+  | `<ul>` | “Unordered list”, te permite crear una lista desordenada (con puntitos) |
+  | `<ol>` | “Ordered list”, te permite introducir una lista ordenada (con números o letras). |
+  | `<li>` | “List item”, se colocan dentro de un `<ul>` o un `<ol>`, y se convierten en los elementos de la lista. |
+  | `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` | “Heading”, insertan títulos y subtítulos en tu sitio web. El número que acompaña a la “h” representa el nivel del título, dónde h1 tiene la mayor jerarquía. |
 
-### 8️⃣ Recuerda, **los archivos HTML cargan de arriba hacia abajo, un elemento tras otro**
+  ### 8️⃣ Recuerda, **los archivos HTML cargan de arriba hacia abajo, un elemento tras otro**
 
-Esto significa que el orden en el que escribas el HTML sí importa. Esos son todos por ahora 😁 Recuerda experimentar un poco con las etiquetas que conociste el día de hoy 😉
+  Esto significa que el orden en el que escribas el HTML sí importa. Esos son todos por ahora 😁 Recuerda experimentar un poco con las etiquetas que conociste el día de hoy 😉
 
-Para profundizar un poco más, no te pierdas de la siguiente clase: [Estructura de árbol en HTML](https://platzi.com/clases/3208-programacion-basica/51981-estructura-arbol-html/).
+  Para profundizar un poco más, no te pierdas de la siguiente clase: [Estructura de árbol en HTML](https://platzi.com/clases/3208-programacion-basica/51981-estructura-arbol-html/).
 
-</details>
+  </details>
 
-<details>
-  <summary>05/84 - Estructura de árbol en HTML</summary>
-  <br/>
+  <details>
+    <summary>05/84 - Estructura de árbol en HTML</summary>
+    <br/>
+
+    El lenguaje de marcas de hipertexto (HTML) se caracteriza porque su estructura es como la de un árbol 🙂 ¿Te animas a aprender cómo funciona? 😉
+
+    Imagina que cada etiqueta es una rama, y que el contenido son hojas. Por lo tanto, algunas etiquetas nacerán dentro de otras etiquetas, y podrías encontrar contenido en alguna de las etiquetas más pequeñas 😉 Ahora, explorémoslas en orden para que entiendas a qué me refiero.
+
+    ## **La regla: `<!DOCTYPE html>`**
+
+    Primero, cada archivo HTML empieza con una etiqueta que se cierra sola. Esto es una convención y no modifica el contenido del sitio, pero es importante que empieces con ella.
+
+    ```html
+    <!DOCTYPE html>
+    ```
+
+    ## **El árbol: `<html>`**
+
+    Debajo encontrarás el tronco del árbol: la etiqueta `<html>`. Todo el contenido del sitio va dentro de esta etiqueta, y está viene con un atributo que indica el idioma en que está escrito el sitio web.
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+
+    </html>
+    ```
+
+    Después, el árbol se abre hacia dos secciones principales: la primera es `<head>`, dónde encontrarás la metadata del sitio web. Esta sección te ayudará a decirle al navegador cómo va a mostrar tu sitio web, y también te permite darle información a buscadores como google para que sepan cómo mostrar tu sitio.
+
+    Y la segunda rama principal es `<body>`, donde introducirás el contenido que los usuarios van a ver cuando visiten tu sitio web.
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+
+        </head>
+        <body>
+
+        </body>
+    </html>
+    ```
+
+    ## **Las raíces: `<head>`**
+
+    La etiqueta `<head>` se parece mucho a las raíces de un árbol: el usuario no puede verlas, pero son fundamentales para que el sitio web funcione.
+
+    Suele contener muchas etiquetas `<meta>` que revelan información sobre el sitio web al navegador y a buscadores como Google.
+
+    También incluye la etiqueta `<title>` que tiene el título del sitio web (que aparece en la pestaña del navegador), y al menos una etiqueta <link> que carga la hoja de estilos de tu sitio web (el archivo “.css”; esto es lo que organiza los elementos de tu sitio web y les da forma y color).
+
+    Aquí abajo te dejo un ejemplo muy común de lo que puedes encontrar en un `<head>`.
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta/>
+            <meta/>
+            <meta/>
+            <title></title>
+            <meta/>
+            <link/>
+        </head>
+        <body>
+
+        </body>
+    </html>
+    ```
+
+    ## **Las ramas, hojas y flores: `<body>`**
+
+    Mientras tanto, la etiqueta `<body>` contiene todo lo que el usuario puede ver en el sitio web, y también aquello con lo que puede interactuar. Esta puede ser tan compleja y diversa como las ramas de un arbol.
+
+    Si has visitado un sitio web antes, seguro habrás notado que está construido en diferentes secciones, y las más comunes son `<header>`, `<main>`, `<aside>` y `<footer>`.
+
+    ![Estructura común de un sitio web](https://static.platzi.com/media/articlases/Images/Clase%204%20-%202.png)
+
+    ### La etiqueta `<script>`
+
+    Además de esos 4, se acostumbra agregar una etiqueta `<script>` al final de `<body>`. Esta es la que tiene todo el código en JavaScript que introduces en tu sitio web para que haga cosas divertidas 😉
+
+    Probablemente pensaste que esta etiqueta se coloca en `<head>` debido a que su contenido no se muestra al usuario. Y estás en lo cierto 🙂 En realidad funciona por igual tanto en `<head>` como en `<body>`. Pero, antes de decidir dónde colocarla, quiero que pienses en esto:
+
+    ¿Recuerdas que **los archivos HTML cargan progresivamente de arriba a abajo**? Pues, por lo general, el usuario no interactúa con el sitio web hasta que este termina de cargar. Así que dejar `<script>` al final de `<body>` permite que tu sitio web cargue todo el aspecto visual antes de cargar su programa 😉
+
+    Al final queda de tu parte (o de tu equipo de trabajo) decidir dónde colocar `<script>`. Pero es una práctica común dejarlo al final de `<body>` para que el sitio web se muestre más rápido al usuario 🙂
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+
+        </head>
+        <body>
+            <header>
+
+            </header>
+            <main>
+
+            </main>
+            <footer>
+
+            </footer>
+            <script></script>
+        </body>
+    </html>
+    ```
+
+    ### HTML semántico
+
+    En este punto, ya puedes introducir etiquetas comunes de escritura como `<p>` o `<ol>`. Sin embargo, existen otras etiquetas que suelen usarse dentro de `<body>` para ordenar aún más la información, lo que beneficia a la accesibilidad, al posicionamiento de tu sitio web en buscadores, y en ocasiones también a la aplicación de estilos.
+
+    Algunas etiquetas comunes de este estilo son:
+
+    | **Etiqueta** | **Uso** |
+    | --- | --- |
+    | `<nav>` | Se usa para identificar el panel de navegación del sitio, dónde están los links al resto del contenido de tu sitio web. |
+    | `<section>` | Se usa para separar un elemento html en secciones, cada una con un propósito. |
+    | `<article>` | Se usa para identificar artículos individuales dentro de un sitio web. Se usa mucho para identificar entradas de un blog. |
+    | `<figure>` | Se usa como un contenedor de imágenes, para manipular su tamaño con mayor facilidad en CSS, y para agregar un pie de foto. |
+    | `<div>` | Este es un comodín. Es un contenedor que puede tener lo que sea dentro. Pero no beneficia la accesibilidad o el posicionamiento en buscadores. |
+
+    Aquí abajo tienes un ejemplo de una estructura de HTML básica sin contenido. Verás que no es tan compleja luego de que conoces los elementos que la componen 😁
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta/>
+            <meta/>
+            <meta/>
+            <title>Batata Bit</title>
+            <meta/>
+            <link/>
+        </head>
+        <body>
+            <header>
+                <nav>
+                </nav>
+            </header>
+            <main>
+                <section>
+                    <article>
+                    </article>
+                </section>
+            </main>
+            <footer>
+                <figure>
+                    <img/>
+                </figure>
+            </footer>
+            <script></script>
+        </body>
+    </html>
+
+    ```
+
+    Por cierto, abajo te dejé el mismo código, pero con atributos 😁 Como hay más texto, quizás pienses que es más “temible” cuando los tiene. Pero la realidad es que los atributos no cambian la estructura, solo agregan información 🙂
+
+    Dale un vistazo para que te vayas acostumbrando a como se ven. Cuando empieces a usarlos te familiarizarás mucho más con ellos 😉
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="utf-8" />
+            <meta name="description" content="La próxima revolución en el intercambio de criptomonedas, Batatabit te ayuda a navegar entre los diferentes precios y tendencias" />
+            <meta name="robots" content="index, follow" />
+            <title>Batata Bit</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <link rel="stylesheet" href="./styles/mobile.css" />
+        </head>
+        <body>
+            <header class="header">
+                <nav>
+                </nav>
+            </header>
+            <main class="main">
+                <section class="added-value">
+                    <article class="added-value__cards--save-time">
+                    </article>
+                </section>
+            </main>
+            <footer>
+                <figure class="footer__logo">
+                    <img src="./assets/img/FooterLogo.svg" alt="El logo de batatabit" />
+                </figure>
+            </footer>
+            <script src="./src/index.js"></script>
+        </body>
+    </html>
+
+    ```
+
+    Experimenta un poco con las etiquetas que conociste el día de hoy, y luego continúa tu aprendizaje aprendiendo a instalar tu primer editor de código: [Visual Studio Code](https://platzi.com/clases/3208-programacion-basica/51982-visual-studio-code/).
+
 </details>
 
 <details>
