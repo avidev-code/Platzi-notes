@@ -370,7 +370,7 @@
   <summary>07/32 - Traducción de texto a binario usando código ASCII</summary>
    <br/>
 
-  ## **¿Cómo se representa el código binario en letras y números?**
+  ## ¿Cómo se representa el código binario en letras y números?
 
   Cuando las computadoras comenzaron a tomar relevancia, uno de los desafíos principales fue cómo traducir el código binario en elementos comprensibles, como letras y números. Con el tiempo, se creó el código ASCII (American Standard Code for Information Interchange) para resolver esta cuestión. 
 
@@ -423,7 +423,7 @@
   <summary>08/32 - Introducción a Unicode y su impacto en la comunicación digital</summary>
    <br/>
 
-  ## **¿Qué es el Unicode y por qué es importante?**
+  ## ¿Qué es el Unicode y por qué es importante?
 
   Con el avance de la tecnología y la necesidad de comunicarnos globalmente, la representación precisa de los caracteres se ha convertido en algo crucial. Al tratar de englobar todos los símbolos, letras y emojis de distintos alfabetos, surge el Unicode, un sistema que abarca un extenso listado de caracteres. Este código es la columna vertebral que nos permite compartir e interpretar texto coherentemente a nivel internacional, asegurando la comunicación correcta y enriqueciendo el intercambio cultural.
 
@@ -471,7 +471,7 @@
   <summary>09/32 - Conversión de Colores RGB a Código Binario</summary>
    <br/>
 
-  ## **¿Cómo se convierten los colores en código binario?**
+  ## ¿Cómo se convierten los colores en código binario?
 
   En el fascinante mundo de la informática, convertir colores en código binario es una habilidad esencial. Este proceso es similar a cómo se transforman los alfabetos en secuencias comprensibles para los computadores. Al igual que estos, los colores requieren un sistema para traducirse a un lenguaje que la máquina pueda procesar. Aquí es donde entra el código RGB, un método fundamental utilizado en pantallas de computadora y dispositivos con luces de colores.
 
@@ -549,7 +549,7 @@
   <summary>11/32 - Evolución de ARPANET y el Surgimiento de Protocolos de Internet</summary>
    <br/>
 
-  ## **¿Cómo evolucionó el proyecto ARPANET?**
+  ## ¿Cómo evolucionó el proyecto ARPANET?
 
 El proyecto ARPANET inició con el propósito de conectar algunas universidades para el intercambio de mensajes a través de cables. Sin embargo, a medida que pasó el tiempo, este proyecto se expandió significativamente, incorporando a más instituciones educativas y enfrentando nuevos desafíos en la comunicación. Vamos a explorar la metamorfosis de ARPANET y su contribución indiscutible al nacimiento de Internet tal como lo conocemos hoy.
 
@@ -577,7 +577,7 @@ El proyecto ARPANET inició con el propósito de conectar algunas universidades 
   <summary>12/32 - Funcionamiento de los Protocolos de Comunicación en Internet</summary>
    <br/>
 
-  ## **¿Qué son los protocolos y cómo funcionan?**
+  ## ¿Qué son los protocolos y cómo funcionan?
 
   En un mundo donde las computadoras están cada vez más interconectadas, los protocolos se han convertido en herramientas fundamentales que permiten una comunicación efectiva entre ellas. Los protocolos son, esencialmente, un conjunto de reglas que las computadoras deben seguir para comunicarse entre sí. Estos nacieron de la necesidad de resolver problemas de conectividad, especialmente cuando diferentes universidades intentaban enviar datos complejos más allá de simples mensajes de texto, como investigaciones completas en forma de archivos.
 
@@ -611,7 +611,7 @@ El proyecto ARPANET inició con el propósito de conectar algunas universidades 
 
   ![image.png](attachment:bb6d0f60-422e-4892-a127-839065ba8a41:image.png)
 
-  ## **¿Cómo se envía un mensaje a través de las capas de comunicación?**
+  ## ¿Cómo se envía un mensaje a través de las capas de comunicación?
 
   En el mundo de las comunicaciones digitales, el envío de un mensaje de una computadora a otra implica procesos complejos que son esenciales para garantizar que el mensaje llegue de manera segura y eficiente. Este procedimiento sigue un conjunto de reglas y protocolos que actúan a través de cinco capas diferentes. Vamos a profundizar en cada una de estas capas para comprender mejor cómo funciona este intercambio de mensajes.
 
@@ -643,7 +643,7 @@ El proyecto ARPANET inició con el propósito de conectar algunas universidades 
   <summary>14/32 - Origen y evolución de los proveedores de Internet (ISP)</summary>
    <br/>
 
-  ## **¿Qué son los ISP y por qué fueron necesarios?**
+  ## ¿Qué son los ISP y por qué fueron necesarios?
 
   En la evolución de Internet, surge un momento crucial en el que el gobierno y las universidades ya no pueden sostener la creciente infraestructura del proyecto ARPANET. Es aquí donde entran los ISP, o proveedores de servicios de Internet. Estos actores emergen con el propósito de facilitar la conectividad que el gobierno no lograba financiar debido a su carácter masivo y su creciente uso cotidiano más allá del ámbito universitario.
 
@@ -681,7 +681,7 @@ El proyecto ARPANET inició con el propósito de conectar algunas universidades 
   <summary>15/32 - Direcciones IP y DNS: Fundamentos para la Conectividad en Internet</summary>
    <br/>
 
-  ## **¿Cómo se resolvieron los desafíos de la interconexión global?**
+  ## ¿Cómo se resolvieron los desafíos de la interconexión global?
 
   La evolución de la conexión a Internet desde el proyecto ARPANET hasta el sistema actual es una travesía fascinante que resalta la importancia de la infraestructura y las tecnologías desarrolladas para facilitar la comunicación. Dos aspectos cruciales que permitieron expandir el acceso y mejorar la experiencia del usuario han sido las direcciones IP y los sistemas DNS.
 

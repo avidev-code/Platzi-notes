@@ -20,7 +20,7 @@
 
 ## Clases del curso
 
-### Conoce tu computadora
+### 💻 Conoce tu computadora
 <details>
   <summary>01/26 Computación Básica para Principiantes en Windows</summary>
   <br/>
@@ -52,7 +52,7 @@
 </details>
 <br/>
 
-### Sistemas Operativos
+### 📦 Sistemas Operativos
 <details>
   <summary>07/26 Tipos de Sistemas Operativos: macOS, Windows y Linux</summary>
   <br/>
@@ -74,7 +74,7 @@
 </details>
 <br/>
 
-### Programas en tu computadora
+### 🖪 Programas en tu computadora
 <details>
   <summary>11/26 Instalación de Programas en Windows: Navegador y Tienda Microsoft</summary>
   <br/>
@@ -116,7 +116,7 @@
 </details>
 <br/>
 
-### Seguridad en tu Computadora
+### 🛡️ Seguridad en tu Computadora
 <details>
   <summary>19/26 Tipos de virus informáticos y cómo prevenirlos</summary>
   <br/>
