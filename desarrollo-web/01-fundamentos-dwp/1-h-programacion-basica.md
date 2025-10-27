@@ -622,24 +622,311 @@
 
 </details>
 
+
 <details>
   <summary>06/84 - Instalando tu primer editor de código</summary>
   <br/>
+
+  Si vas a aprender a programar, necesitas un editor de código. Pero ¿Por qué usar uno? ¿Cuál elegir? ¿Y cómo instalarlo? Quédate conmigo y respondamos todas esas preguntas 😉.
+
+  ## **¿Qué es un editor de código?**
+
+  En pocas palabras, un editor de código es un software que te permite escribir y editar código **en texto plano**, a la vez que te brinda herramientas varias para facilitar tu proceso de trabajo.
+
+  El código se escribe en **texto plano**. Es decir, texto simple y sin ningún tipo de formato (como negritas, cursivas y variedades de tamaño o color). Por lo tanto, no puedes escribir código usando software dedicado a aplicar estos formatos en cartas y documentos (como Microsoft word, Google docs, o Pages).
+
+  Así que necesitas un software especializado que te permita escribir texto plano, pero que al mismo tiempo te brinde herramientas para facilitar tu proceso de trabajo. Algunas de estas herramientas son: detector de errores en el código, herramientas para autocompletar, buscar y reemplazar; resaltados varios para facilitar la lectura del código, entre otros.
+
+  Además. algunas de estas herramientas admiten la instalación de extensiones que permiten personalizar y ampliar aún más las capacidades del editor de código. Van desde asistencia con colores y resaltados, a herramientas de comunicación de equipos dentro del editor de código como [CodeStream](https://www.codestream.com/).
+
+  ## **¿Qué editor de código instalo primero?**
+
+  Si estás siguiendo este curso, te recomendamos que empieces probando [Visual Studio Code](https://code.visualstudio.com/).
+
+  Existen muchos editores de código en el mercado, y la mayoría son gratuitos (incluyendo el block de notas o el “notepad” que viene con tu computadora). Sin embargo, Platzi eligió esta para ti porque es gratuita, corre en windows, mac y Linux; y es una de las mejor valoradas en el entorno profesional al momento de lanzar este curso (2022).
+
+  ## **¿Cómo instalar Visual Studio Code?**
+
+  1. Entra al sitio web oficial de [Visual Studio Code](https://code.visualstudio.com/) y descárgalo para tu sistema operativo.
+  2. Ejecuta el instalador que se descargó en tu computadora.
+  3. Acepta los términos y condiciones (si estás de acuerdo).
+  4. Luego tendrás que indicarle al instalador si deseas que realice alguna tarea adicional (abajo te explico qué significan estas opciones), y le das a siguiente.
+  5. Finalmente, esperas a que termine la instalación y le das finalizar 🙂
+
+  ### Tareas adicionales durante la instalación de Visual Studio Code
+
+  Te recomendamos habilitar las siguientes opciones: te recomendamos:
+
+  1. Crear el acceso directo en el escritorio (para que puedas abrirlo desde el escritorio con facilidad).
+  2. Agregar la acción “abrir en code” a los menu contextuales de archivo y de directorio (Esto te permite abrir archivos y carpetas desde el menú que se abre cuando haces click derecho en ellos).
+  3. Registrar Code como editor para los tipos de archivo admitidos (para que tu computadora abra los archivos con Visual Studio Code en lugar del Notepad).
+  4. Agregarlo al PATH (para que puedas abrir tus archivos y carpetas fácilmente desde la [terminal y línea de comandos](https://platzi.com/cursos/terminal/)).
+
+  Estas opciones te beneficiarán en tu carrera cómo programador, especialmente si Visual Studio Code se convierte en tu editor de texto preferido.
+
+  ![Vista de la ventana de "Tareas Adicionales" durante la instalación de Visual Studio Code (2022)](https://static.platzi.com/media/articlases/Images/Clase%206%20-%201.png)
+
+  ## **Usando Visual Studio Code por primera vez**
+
+  Solo la práctica te hará un maestro en Visual Studio Code. Sin embargo, déjame darte algunas nociones clave para que empieces a usarlo ahora mismo 👍
+
+  ![Primera impresión de la ventana de Visual Studio Code (2022)](https://static.platzi.com/media/articlases/Images/Clase%206%20-%202.png)
+
+  1. VSCode emplea ventanas al igual que el navegador de internet. Puedes trabajar con varios archivos a la vez desde la misma ventana.
+  2. Por defecto, VSCode suele mostrar una ventana de bienvenida y otra con las mejoras de la última versión instalada. Puedes cerrarlas cuando quieras.
+  3. Por defecto, VSCode te preguntará si confías en los autores de los archivos que intentes abrir. Esta es una medida de seguridad normal, y se toma para protegerte de archivos ejecutables que puedan puedan perjudicar tu computador.
+  4. VSCode tiene un menú superior muy similar a los de otros software, pero también tiene un menú a la izquierda que se distingue por íconos en lugar de palabras. Estos despliegan un panel lateral con diferentes funcionalidades.
+  - El primer botón es el explorador de archivos. Si decides abrir una carpeta entera con VSCode, este panel te permite navegar fácilmente por los diferentes archivos que se encuentran dentro de la carpeta.
+  - El segundo botón es un buscador. Te permite buscar palabras en cualquiera de los archivos de la carpeta que tienes abierta (y resalta todas sus iteraciones).
+  - El tercero tiene que ver con un software de control de versiones (algo indispensable para programar profesionalmente. Más información en el [Curso Profesional de Git y Github](https://platzi.com/cursos/git-github/)).
+  - El cuarto es una herramienta interna de VSCode para correr y detectar bugs en el código.
+  - El quinto abre un panel dónde podrás buscar e instalar extensiones para tu editor de código.
+  1. El editor de VSCode tiene tema oscuro por defecto para que distingas la implementación de colores dentro del código.
+  2. VSCode cuenta el número de líneas del archivo que tengas abierto. También destaca la indentación de código, y aplica un código de colores al texto del archivo (que depende de la extensión del archivo).
+  3. VSCode emplea una vista miniatura del código en el extremo derecho de la ventana. Puedes usar este para navegar fácilmente por tu código.
+  4. Puedes hacer zoom para aumentar el tamaño del código y facilitar su lectura. Puedes lograrlo pulsando Ctrl→”+” y Ctrl→”-”
+
+  ## **Bonus: utf-8**
+
+  El navegador no puede leer acentos y letras “ñ” si no indicas esto en el HTML.
+
+  Es probable que ya te hayas dado cuenta de que estos acentos no se muestran bien cuando cargas el archivo HTML común y corriente en tu navegador. Esto se debe a que los acentos no pertenecen al set de caracteres que carga por defecto el HTML.
+
+  Para usar caracteres comunes del español (como acentos y la letra “ñ”), necesitas activar el Unicode Transformation Format 8 (UTF-8) en tu archivo HTML colocando la siguiente etiqueta `<meta>` en el `<head>` de tu archivo:
+
+  ```html
+  <meta charset="utf-8" />
+  ```
+
+  Esta se ve así dentro del código:
+
+  ```html
+  <!DOCTYPE html>
+  <html lang="es">
+      <head>
+          <meta charset="utf-8" />
+      </head>
+      <body>
+
+      </body>
+  </html>
+  ```
+
+  ¿Qué tal si creas un nuevo archivo HTML, pero esta vez desde Visual Studio Code? 🙂
+
+  Experimenta un poco, y nos vemos a continuación en la siguiente clase: [Como declarar variables y usar prompt](https://platzi.com/clases/3208-programacion-basica/51983-prompt/) 😉
+
 </details>
+
+
 
 <details>
   <summary>07/84 - Cómo declarar variables y usar prompt</summary>
   <br/>
+
+  Estos dos procesos pueden ser muy útiles cuando estás aprendiendo a programar.
+
+  ## **Cómo declarar variables en JavaScript**
+
+  Sin complicarnos mucho, puedes declarar una variable en JavaScript escribiendo lo siguiente:
+
+  1. La palabra reservada “let”.
+  2. El nombre que quieres para tu variable.
+  3. El signo “=” para asignar un valor a ese nombre.
+  4. El valor que quieres para la variable. Puede ser texto (strings), números, y otras cosas que aprenderás si profundizas un poco más en JavaScript.
+
+  ```jsx
+  let a = 1;
+  ```
+
+  “Declarar una variable” consiste en reservar un nombre en la memoria de la computadora y asignarle el valor que tú indiques.
+
+  En JavaScript (el lenguaje que entienden los navegadores de internet) hay varias formas de declarar una variable. Sin embargo, cuando estas empezando, puedes declarar variables con “let” sin mayor problema 👍
+
+  ## **Uso de promt()**
+
+  “Prompt()” es una función nativa del navegador. Cuando la usas, esta dispara una pequeña ventana con el texto que indiques entre los paréntesis, dónde le pide al usuario que te entregue alguna información. Por lo tanto, podemos usarla para obtener información del usuario y usarla en otro lugar.
+
+  Ejemplo:
+
+  ```jsx
+  let nombre = "";
+  nombre = prompt("¿Cuál es tu nombre?");
+  alert(nombre + ", Bienvenido a Platzi :)");
+  ```
+
+  Prueba a correr ese código en el navegador para que veas lo que ocurre, y animate a experimentar un poco con lo que aprendiste aquí 😊
+
+  Luego, pasa con confianza a la siguiente clase: [Algoritmo de piedra, papel o tijera](https://platzi.com/clases/3208-programacion-basica/51984-algoritmo-de-piedra-papel-o-tijera/).
+
 </details>
 
 <details>
   <summary>08/84 - Algoritmo de piedra, paper o tijera</summary>
   <br/>
+
+  Ahora que conoces lo más básico de programar ¿te animas a crear un pequeño juego de piedra papel o tijera con tu navegador?
+
+  Esta clase requiere que sepas lo fundamental sobre crear archivos HTML y escribir código JavaScript. Si aún no lo sabes, entonces visita [la primera clase del curso](https://platzi.com/clases/3208-programacion-basica/52069-que-es-platzi/) y empieza desde allí 🙂 Esta es la clase número 9 del curso gratis de programación básica de Platzi 💚
+
+  ## **Tips para aprender a programar**
+
+  Ahora, antes de empezar, déjame darte algunos tips que seguro te ayudarán 😉
+
+  ### Escribe comentarios con “//”
+
+  La computadora ignora todo lo que escribas después de un “//” en una línea de código. Así que puedes usar esto para dejar mensajes útiles para ti (o tus compañeros) a lo largo del código.
+
+  Por ejemplo:
+
+  ```jsx
+  //RECOGIENDO LA ELECCIÓN DEL JUGADOR
+  let eleccionJugador = prompt(); // Aquí el jugador elije piedra, papel o tijera
+
+  ```
+
+  ### Nombra variables
+
+  Se recomienda fuertemente usar nombres que dejen claro el propósito de la variable. Evita usar nombres sencillos como “a”, porque puedes olvidar que es lo que hace cuando trabajas con muchas variables a la vez.
+
+  La práctica más común es utilizar nombres compuestos por varias palabras en Camel Case (sin espacios, empezando en minúscula, y colocando en mayúscula la inicial de todas las palabras después de la primera).
+
+  Ojo, recuerda no emplear acentos ni “ñ” en tu código para evitar errores de lectura.
+
+  Por ejemplo:
+
+  ```jsx
+  eleccionUsuario
+  nombreUsuario
+  primerApellidoUsuario
+  fechaNacimientoUsuario
+  ```
+
+  ### Utiliza condicionales
+
+  Si lo piensas bien, el juego de piedra, papel y tijera requiere de condiciones como “si el jugador elije piedra y la computadora elije piedra, entonces el jugador gana”.
+
+  Para hacer eso en JavaScript debes seguir una formula sencilla:
+
+  ```jsx
+  if ( variableAComparar == ValorDeComparacion ) {
+      //Código a ejecutar si la condición se cumple
+  }
+  else if ( variableAComparar == ValorDeComparacion2 ) {
+      //Código a ejecutar si la condición 1 no se cumple, pero la segunda sí
+  }
+  else ( variableAComparar == ValorDeComparacion3 ) {
+      //Código a ejecutar si ninguna condición se cumple
+  }
+  ```
+
+  En resumen:
+
+  1. Usas `if` para evaluar la primera condición. `else if`, para evaluar más condiciones si la primera no se cumple, y `else` para decir lo que ocurrirá si ninguna otra condición se cumple.
+  2. Entre los paréntesis escribes la condición que deseas evaluar. Por lo general se compara una variable con un valor.
+  3. Recuerda que `=` se utiliza para asignar valores a las variables. Si deseas comparar variables con valores dentro de un `if`, entonces debes emplear un `==`. También puedes emplear un `===`si quieres comparar tanto el valor como el tipo de dato (número, string, o *boolean).
+  4. El código que escribas entre `{}` es el código que se va a ejecutar si la condición entre paréntesis se cumple.
+
+  💡 Los datos tipo **Boolean** son datos “Verdadero o falso”. Puedes escribirlos como `true` / `false` o 1 / 0. Por lo regular son muy útiles 👍
+
+  ## **Escribiendo el algoritmo**
+
+  Esto lo vamos a hacer en dos partes. Y lo primero es crear el archivo HTML dónde vamos a escribir nuestro código, abrirlo en nuestro editor de código, y escribir la base en HTML.
+
+  Intenta hacerlo sin ayuda 😉 Y si te pierdes, aquí te dejo el código que deberías preparar de primeras.
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+  ```
+
+  Luego escribiremos un código que nos permita saber si el jugador elije piedra papel o tijera. Intenta crear una variable que capture la elección del jugador usando un `prompt()`. Explícale que escriba 1 para piedra, 2 para papel o 3 para tijera, y luego recuérdale el número que eligió con un `alert()`.
+
+  Intenta hacerlo sin ver la solución. Cuando termines, compara lo que obtuviste con el código de abajo y sigue leyendo:
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt("Elige: 1 para piedra, 2 para papel, 3 para tijera");
+              alert("Elegiste " + jugador);
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+  ```
+
+  Bien, ahora probemos con la condición. Primero convierte el recordatorio en un comentario. Vamos a crear un recordatorio más preciso, uno que le diga al usuario si eligió piedra, papel, tijera, o algo más.
+
+  Para hacerlo, inicia una condición dónde vas a hacer tres comparaciones. Primero usa un `if` para evaluar si el jugador eligió piedra. Si lo hizo, envíale un `alert()` indicándole que eligió piedra. Luego usa un par de `else if` para evaluar si eligió papel o tijeras, y envíale un `alert()` en cada uno informándole de su decisión.
+
+  Finalmente, emplea un `else` para evitar que el jugador quiera pasarse de listo al escribir algo que no sea 1, 2 o 3. En ese caso, envíale un `alert()` indicándole que elija 1, 2 o 3 (o juegale una broma. Es tu juego después de todo 😉).
+
+  Intenta hacerlo por tu cuenta. Y cuando termines, compáralo con el código de abajo antes de continuar.
+
+  ¡Recuerda probar tu código en el navegador y pulirlo hasta que funcione!
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt( "Elige: 1 para piedra, 2 para papel, 3 para tijera" );
+              // alert( "Elegiste " + jugador );
+
+              //INFORMANDO LA ELECCIÓN DEL JUGADOR
+              if ( eleccionDelJugador == 1 ) {
+                  alert( "Elegiste piedra" );
+              }
+              else if ( eleccionDelJugador == 2 ) {
+                  alert( "Elegiste papel" )
+              }
+              else if ( eleccionDelJugador == 3 ) {
+                  alert( "Elegiste tijera" )
+              }
+              else {
+                  alert( "Elegiste otra cosa, así no puedes jugar >-<" )
+              }
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+  ```
+
+  Dejémoslo hasta aquí por ahora. Intenta reproducir este código por tu cuenta ahora que sabes cómo funciona. Y cuando estés listo, acompáñame a terminar este pequeño juego en: [Algoritmo avanzado de piedra, papel o tijera](https://platzi.com/clases/3208-programacion-basica/51985-algoritmo-avanzado-de-piedra-papel-o-tijera/)
+
 </details>
 
 <details>
   <summary>09/84 - Algoritmo avanzado de piedra, papel o tijera</summary>
   <br/>
+  
+  
+
 </details>
 
 <details>
