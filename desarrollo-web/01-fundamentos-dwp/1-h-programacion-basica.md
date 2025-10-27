@@ -1,8 +1,6 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/badge-piezas-programacion-basica-ede320eb-b1a9-4f1c-8b61-dd0502bbe4d3.png"/> 🎓 Curso Gratis de Programación Básica
 
-<img src="./banners-cursos/curso01.jpg"/>
-
   <br/>
 
   👉🏻 [Ve al Curso de HTML](https://platzi.com/cursos/programacion-basica)
@@ -1524,7 +1522,7 @@
 
   Haz click [**aquí**](https://platzi.com/clases/3208-programacion-basica/51989-gana-3-veces/) cuando estés listo para hacer la modificación 😉
   <br/>
-  
+
 </details>
 
 <details>
