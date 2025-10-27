@@ -1,8 +1,6 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/piezas-fundamentosde-ingenieria-de-software_badge-d9c5b559-837f-44a3-8543-d_bkcvYTp.png"/> 🎓 Curso de Fundamentos de Ingeniería de Software
 
-<img src="./banners-cursos/curso01.jpg"/>
-
   <br/>
 
   👉🏻 [Ve al curso: Introducción a la Web: Historia y Funcionamiento de Internet](https://platzi.com/cursos/introweb)

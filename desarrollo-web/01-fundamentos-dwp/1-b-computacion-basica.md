@@ -1,8 +1,6 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/piezas-computacion-basica_badge-930099c0-50d7-45ae-8043-802170eb5d55.png"/> 🎓 Curso Básico de Computadores e Informática
 
-<img src="./banners-cursos/curso02.jpg"/>
-
   <br/>
 
   👉🏻 [Ve al curso Básico de Computadores e Informática](https://platzi.com/cursos/computacion-basica)

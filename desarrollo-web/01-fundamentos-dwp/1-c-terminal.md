@@ -1,8 +1,6 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/piezas-curso-de-introduccion-a-la-terminal-y-linea-de-comandos_badge-f2b44e_dtAOYfn.png"/> 🎓 Curso de Introducción a la Terminal y Línea de Comandos
 
-<img src="./banners-cursos/curso02.jpg"/>
-
   <br/>
 
   👉🏻 [Ve al Curso de Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal)

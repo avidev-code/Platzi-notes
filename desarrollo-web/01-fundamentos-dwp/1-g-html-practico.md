@@ -1,8 +1,6 @@
 
 # <img width="32px" src="https://static.platzi.com/media/achievements/badge-practico-html-css-1-106665ee-bf4f-4301-8991-1fab9e54a73e.png"/> 🎓 Curso de HTML
 
-<img src="./banners-cursos/curso01.jpg"/>
-
   <br/>
 
   👉🏻 [Ve al Curso de HTML](https://platzi.com/cursos/html-practico)

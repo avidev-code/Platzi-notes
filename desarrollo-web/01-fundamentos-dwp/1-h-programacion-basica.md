@@ -1523,7 +1523,8 @@
   Ahora, usaremos esta información para modificar el código del [**juego de piedra, papel o tijera**](https://platzi.com/clases/3208-programacion-basica/51984-algoritmo-de-piedra-papel-o-tijera/) que creamos previamente. Vamos a crear un ciclo que nos permita hacer tres partidas seguidas, que guarde el número de victorias, y al final nos diga quien obtuvo más victorias.
 
   Haz click [**aquí**](https://platzi.com/clases/3208-programacion-basica/51989-gana-3-veces/) cuando estés listo para hacer la modificación 😉
-
+  <br/>
+  
 </details>
 
 <details>
