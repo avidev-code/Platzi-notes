@@ -332,3 +332,128 @@
   <summary>63/84 - Optimización y Corrección de Errores en Juegos Web con JavaScript</summary>
   <br/>
 </details>
+
+### Mapa con canvas
+<details>
+  <summary>65/84 - Dibujo y manejo de gráficos en Canvas con JavaScript</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>66/84 - Movimiento de Capipepo en Canvas con HTML y JavaScript</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>67/84 - Movimiento Continuo de Personajes en Canvas con JavaScript</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>68/84 - Eventos de Teclado para Controlar Personajes en Juegos</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>69/84 - Pintar Fondos y Personajes en Canvas HTML</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>70/84 - Métodos de Clases en JavaScript para Juegos Interactivos</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>71/84 - Detección de Colisiones en Videojuegos con JavaScript</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>72/84 - Programación de eventos y colisiones en un juego interactivo</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>73/84 - Programación de eventos y colisiones en un juego interactivo</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>74/84 - Programación de eventos y colisiones en un juego interactivo</summary>
+  <br/>
+</details>
+<br/>
+
+### Backend: videojuego multijugador
+<details>
+  <summary>76/84 - Desarrollo de Juegos Multijugador con Cliente-Servidor y API</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>77/84 - Instalación de Node.js en Windows para desarrollo backend</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>78/84 - Uso básico de la terminal de comandos y Node.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Creación de un Servidor Básico con Express.js en Node.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Conceptos Clave de URIs y Verbos HTTP en Node.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Desarrollo de API con Node.js y Comunicación Frontend-Backend</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Selección de Mokepon y Comunicación JSON en Express.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Implementación de un Endpoint para Coordenadas de Jugadores en Node.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Integración de Coordenadas de Jugadores en Mokepon Multijugador</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Optimización de Coordenadas en Videojuegos con JavaScript</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Batalla Final en Mokepon: Implementación de Colisiones y Back-End</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>Implementación de Ataques en Tiempo Real para Videojuego Mokepon</summary>
+  <br/>
+</details>
+<br/>
+
+### Próximos pasos
+<details>
+  <summary>79/84 - Corrección de errores en juego multijugador con Node.js</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>79/84 - Desarrollo Colaborativo con Git y GitHub para Programadores</summary>
+  <br/>
+</details>
