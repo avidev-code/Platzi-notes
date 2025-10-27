@@ -105,27 +105,27 @@
 
 ### 🖥️ Desarrollando un juego con HTML y Javascript
 <details>
-  <summary>16/84 - Maquetación de Páginas Web para Videojuegos en HTML</summary>
+  <summary>17/84 - Maquetación de Páginas Web para Videojuegos en HTML</summary>
   <br/>
 </details>
 
 <details>
-  <summary>17/84 - Selección de Mascotas en HTML para Juegos Interactivos</summary>
+  <summary>18/84 - Selección de Mascotas en HTML para Juegos Interactivos</summary>
   <br/>
 </details>
 
 <details>
-  <summary>18/84 - Programar eventos de clic en botones HTML con JavaScript</summary>
+  <summary>19/84 - Programar eventos de clic en botones HTML con JavaScript</summary>
   <br/>
 </details>
 
 <details>
-  <summary>19/84 - Eventos de Carga en JavaScript: Iniciar Juego y Seleccionar Mascota</summary>
+  <summary>20/84 - Eventos de Carga en JavaScript: Iniciar Juego y Seleccionar Mascota</summary>
   <br/>
 </details>
 
 <details>
-  <summary>20/84 - Selección de Mascota en JavaScript: Implementación y Validación</summary>
+  <summary>21/84 - Selección de Mascota en JavaScript: Implementación y Validación</summary>
   <br/>
 </details>
 
@@ -160,89 +160,89 @@
 </details>
 
 <details>
-  <summary>30/84 - Operadores Lógicos en Programación: AND, OR y NOT</summary>
+  <summary>28/84 - Operadores Lógicos en Programación: AND, OR y NOT</summary>
   <br/>
 </details>
 
 <details>
-  <summary>31/84 - Actualización de Vidas en Juego de Combate con JavaScript</summary>
+  <summary>29/84 - Actualización de Vidas en Juego de Combate con JavaScript</summary>
   <br/>
 </details>
 
 <details>
-  <summary>32/84 - Validación de Vidas y Mensajes Finales en Juegos</summary>
+  <summary>30/84 - Validación de Vidas y Mensajes Finales en Juegos</summary>
   <br/>
 </details>
 
 <details>
-  <summary>33/84 - Funcionalidad de Reinicio y Desactivación de Botones en Juego</summary>
+  <summary>31/84 - Funcionalidad de Reinicio y Desactivación de Botones en Juego</summary>
   <br/>
 </details>
 
 <details>
-  <summary>34/84 - Mostrar y ocultar secciones en HTML con JavaScript</summary>
+  <summary>32/84 - Mostrar y ocultar secciones en HTML con JavaScript</summary>
   <br/>
 </details>
 <br/>
 
 ### 🖥️ Estilos con CSS
 <details>
-  <summary>35/84 - Estilos CSS: Selectores, Propiedades y Valores</summary>
+  <summary>34/84 - Estilos CSS: Selectores, Propiedades y Valores</summary>
   <br/>
 </details>
 
 <details>
-  <summary>36/84 - Tipos de Visualización en CSS: Display Block, Inline e Inline Block</summary>
+  <summary>35/84 - Tipos de Visualización en CSS: Display Block, Inline e Inline Block</summary>
   <br/>
 </details>
 
 <details>
-  <summary>37/84 - Alineación de Elementos con Flexbox en CSS</summary>
+  <summary>36/84 - Alineación de Elementos con Flexbox en CSS</summary>
   <br/>
 </details>
 
 <details>
-  <summary>38/84 - Modelo de Caja en CSS: Espaciado y Bordes</summary>
+  <summary>37/84 - Modelo de Caja en CSS: Espaciado y Bordes</summary>
   <br/>
 </details>
 
 <details>
-  <summary>39/84 - Diseño y Estilo de Páginas Web con HTML y CSS</summary>
+  <summary>38/84 - Diseño y Estilo de Páginas Web con HTML y CSS</summary>
   <br/>
 </details>
 
 <details>
-  <summary>40/84 - Estilos CSS para Botones en Juegos: Diseño de Pantallas Interactivas</summary>
+  <summary>39/84 - Estilos CSS para Botones en Juegos: Diseño de Pantallas Interactivas</summary>
   <br/>
 </details>
 
 <details>
-  <summary>41/84 - Estilos CSS para Mejorar la Interfaz de un Juego</summary>
+  <summary>40/84 - Estilos CSS para Mejorar la Interfaz de un Juego</summary>
   <br/>
 </details>
 
 <details>
-  <summary>42/84 - Estilizado de Pantallas de Juego con CSS y Flexbox</summary>
+  <summary>41/84 - Estilizado de Pantallas de Juego con CSS y Flexbox</summary>
   <br/>
 </details>
 
 <details>
-  <summary>43/84 - Separación de mensajes y estilos en JavaScript y HTML</summary>
+  <summary>42/84 - Separación de mensajes y estilos en JavaScript y HTML</summary>
   <br/>
 </details>
 
 <details>
-  <summary>44/84 - CSS Grid: Organiza Elementos en Rejillas Bidimensionales</summary>
+  <summary>43/84 - CSS Grid: Organiza Elementos en Rejillas Bidimensionales</summary>
   <br/>
 </details>
 
 <details>
-  <summary>45/84 - Diseño Responsivo con CSS: Media Queries y Flexbox</summary>
+  <summary>44/84 - Diseño Responsivo con CSS: Media Queries y Flexbox</summary>
   <br/>
 </details>
 
 <details>
-  <summary>46/84 - Pseudoclases en CSS: Mejora la Interacción del Usuario</summary>
+  <summary>45/84 - Pseudoclases en CSS: Mejora la Interacción del Usuario</summary>
   <br/>
 </details>
 <br/>
