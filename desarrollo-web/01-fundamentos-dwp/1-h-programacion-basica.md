@@ -925,13 +925,368 @@
   <summary>09/84 - Algoritmo avanzado de piedra, papel o tijera</summary>
   <br/>
   
-  
+  Ya construimos la base de nuestro juego de piedra, papel o tijera. Ahora pongámoslo a funcionar. Esta es la segunda parte del ejercicio de [programar un juego de piedra, papel o tijera](https://platzi.com/clases/3208-programacion-basica/51984-algoritmo-de-piedra-papel-o-tijera/) que planteamos la clase anterior. Visita la clase si deseas ver cómo llegamos hasta aquí 😉
+
+  ## **¿Dónde nos quedamos?**
+
+  Aquí nos quedamos. Compáralo con tu código, o construye el tuyo para continuar la clase 🙂
+
+  > 💡 Ojo, no copies y pegues si no lo has hecho aún. Al contrario, aprovecha la oportunidad para practicar 😉
+  > 
+
+  Sin embargo, si tienes problemas para visualizarlo por el tamaño de la ventana, prueba copiandolo y pegandolo en un archivo HTML diferente al tuyo en Visual Studio Code. Ahí deberías poder verlo bien 👍
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt( "Elige: 1 para piedra, 2 para papel, 3 para tijera" );
+              // alert( "Elegiste " + jugador );
+
+              //INFORMANDO LA ELECCIÓN DEL JUGADOR
+              if ( eleccionDelJugador == 1 ) {
+                  alert( "Elegiste piedra" );
+              }
+              else if ( eleccionDelJugador == 2 ) {
+                  alert( "Elegiste papel" )
+              }
+              else if ( eleccionDelJugador == 3 ) {
+                  alert( "Elegiste tijera" )
+              }
+              else {
+                  alert( "Elegiste otra cosa, así no puedes jugar >-<" )
+              }
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+
+  ```
+
+  ## **La elección de la computadora**
+
+  Necesitamos un oponente para este juego, así que primero debemos trabajar en la elección de la computadora.
+
+  Lógico quieres que la computadora elija una opción al azar para el juego. Pero eso lo construiremos en la clase de [aleatoriedad](https://platzi.com/clases/3208-programacion-basica/51986-aleatoriedad/) 😉 Mientras tanto, usa comentarios y espacios para crear un apartado dónde escribiremos este código más tarde; y escribe en una línea que la computadora. Elige una de las tres opciones (puede ser la que tú quieras, con los números que empleamos para la elección del jugador).
+
+  ¿Ya lo hiciste? Inténtalo por tu cuenta, y luego compáralo con el código aquí abajo 😉
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt( "Elige: 1 para piedra, 2 para papel, 3 para tijera" );
+              // alert( "Elegiste " + jugador );
+
+              //INFORMANDO LA ELECCIÓN DEL JUGADOR
+              if ( eleccionDelJugador == 1 ) {
+                  alert( "Elegiste piedra" );
+              }
+              else if ( eleccionDelJugador == 2 ) {
+                  alert( "Elegiste papel" )
+              }
+              else if ( eleccionDelJugador == 3 ) {
+                  alert( "Elegiste tijera" )
+              }
+              else {
+                  alert( "Elegiste otra cosa, así no puedes jugar >-<" )
+              }
+
+              //OBTENIENDO LA ELECCIÓN DEL COMPUTADOR
+              let eleccionDelComputador = 1;
+
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+
+  ```
+
+  ## **Anunciando la elección del computador**
+
+  Antes de proceder, planteemos un momento como queremos que se produzca el juego:
+
+  1. El juego pide su elección al jugador, y luego le informa cuál fue su elección.
+  2. El juego asigna una elección a la computadora, y luego le informa al jugador la elección de la computadora.
+  3. El juego evalúa ambas elecciones, decide el ganador, y muestra un mensaje informando el veredicto.
+
+  Por lo tanto, ahora que la computadora ya eligió, crea un apartado que informe la elección de la computadora con un `alert()` 🙂 crea un apartado para esto, y recicla el código que usaste para informar la elección del jugador para que muestre ahora la elección del computador 😉
+
+  > 💡 ¡Por cierto! También puedes usar emojis en los mensajes. Puedes utilizarlos desde la emojipedia o, si estás en windows, puedes pulsar Win+”.” para abrir la ventana de emojis 🙂
+  > 
+
+  Hazlo tú y pruébalo en el navegador para validar que esté funcionando bien. Luego compáralo con el código de abajo antes de continuar 😉
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt( "Elige: 1 para 🥌, 2 para 📄, 3 para ✂️" );
+              // alert( "Elegiste " + jugador );
+
+              //INFORMANDO LA ELECCIÓN DEL JUGADOR
+              if ( eleccionDelJugador == 1 ) {
+                  alert( "Elegiste 🥌" );
+              }
+              else if ( eleccionDelJugador == 2 ) {
+                  alert( "Elegiste 📄" )
+              }
+              else if ( eleccionDelJugador == 3 ) {
+                  alert( "Elegiste ✂️" )
+              }
+              else {
+                  alert( "Elegiste otra cosa, así no puedes jugar 😣" )
+              }
+
+              //OBTENIENDO LA ELECCIÓN DEL COMPUTADOR
+              let eleccionDelComputador = 1;
+
+              //INFORMANDO LA ELECCION DEL COMPUTADOR
+              if ( eleccionDelComputador == 1 ) {
+                  alert( "La computadora eligió 🥌" );
+              }
+              else if ( eleccionDelComputador == 2 ) {
+                  alert( "La computadora eligió 📄" )
+              }
+              else if ( eleccionDelComputador == 3 ) {
+                  alert( "La computadora eligió ✂️" )
+              }
+              else {
+                  alert( "Cometí un error programando la elección del computador 🙃" )
+              }
+
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+  ```
+
+  ## **¿Quién gana y quién pierde?**
+
+  Crea un nuevo apartado para saber si ganas o pierdes. Allí debes escribir condiciones para evaluar:
+
+  - Cuándo empatas.
+  - Cuándo ganas.
+  - Cuándo pierdes.
+
+  Luego de evaluar esto, utiliza un `alert()` para informarle al jugador si ganó, empató o perdió 👍
+
+  💡 Ojo, puedes evaluar varias condiciones a la vez en un solo `if` si separas las condiciones con un `&&`. Por ejemplo:
+
+  ```jsx
+  if ( eleccionDelJugador = 1 && eleccionDelComputador = 3 ) {
+      alert( "¡GANASTE! 🥳" );
+  }
+  ```
+
+  Empieza escribiendo la condición de empate (que es la más fácil) y luego escribe las demás. Inténtalo, pruébalo en el navegador, cambia la elección del computador para validar que en serio todo funciona, y luego compara tu código con el ejemplo de abajo 👍
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <meta charset="utf-8" />
+          <title>Algoritmo piedra, papel o tijera</title>
+          <script>
+              //OBTENIENDO LA ELECCIÓN DEL JUGADOR
+              let eleccionDelJugador = 0;
+              eleccionDelJugador = prompt( "Elige: 1 para 🥌, 2 para 📄, 3 para ✂️" );
+              // alert( "Elegiste " + jugador );
+
+              //INFORMANDO LA ELECCIÓN DEL JUGADOR
+              if ( eleccionDelJugador == 1 ) {
+                  alert( "Elegiste 🥌" );
+              }
+              else if ( eleccionDelJugador == 2 ) {
+                  alert( "Elegiste 📄" )
+              }
+              else if ( eleccionDelJugador == 3 ) {
+                  alert( "Elegiste ✂️" )
+              }
+              else {
+                  alert( "Elegiste otra cosa, así no puedes jugar 😣" )
+              }
+
+              //OBTENIENDO LA ELECCIÓN DEL COMPUTADOR
+              let eleccionDelComputador = 1;
+
+              //INFORMANDO LA ELECCION DEL COMPUTADOR
+              if ( eleccionDelComputador == 1 ) {
+                  alert( "La computadora eligió 🥌" );
+              }
+              else if ( eleccionDelComputador == 2 ) {
+                  alert( "La computadora eligió 📄" )
+              }
+              else if ( eleccionDelComputador == 3 ) {
+                  alert( "La computadora eligió ✂️" )
+              }
+              else {
+                  alert( "Cometí un error programando la elección del computador 🙃" )
+              }
+
+              //DECIDIENDO EL GANADOR
+              if ( eleccionDelJugador == eleccionDelComputador ) {
+                  alert( "¡EMPATE! 🤼" );
+              }
+              else if ( eleccionDelJugador == 1 && eleccionDelComputador == 3 ) {
+                  alert( "¡GANASTE! 🥳" );
+              }
+              else if ( eleccionDelJugador == 2 && eleccionDelComputador == 1 ) {
+                  alert( "¡GANASTE! 🥳" );
+              }
+              else if ( eleccionDelJugador == 3 && eleccionDelComputador == 2 ) {
+                  alert( "¡GANASTE! 🥳" );
+              }
+              else {
+                  alert( "PERDISTE... 😢" );
+              }
+
+          </script>
+      </head>
+      <body>
+          <h1>Piedra, papel o tijera</h1>
+      </body>
+  </html>
+
+  ```
+
+  ¿Te divertiste?
+
+  Existen muchos caminos para llegar a la misma solución. Puedes abordar el problema de varias formas y personalizarlo a tu gusto. Si te dio error en algún lado, no te preocupes. Resolver errores en el código es la mitad del trabajo de un programador. Desarrolla tu tolerancia a la frustración, y tómalo como parte del oficio.
+
+  Experimenta un poco con tu código, personalízalo y cuando estés listo continúa a la clase de [aleatoriedad](https://platzi.com/clases/3208-programacion-basica/51986-aleatoriedad/) para que aprendas a hacer que la computadora elija por si misma lo que va a jugar 😁
 
 </details>
 
 <details>
   <summary>10/84 - Aleatoriedad</summary>
   <br/>
+
+  Ya programamos lo básico para que el juego funcione. Pero es momento de hacer que el computador elija por si solo entre piedra, papel, o tijera. Necesito compartirte algunos fundamentos para que realices la práctica de hoy. Estos son:
+
+  ## **El objeto “Math” en JavaScript**
+
+  En JavaScript existen entidades llamadas “Objetos” que guardan dentro de ellas variables (que se llaman “propiedades” cuando viven dentro de un objeto) y funciones (que se llaman “métodos” cuando viven dentro de un objeto.
+
+  En este sentido, **Math** es un objeto especial en JavaScript que contiene dentro de él numerosas funciones y valores que son esenciales para hacer cálculos matemáticos, como el número PI o la función de redondear números decimales.
+
+  ## **¿Cómo usar el objeto Math de JavaScript?**
+
+  Debes escribir “Math” (atención a la “M” en mayúscula), luego un punto (”.”) y finalmente la propiedad o método que desees invocar.
+
+  Si deseas invocar un método, recuerda que debes escribir los paréntesis “( )” para que el método se ejecute.
+
+  ### Ejemplos de propiedades
+
+  | **Propiedades de Math** | **Para qué sirve** |
+  | --- | --- |
+  | `Math.PI` | Cuándo el código se ejecuta, el navegador sustituye esto por el número PI. |
+  | `Math.E` | Cuándo el código se ejecuta, el navegador sustituye esto por la constante de Euler. |
+
+  ### Ejemplos de métodos
+
+  | **Métodos de Math** | **Para qué sirven** |
+  | --- | --- |
+  | `Math.ceil()` | Redondea hacia arriba el número decimal que esté entre los paréntesis, hasta convertirlo en un número entero. |
+  | `Math.floor()` | Redondea hacia abajo el número decimal que esté entre los paréntesis, hasta convertirlo en un número entero. |
+  | `Math.round()` | Redondea el número decimal entre paréntesis hacia el entero más cercano. |
+  | `Math.random()` | Retorna un número decimal aleatorio entre el 0 (incluido) y el 1 (excluido). |
+
+  Prueba estos valores y métodos en la consola del navegador 🙂
+
+  ## **¿Cómo declarar funciones en JavaScript?**
+
+  Cuando encuentras un segmento de código que puede repetirse dentro del programa, o que ejecuta un proceso muy específico dentro de tu código, entonces lo ideal es encapsularlo en una función.
+
+  Hay varias formas de declarar una función. Pero la más básica de todas consiste en escribir la palabra reservada `function`, seguida de la función con sus parámetros entre paréntesis, y el bloque de código entre llaves `{ }`.
+
+  Ejemplo:
+
+  ```jsx
+  function hacerAlgo( param1 , param2 ) {
+      let resultado = param1 + param2;
+      return resultado;
+  }
+
+  hacerAlgo( 3 , 4 ); //Devuelve 7
+  ```
+
+  Cuando ejecutas la función, esta ejecuta todo el código que insertaste dentro de las llaves `{ }` cuando la declaraste. De este modo, puedes ejecutar la función tantas veces como necesites con solo declararla una vez.
+
+  Cuando la declaras, puedes indicar parámetros y usarlos dentro del bloque de código. Luego, cuando la ejecutes, esos parámetros se sustituirán con los valores que escribas entre paréntesis al momento de ejecutarla.
+
+  También puedes utilizar la palabra reservada `return` dentro del bloque de código de la función para que, al ejecutarla, recibas el valor que indiques luego de escribir `return` (ojo, cuando la función llega a un `return`, su ejecución se detiene. Los comandos que escribas después de un `return` no se van a ejecutar).
+
+  Haz algunos experimentos con esto en la consola antes de continuar 😉
+
+  ## **Generando una elección aleatoria para el computador**
+
+  Intentemos ahora emplear lo aprendido para hacer que la computadora elija piedra, papel o tijera por si sola. Para hacerlo, primero tenemos que entender cómo funcionaría el algoritmo que le permite hacer la selección, y luego tendríamos que introducirlo en nuestro código.
+
+  ### Algoritmo de selección aleatoria
+
+  Primero necesitamos generar un número aleatorio. Ya sabemos que `Math.random()` nos entrega un número aleatorio entre 0 y 1. Sin embargo, nuestro juego necesita un número aleatorio entre 3 y 1 para funcionar. ¿Se te ocurre cómo podrías crearlo con código?
+
+  Para lograrlo, la operación sería esta:
+
+  ```jsx
+  Math.random() * ( max - min + 1 ) + min
+  ```
+
+  Si consideramos que nuestro valor máximo es 3 y el mínimo es 1, esto nos garantiza que siempre obtendremos un número entre 3.9999’ y 1. Por lo tanto, solo tendríamos que meter todo dentro de un `Math.floor()` para obtener un valor aleatorio entre 3 y 1.
+
+  ![Formula para emitir números aleatorios en un rango](https://static.platzi.com/media/articlases/Images/10-1%20-%20Formula%20para%20emitir%20n%C3%BAmeros%20aleatorios%20en%20un%20rango.jpg)
+
+  Por lo tanto, para conseguir que la computadora elija aleatoriamente, necesitaríamos el siguiente código:
+
+  ```jsx
+  //OBTENIENDO LA ELECCIÓN DEL COMPUTADOR
+  let max = 3;
+  let min = 1;
+  let eleccionDelComputador = Math.floor( Math.random() * ( max - min + 1 ) + min );
+
+  ```
+
+  Introduce esto en tu código, y prueba a ver como funciona 🙂
+
+  ## **Convirtiendo el algoritmo en una función**
+
+  Ahora, ¿por qué no intentas convertir eso en una función? Te dejaré una posible solución aquí abajo para que compares, pero intenta hacerlo por tu cuenta antes de fijarte en ella 😉
+
+  ```jsx
+  //OBTENIENDO LA ELECCIÓN DEL COMPUTADOR
+  function numeroAleatorio( min , max ) {
+      return Math.floor( Math.random() * ( max - min + 1 ) + min );
+  }
+  let eleccionDelComputador = numeroAleatorio( 1 , 3 );
+
+  ```
+
+  Haz el cambio y prueba tu juego 😁 Sin embargo, ¿Crees que podrías escribir el mismo código en menos líneas? 🤔 No hablo de borrar espacios o líneas, hablo de emplear una lógica diferente para llegar al mismo resultado. Una que requiera menos pasos, y que aun así llegue al mismo sitio 🙂
+
+  Piensa un poco al respecto, experimenta un poco, y cuando estés satisfecho y todo funcione, acompáñame a aprender más sobre como [usar funciones para mejorar la calidad de tu código](https://platzi.com/clases/3208-programacion-basica/51987-refactoring-de-funciones/) 😉 Nos vemos allá 😁
+
 </details>
 
 <details>
