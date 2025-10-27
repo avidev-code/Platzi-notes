@@ -35,6 +35,42 @@
 <details>
   <summary>02/84 - Programación en Navegadores: Primeros Paso</summary>
   <br/>
+
+  Si nos regalas solo unos minutos, podemos enseñarte a escribir tus primeras líneas de código 💚 Solo necesitas un navegador de Internet y la voluntad para intentarlo 😉 .
+
+## **Abriendo la consola del navegador**
+
+Primero necesitamos un espacio dónde escribir código. Así que ve a tu navegador favorito (Google chrome, Edge, Firefox, Opera, o el que prefieras) y dirígete a la barra de direcciones (ese lugar donde escribes “`Platzi.com`”).
+
+Ahí, vas a escribir “**about:blank**” (sin las comillas). Eso hará que la pestaña donde lo escribiste quede vacía. Debería quedar un espacio totalmente blanco. Una vez ahí, vas a hacer **clic derecho** en el espacio en blanco y luego vas a hacer clic en un botón que diga “**inspeccionar**” (algunos navegadores lo llaman “inspect element”).
+
+Eso abrirá el **inspector de elementos**, un menú donde puedes ver la composición del sitio web dónde estás parado (muchos se espantan cuando lo abren por accidente dentro de un sitio web 😆 Más tarde puedes hacerlo por prueba si quieres 👍).
+
+El inspector se abre por defecto en una pestaña llamada “elementos” en la parte superior. Lo que estamos buscando está justo al lado: una pestaña llamada “**consola”.**
+
+Ahí es dónde empezarás a programar 😉
+
+![Captura de pantalla que muestra cómo llegar a la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%201.png)
+
+## **Tus primeras líneas de código**
+
+Haz clic en la consola y escribe lo mismo que te indico aquí abajo. **Recuerda pulsar [enter] luego de escribir cada línea para ver el resultado** 🙂
+
+```jsx
+1 + 1   //[enter]
+
+9 - 5   //[enter]
+
+12 * 4  //[enter]
+
+30 / 5  //[enter]
+
+```
+
+![Captura de pantalla de cómo se ven estos cálculos en la consola](https://static.platzi.com/media/articlases/Images/Clase%2001%20-%202.png)
+
+Seguro ya notaste que puedes usar la consola como una especie de calculadora. Realiza algunos experimentos antes de continuar 😉
+
 </details>
 
 <details>
