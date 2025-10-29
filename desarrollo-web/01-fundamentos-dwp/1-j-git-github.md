@@ -53,11 +53,17 @@
   En este curso, aprenderás a:
 
   ✔ Configurar **GIT** en tu computadora.
+
   ✔ Crear repositorios locales y modificar archivos.
+
   ✔ Trabajar con ramas y fusionarlas correctamente.
+
   ✔ Gestionar un flujo de trabajo profesional con **GIT y GITHUB**.
+
   ✔ Integrar colaboradores, revisar cambios y resolver conflictos.
+
   ✔ Utilizar herramientas avanzadas como **Codespaces** y automatizaciones.
+  
 
   ### Tu ventaja sobre otros desarrolladores
   Muchos dicen que saben **GIT**, pero solo manejan lo básico. En este curso, irás más allá: no solo aprenderás a hacer **commit, pull y push**, sino que también dominarás herramientas avanzadas que te harán destacar en la industria.
