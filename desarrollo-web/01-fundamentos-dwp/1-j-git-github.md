@@ -63,7 +63,7 @@
   ✔ Integrar colaboradores, revisar cambios y resolver conflictos.
 
   ✔ Utilizar herramientas avanzadas como **Codespaces** y automatizaciones.
-  
+
 
   ### Tu ventaja sobre otros desarrolladores
   Muchos dicen que saben **GIT**, pero solo manejan lo básico. En este curso, irás más allá: no solo aprenderás a hacer **commit, pull y push**, sino que también dominarás herramientas avanzadas que te harán destacar en la industria.
@@ -83,12 +83,9 @@
   <summary>02/42 - Fundamentos de Git: Configuración y Comandos Básicos</summary>
   <br/>
 
-  **Resumen**
-
-  Trabajar con Git en la terminal permite a los desarrolladores gestionar sus proyectos de manera eficiente. A continuación, revisamos cómo instalar, configurar y utilizar Git en Linux, Mac y WSL de Windows, junto con algunas recomendaciones prácticas para dominar los comandos iniciales de esta herramienta.
+  > Resumen  Trabajar con Git en la terminal permite a los desarrolladores gestionar sus proyectos de manera eficiente. A continuación, revisamos cómo instalar, configurar y utilizar Git en Linux, Mac y WSL de Windows, junto con algunas recomendaciones prácticas para dominar los comandos iniciales de esta herramienta.
 
   ## ¿Cómo confirmar que Git está instalado en tu sistema?
-
   Para verificar la instalación de Git:
 
   1. Abre la terminal y escribe el comando `git --version`.
@@ -96,7 +93,6 @@
   3. Si no aparece la versión, revisa los recursos adjuntos donde se explican las instalaciones para cada sistema operativo.
 
   ## ¿Cómo crear y preparar el primer proyecto con Git?
-
   El primer paso para crear un proyecto en Git es:
 
   1. Limpia la terminal para evitar confusión visual.
@@ -104,7 +100,6 @@
   3. Navega a la carpeta con `cd nombre_del_proyecto`.
 
   ## ¿Cómo inicializar un repositorio en Git?
-
   Al estar dentro de la carpeta de tu proyecto, inicia el repositorio con:
 
   - `git init`: Esto crea la rama inicial “master” por defecto.
@@ -115,7 +110,6 @@
   2. Actualiza la rama en el proyecto actual con `git branch -m main`.
 
   ## ¿Cómo personalizar tu configuración de usuario en Git?
-
   Configura el nombre de usuario y correo electrónico de Git, que identificará todas tus contribuciones:
 
   1. Usa `git config --global user.name "Tu Nombre o Apodo"`.
@@ -170,14 +164,7 @@
   <summary>03/42 - Control de Versiones con Git: Comandos Básicos y Flujo de Trabajo</summary>
   <br/>
 
-  **Resumen**
-
-<aside>
-💡
-
-**Aprender a utilizar Git desde los primeros pasos puede parecer desafiante, pero es esencial para registrar cambios y manejar versiones de cualquier proyecto. Siguiendo un flujo de trabajo sencillo y utilizando los comandos adecuados, puedes dominar el control de versiones y llevar un seguimiento preciso de tus archivos.**
-
-</aside>
+ > 💡 Aprender a utilizar Git desde los primeros pasos puede parecer desafiante, pero es esencial para registrar cambios y manejar versiones de cualquier proyecto. Siguiendo un flujo de trabajo sencillo y utilizando los comandos adecuados, puedes dominar el control de versiones y llevar un seguimiento preciso de tus archivos.
 
 ## ¿Cómo inicia el control de versiones con Git?
 
@@ -224,7 +211,7 @@ Git trata cualquier archivo de igual manera, sin importar su extensión o tipo, 
 
 ---
 
-Terminos basicos
+**Terminos basicos**
 
 - cd → cambiar directorio y/o regresar al directorio raiz
     - cd .. → retroceder 1 carpeta dentro del directorio
@@ -246,17 +233,9 @@ Terminos basicos
   <summary>04/42 - Gestión de ramas en Git: creación, fusión y eliminación eficiente</summary>
   <br/>
 
-  **Resumen**
-
-<aside>
-💡
-
-**El uso de ramas en Git permite trabajar en un entorno aislado sin interferir con otros, facilitando la organización y el control del proyecto. Aprender a crear, gestionar y fusionar ramas optimiza la colaboración y ayuda a mantener la limpieza en el historial de cambios.**
-
-</aside>
+ > 💡 El uso de ramas en Git permite trabajar en un entorno aislado sin interferir con otros, facilitando la organización y el control del proyecto. Aprender a crear, gestionar y fusionar ramas optimiza la colaboración y ayuda a mantener la limpieza en el historial de cambios.**
 
 ## ¿Por qué son útiles las ramas en Git?
-
 Las ramas son una herramienta que permite trabajar en tareas específicas sin alterar la rama principal. Entre sus ventajas se encuentran:
 
 - Aislamiento de cambios individuales.
@@ -264,7 +243,6 @@ Las ramas son una herramienta que permite trabajar en tareas específicas sin al
 - Organización de actividades múltiples en diferentes ramas.
 
 ## ¿Cómo verificar la rama actual?
-
 Para saber en qué rama estás trabajando, ejecuta:
 
 ```bash
@@ -274,7 +252,6 @@ git branch
 El asterisco (*) indica la rama activa. Inicialmente, suele ser `main`, pero al crear más ramas, la lista crecerá, permitiéndote ver todas las disponibles y cuál es la actual.
 
 ## ¿Cómo crear una nueva rama en Git?
-
 La creación de ramas permite desarrollar sin riesgo en paralelo. Para crear y moverte a una nueva rama, usa:
 
 ```bash
@@ -284,7 +261,6 @@ git checkout -b
 Por ejemplo, `git checkout -b Amin` crea y mueve a la rama `Amin`. Puedes verificar que estás en esta rama ejecutando `git branch`.
 
 ## ¿Cómo agregar y confirmar cambios en una rama?
-
 Dentro de una nueva rama, los archivos se editan y confirman sin que impacten otras ramas. Sigue estos pasos para agregar y confirmar:
 
 1. Crea o edita un archivo.
@@ -306,7 +282,6 @@ Dentro de una nueva rama, los archivos se editan y confirman sin que impacten ot
 Los cambios ahora son parte de la rama en la que trabajas y no afectan la principal.
 
 ## ¿Cómo fusionar cambios de una rama secundaria a la principal?
-
 Para unificar el trabajo en la rama principal:
 
 1. Cambia a la rama principal:*Nota*: Puedes usar también `git checkout main`.
@@ -325,7 +300,6 @@ Para unificar el trabajo en la rama principal:
 Git indicará que el proceso fue exitoso y actualizará el contenido en la rama `main` con los cambios de la rama secundaria.
 
 ## ¿Por qué es importante eliminar ramas que ya no se usan?
-
 Una vez fusionada una rama, es buena práctica eliminarla para evitar desorden. Hazlo con:
 
 ```bash
@@ -352,22 +326,13 @@ git branch git checkout -b "dev" nano testing_dev.txt git add . git commit -m "n
   <summary>05/42 - Git Reset vs Git Revert: Manejo de Historial y Corrección de Errores</summary>
   <br/>
 
-  **Resumen**
-
-<aside>
-💡
-
-**Para quienes se inician en el manejo de versiones con Git, comandos como `git reset` y `git revert` se vuelven herramientas indispensables, ya que permiten deshacer errores y ajustar el historial de cambios sin complicaciones. Aunque al avanzar en la experiencia puedan dejarse de lado, dominar su uso resulta clave para un control de versiones eficiente.**
-
-</aside>
+ > 💡 Para quienes se inician en el manejo de versiones con Git, comandos como `git reset` y `git revert` se vuelven herramientas indispensables, ya que permiten deshacer errores y ajustar el historial de cambios sin complicaciones. Aunque al avanzar en la experiencia puedan dejarse de lado, dominar su uso resulta clave para un control de versiones eficiente.
 
 ## ¿Cuál es la diferencia entre Git Reset y Git Revert?
-
 - **Git Reset**: establece el puntero de los commits a uno anterior, permitiendo “volver en el tiempo” y explorar el historial de cambios. Es útil para deshacer actualizaciones recientes o revisar lo que se hizo en cada commit.
 - **Git Revert**: crea un nuevo commit que revierte los cambios de un commit específico, permitiendo conservar el historial original sin eliminaciones. Es ideal para regresar a un estado anterior sin afectar los commits de otros usuarios.
 
 ## ¿Cómo se utiliza Git Reset?
-
 1. Ejecuta `git log` para identificar el historial de commits. El commit actual se marca con `HEAD` apuntando a `main`.
 2. Si quieres eliminar cambios recientes:
     - Crea un archivo temporal (ejemplo: `error.txt`) y realiza un commit.
@@ -380,13 +345,11 @@ git branch git checkout -b "dev" nano testing_dev.txt git add . git commit -m "n
     - Este último parámetro debe ser una **última opción** debido a su impacto irreversible en el historial.
 
 ## ¿Cómo funciona Git Revert?
-
 1. **Identificación del commit**: usa `git log` para encontrar el commit a revertir.
 2. **Ejecuta `git revert`** seguido del hash del commit: crea un nuevo commit inverso, preservando el historial.
 3. **Editar el mensaje de commit**: permite dejar claro el motivo de la reversión, ideal en equipos colaborativos para mantener claridad.
 
 ## ¿Cuándo es recomendable utilizar Git Reset o Git Revert?
-
 Ambos comandos resultan útiles en diversas situaciones:
 
 - **Corrección de errores**: si has subido un archivo incorrecto, `git revert` es rápido y seguro para deshacer el cambio sin afectar el historial.
@@ -394,7 +357,6 @@ Ambos comandos resultan útiles en diversas situaciones:
 - **Manejo de conflictos**: en casos extremos de conflicto de archivos, `git reset` es útil, aunque puede ser mejor optar por resolver conflictos manualmente.
 
 ## ¿Cómo aseguras una correcta comunicación en el uso de estos comandos?
-
 - Utiliza estos comandos en sincronización con el equipo.
 - Evita el uso de `git reset --hard` sin coordinación para prevenir la pérdida de trabajo ajeno.
 - Documenta cada reversión con un mensaje claro para asegurar el seguimiento de cambios.
