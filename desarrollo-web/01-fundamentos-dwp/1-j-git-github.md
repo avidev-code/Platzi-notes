@@ -268,14 +268,12 @@ Dentro de una nueva rama, los archivos se editan y confirman sin que impacten ot
     
     ```bash
     git add .
-    
     ```
     
 3. Confirma el cambio:
     
     ```bash
     git commit -m "mensaje de confirmación"
-    
     ```
     
 
@@ -316,10 +314,10 @@ Eliminar ramas que ya cumplieron su propósito previene conflictos y mantiene el
 - `git checkout:` Cambia entre ramas
 - `git switch:` Cambia entre ramas
 - `git merge:` Fusiona ramas (unifica todas las ramas en main)
-- g`it branch -D` “nombre rama”: Eliminar rama. El una buena práctica después del merge.
-
+- `git branch -D` “nombre rama”: Eliminar rama. El una buena práctica después del merge.
+<br/>
 git branch git checkout -b "dev" nano testing_dev.txt git add . git commit -m "nuevo archivo creado" git checkout dev git switch main git merge dev git branch ls git log clear git branch -D dev
-
+<br/><br/>
 </details>
 
 <details>
