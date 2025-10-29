@@ -399,16 +399,240 @@ git reset --hard "hash"
 <details>
   <summary>06/42 - Uso de Git Tag y Git Checkout para Gestión de Versiones y Revisión</summary>
   <br/>
+
+ > 💡 Git facilita el control de versiones y organización de proyectos, y los comandos `git tag` y `git checkout` son piezas clave para una gestión eficiente y ordenada de los cambios en el código. Ambos comandos ayudan a crear puntos de referencia y explorar cambios sin afectar el desarrollo principal, ofreciendo opciones robustas para pruebas y organización.**
+
+## ¿Cómo se utiliza `git tag` para organizar versiones?
+
+El comando `git tag` permite marcar un commit con una etiqueta descriptiva, ideal para señalar versiones estables o hitos importantes en el proyecto. Esto resulta útil en proyectos donde el equipo necesita identificar fácilmente puntos clave de avance. Al etiquetar, se añade una nota visible en el historial, lo cual facilita encontrar versiones específicas en un flujo de trabajo con muchos commits.
+
+Para crear un tag:
+
+- Escribe `git tag -a v1.0 -m "primera versión estable"` y presiona Enter.
+- Al consultar `git log`, se verá el tag junto al commit en el historial.
+
+Además, `git show`  muestra detalles de la etiqueta, quién la creó, el mensaje de la versión y los cambios asociados a ese commit. Esto es especialmente útil cuando el historial es extenso, ya que permite regresar a puntos específicos sin necesidad de revisar cada commit en el log completo.
+
+Para eliminar un tag:
+
+- Usa `git tag -d v1.0` para remover el tag sin afectar el historial ni los archivos. Esto es conveniente si el nombre del tag necesita ser corregido o ajustado.
+
+## ¿Qué permite `git checkout` al explorar el historial?
+
+El comando `git checkout` tiene usos más amplios que solo cambiar entre ramas. También permite revisar commits previos para explorar o probar cambios sin alterar la rama principal. Al usar `git checkout` , puedes regresar a un punto específico en el historial y evaluar cómo afectaban los cambios al proyecto en ese momento.
+
+Por ejemplo:
+
+1. Cambia a un commit específico con `git checkout` .
+2. Realiza pruebas o modificaciones. Esto te permite simular cambios o ver el estado del proyecto en esa versión.
+3. Para regresar a la rama principal, escribe `git checkout main`. Esto restaura el proyecto al estado actual y evita que los cambios temporales afecten el historial o la estructura del proyecto.
+
+Al navegar entre commits y regresar a `main`, es importante notar que no se crean ramas adicionales, ni se modifican commits previos, lo cual asegura la integridad del historial y la rama principal.
+
+## ¿Cómo integran `git tag` y `git checkout` una experiencia de desarrollo ordenada?
+
+Ambos comandos permiten explorar y organizar sin interferir en el flujo principal del trabajo. `Git tag` marca versiones y puntos importantes, actuando como separadores en el historial, mientras que `git checkout` permite regresar a esos puntos y probar sin comprometer la rama actual. Esto proporciona una estructura en la que el equipo puede trabajar con libertad para realizar pruebas, versionar cambios y retornar al estado actual en cualquier momento sin temor a alterar el trabajo original.
+
+---
+
+La diferencia entre `tag` y `checkout` en Git radica en su funcionalidad:
+
+- **`git tag`**: Se utiliza para crear una etiqueta en un commit específico, lo que permite identificar versiones o hitos importantes en el historial del proyecto. Por ejemplo, `git tag -a v1.0 -m "Primera versión"`.
+- **`git checkout`**: Se utiliza para cambiar entre ramas o explorar commits anteriores sin modificar el historial actual. Por ejemplo, `git checkout <hash_del_commit>` te permite revisar el estado de tu proyecto en ese commit.
+
+Ambos comandos son útiles para gestionar versiones, pero tienen propósitos distintos.
+
+---
+
+La diferencia entre `tag` y `checkout` en Git radica en su funcionalidad:
+
+- **`git tag`**: Se utiliza para crear una etiqueta en un commit específico, lo que permite identificar versiones o hitos importantes en el historial del proyecto. Por ejemplo, `git tag -a v1.0 -m "Primera versión"`.
+- **`git checkout`**: Se utiliza para cambiar entre ramas o explorar commits anteriores sin modificar el historial actual. Por ejemplo, `git checkout <hash_del_commit>` te permite revisar el estado de tu proyecto en ese commit.
+
+Ambos comandos son útiles para gestionar versiones, pero tienen propósitos distintos.
+
 </details>
 
 <details>
   <summary>07/42 - Resolución de Conflictos de Ramas en Git paso a paso</summary>
   <br/>
+
+ > 💡 Cuando trabajamos en equipo, el manejo de conflictos de ramas en Git es esencial para evitar problemas y asegurar una integración fluida de cambios en los archivos compartidos. Aquí te mostramos cómo se genera un conflicto de ramas y la forma efectiva de resolverlo paso a paso.
+
+## ¿Qué es un conflicto de ramas en Git?
+
+En un entorno colaborativo, es común que varias personas realicen modificaciones en archivos compartidos. Esto puede llevar a conflictos de ramas cuando intentamos fusionar cambios y estos alteran las modificaciones previas realizadas por otro colaborador. En estos casos, se debe elegir qué cambios se mantendrán en la rama principal.
+
+![image.png](attachment:385cde68-9d68-4ab6-8c95-25122b1cf8ab:image.png)
+
+## ¿Cómo crear un conflicto de ramas para aprender a resolverlo?
+
+Para experimentar y entender cómo resolver un conflicto, podemos crear uno intencionalmente. Aquí están los pasos básicos:
+
+- Verifica tu rama actual con `git branch`. Si solo tienes la rama `main`, estás listo para iniciar.
+- Crea un archivo, por ejemplo, `conflict.txt`, añade contenido inicial (e.g., “línea original”) y realiza un commit:
+    
+    ```bash
+    git add conflict.txt
+    git commit -m "Archivo de conflicto creado"
+    ```
+    
+- Crea una nueva rama con `git checkout -b developer` y modifica el archivo con nuevos cambios, como “cambios desde la rama dev”, realiza un commit.
+- Vuelve a la rama `main` con `git checkout main` y modifica el mismo archivo en esta rama, por ejemplo, añadiendo “segundo cambio desde main”, y realiza otro commit.
+
+Al regresar a `main` y realizar la fusión de `developer`, verás el conflicto.
+
+## ¿Cómo resolver un conflicto de ramas en Git?
+
+Cuando Git detecta un conflicto, te indicará las diferencias entre las ramas con etiquetas que facilitan la identificación de cambios:
+
+- Abre el archivo en conflicto. Verás secciones como `<<<<< HEAD` y `>>>>>`, que marcan los cambios en `main` y en la rama que intentas fusionar (`developer`).
+- Edita el archivo eliminando las líneas de marcación y decide cuáles cambios deseas conservar, combinar o incluso reescribir.
+- Guarda el archivo sin las señalizaciones de conflicto y realiza un commit para registrar la resolución:
+    
+    ```bash
+    git add conflict.txt
+    git commit -m "Conflicto resuelto"
+    
+    ```
+    
+
+## ¿Qué hacer después de resolver un conflicto?
+
+Una vez resuelto el conflicto y unificada la versión final en `main`, considera eliminar la rama `developer` para evitar conflictos futuros. Esto ayuda a mantener el historial de cambios limpio y reduce la posibilidad de cometer errores en el futuro.
+
 </details>
 
 <details>
   <summary>08/42 - Uso de Git en Visual Studio Code</summary>
   <br/>
+
+ > 💡 Visual Studio Code ofrece una interfaz visual y eficiente para gestionar versiones con Git, simplificando muchas tareas complejas y ahorrando tiempo a los desarrolladores. Integrar VS Code en nuestro flujo de trabajo diario puede facilitar considerablemente el manejo de ramas, commits y conflictos sin depender tanto de comandos en la terminal.
+
+## ¿Cómo abrir VS Code desde la terminal?
+
+- Inicia VS Code en la ubicación del proyecto con `code .`.
+- Esto abre una instancia de VS Code en el directorio actual, incluyendo todos los archivos versionados con Git.
+
+## ¿Cómo visualizar y gestionar ramas en VS Code?
+
+- Dentro de VS Code, identifica tu rama activa en la sección de control de versiones.
+- Selecciona la rama para ver las opciones de cambio, como alternar entre ramas o crear nuevas.
+- Los cambios en las ramas se presentan en una gráfica visual, diferenciando fusiones y ramas en colores, una ventaja significativa sobre `git log`.
+
+## ¿Cómo hacer un commit de cambios en VS Code?
+
+- Al editar un archivo, el ícono de control de versiones muestra un indicador de cambio.
+- En lugar de usar `git commit -m "mensaje"`, puedes simplemente añadir un mensaje y presionar commit en la interfaz de VS Code.
+
+## ¿Cómo crear y alternar entre ramas en VS Code?
+
+1. Haz clic en “Create New Branch” y nómbrala, por ejemplo, “VS Code Dev”.
+2. VS Code marca esta nueva rama como activa, heredando los cambios de la rama principal.
+3. Al editar archivos en esta rama, puedes realizar commits directamente en la interfaz.
+
+## ¿Cómo resolver conflictos de fusión en VS Code?
+
+- Selecciona la rama con la que deseas fusionar (por ejemplo, VS Code Dev con Main) usando el menú de Branch > Merge.
+- Cuando ocurre un conflicto, VS Code despliega opciones de resolución con colores para cada cambio, simplificando la selección entre el cambio actual, el entrante o ambos.
+- Puedes optar por “Merge Editor” para una vista más visual y confirmar la fusión con un “Complete Merge” al finalizar.
+
+## ¿Cómo iniciar un nuevo repositorio en VS Code?
+
+1. Crea un nuevo directorio y abre VS Code en esa ubicación.
+2. Al no haber archivos, selecciona “Inicializar repositorio” para configurar un nuevo repositorio.
+3. Esto ejecuta `git init`, crea la rama principal (main) y permite añadir nuevas ramas y hacer commits sin usar comandos.
+
+---
+
+## Usando Git desde Visual Studio Code
+
+Visual Studio Code (VS Code) tiene integración nativa con Git, lo que facilita el control de versiones sin necesidad de usar la terminal. Aquí te muestro cómo trabajar con Git en VS Code paso a paso. 🚀
+
+### 1. Configurar Git en VS Code
+
+### Verificar si Git está instalado
+
+Abre VS Code y presiona `Ctrl + ñ` para abrir la terminal integrada. Luego, escribe:
+
+git --version
+
+🔹 Si Git no está instalado, descárgalo desde [git-scm.com](https://git-scm.com/).
+
+### Configurar tu usuario y correo
+
+Si es la primera vez que usas Git, configura tu nombre y correo:
+
+git config --global user.name "Tu Nombre" git config --global user.email "[tuemail@example.com](mailto:tuemail@example.com)"
+
+### 2. Inicializar un Repositorio en VS Code
+
+Si estás en un proyecto nuevo y quieres iniciar Git: 1️⃣ Abre VS Code y carga tu proyecto. 2️⃣ Abre la terminal (`Ctrl + ñ`) y ejecuta:
+
+git init
+
+3️⃣ Verás una nueva sección en el panel de control con el icono de **Git**.
+
+### 3. Clonar un Repositorio desde GitHub
+
+Si el proyecto ya está en GitHub: 1️⃣ Copia la URL del repositorio desde GitHub. 2️⃣ En VS Code, abre la terminal y escribe:
+
+git clone <URL_DEL_REPOSITORIO>
+
+3️⃣ Abre la carpeta del proyecto en VS Code (`File > Open Folder`).
+
+### 4. Realizar Commits desde VS Code
+
+### Agregar archivos al control de versiones
+
+1️⃣ En el menú de Git (`Ctrl + Shift + G`), verás una lista de archivos modificados. 2️⃣ Haz clic en `+` junto a cada archivo para agregarlo a staging (equivalente a `git add`). 3️⃣ Escribe un mensaje de commit en la caja de texto y presiona `Ctrl + Enter` o haz clic en ✅ (equivalente a `git commit -m "mensaje"`).
+
+### 5. Subir Cambios a GitHub
+
+### Conectar el repositorio a GitHub
+
+Si el repositorio no está vinculado a GitHub, usa:
+
+git remote add origin <URL_DEL_REPOSITORIO> git branch -M main # Asegura que la rama principal sea "main" git push -u origin main
+
+### Enviar cambios a GitHub
+
+Cada vez que hagas cambios: 1️⃣ Realiza `commit` como en el paso anterior. 2️⃣ Haz clic en el botón `Sync Changes` en la barra de Git. 3️⃣ O usa la terminal:
+
+git push origin main
+
+### 6. Descargar Cambios desde GitHub
+
+Para actualizar tu código con la última versión del repositorio remoto: 1️⃣ Ve a la sección de Git en VS Code. 2️⃣ Haz clic en el botón `Pull` para traer cambios del repositorio. 3️⃣ O usa la terminal:
+
+git pull origin main
+
+### 7. Crear y Cambiar de Ramas en VS Code
+
+### Crear una nueva rama
+
+1️⃣ Abre la barra de comandos (`Ctrl + Shift + P`). 2️⃣ Escribe **"Git: Create Branch"** y selecciona la opción. 3️⃣ Ingresa el nombre de la nueva rama y presiona Enter.
+
+📌 También puedes usar la terminal:
+
+git branch nueva-rama git switch nueva-rama # Para cambiar de rama
+
+### Cambiar entre ramas
+
+1️⃣ Haz clic en el nombre de la rama en la esquina inferior izquierda. 2️⃣ Selecciona la rama a la que quieres cambiar.
+
+### 8. Resolver Conflictos de Fusión en VS Code
+
+Si hay un conflicto, VS Code te mostrará opciones en el archivo afectado: ✅ **Accept Current Change** → Mantener la versión de tu rama actual. ✅ **Accept Incoming Change** → Mantener la versión de la otra rama. ✅ **Accept Both Changes** → Combinar ambas versiones manualmente.
+
+📌 Luego, guarda el archivo y haz `commit` para finalizar.
+
+---
+
+### Conclusión
+
+VS Code hace que trabajar con Git sea mucho más intuitivo. Puedes hacer **commits, push, pull, trabajar con ramas y resolver conflictos** sin salir del editor.
+
 </details>
 <br/>
 
