@@ -20,7 +20,7 @@
 
 ## Clases del curso
 
-### Computación Básica
+### 💻 Computación Básica
 <details>
   <summary>01/24 - Qué pasa cuando enciendes una computadora</summary>
   <br/>
@@ -77,7 +77,7 @@
 </details>
 <br/>
 
-### Redes e Internet
+### 🛜 Redes e Internet
 <details>
   <summary>12/24 - Direcciones IP y el Protocolo de Internet</summary>
   <br/>
@@ -94,7 +94,7 @@
 </details>
 <br/>
 
-### Sistemas Operativos y Almacenamiento
+### 💾 Sistemas Operativos y Almacenamiento
 <details>
   <summary>15/24 - Diferencias entre windows, linux y MacOS</summary>
   <br/>
@@ -111,7 +111,7 @@
 </details>
 <br/>
 
-### Archivos y estructuras de Datos
+### 📂 Archivos y estructuras de Datos
 <details>
   <summary>18/24 - ¿Qué son las bases de datos</summary>
   <br/>
@@ -133,7 +133,7 @@
 </details>
 <br/>
 
-### Instroducción a Blockchain e Inteligencia Artificial
+### 🤖 Instroducción a Blockchain e Inteligencia Artificial
 <details>
   <summary>22/24 - Arquitectura y funcionamiento interno de blockchain</summary>
   <br/>
