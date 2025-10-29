@@ -95,3 +95,56 @@
 <br/>
 
 ### Sistemas Operativos y Almacenamiento
+<details>
+  <summary>15/24 - Diferencias entre windows, linux y MacOS</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>16/24 - Permisos, niveles de procesos y privilegios de ejecución</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>17/24 - Archivos: Metadatos, cabeceeras y extensiones</summary>
+  <br/>
+</details>
+<br/>
+
+### Archivos y estructuras de Datos
+<details>
+  <summary>18/24 - ¿Qué son las bases de datos</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>19/24 - ¿Cómo funcionan el formato .jpg</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>20/24 - Video: contenedores, codecs y protocolos</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>21/24 - ¿Cómo funciona un .zip?</summary>
+  <br/>
+</details>
+<br/>
+
+### Instroducción a Blockchain e Inteligencia Artificial
+<details>
+  <summary>22/24 - Arquitectura y funcionamiento interno de blockchain</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>23/24 - ¿Qué es un red neuronal</summary>
+  <br/>
+</details>
+
+<details>
+  <summary>24/24 - ¿Cómo funcionan los LLMs?</summary>
+  <br/>
+</details>
