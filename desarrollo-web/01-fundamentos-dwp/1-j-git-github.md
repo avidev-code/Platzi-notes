@@ -25,13 +25,13 @@
   ### Antes de GIT: el desorden absoluto
 
   Antes de **GIT**, los desarrolladores gestionaban versiones manualmente, lo que era ineficiente y propenso a errores. Su llegada revolucionó la industria gracias a su simplicidad, convirtiéndose en el estándar para la programación.
+  <br/>
 
   ### ¿Quién creó GIT?
-
   El creador de **GIT** es **Linus Torvalds**, el mismo que desarrolló el kernel de **Linux**. Diseñó **GIT** para resolver sus propios problemas de control de versiones, y su impacto ha sido tan grande que hoy en día es una herramienta esencial en el desarrollo de software.
+  <br/>
 
   ### ¿Por qué deberías aprender GIT?
-
   Desde que escribes tu primer **"Hola, mundo"**, necesitas gestionar tu código de manera eficiente. Aprender **GIT** es fundamental para:
 
   - **Trabajar en equipo** dentro de una empresa.
@@ -39,43 +39,37 @@
   - **Mantener un historial de cambios** y revertir errores sin perder el progreso.
 
   Hoy en día, casi ningún producto de software es creado por una sola persona. Siempre hay equipos detrás, y **GIT** es la clave para que todo funcione sin problemas.
+  <br/>
 
   ### GIT y GITHUB: aliados del desarrollo
-
   - **GIT** funciona en tu máquina local mediante la terminal o editores como **Visual Studio Code**.
   - Sus comandos principales incluyen: **merge, pull, commit, push**, entre otros.
   - Si deseas colaborar con otros, usarás plataformas como **GITHUB**, donde podrás almacenar y gestionar versiones de código en la nube.
 
   **GITHUB** ha crecido enormemente en los últimos años, añadiendo herramientas que aumentan la productividad y facilitan el trabajo en equipo.
+  <br/>
 
-  ### **¿Qué aprenderás en este curso?**
-
+  ### ¿Qué aprenderás en este curso?
   En este curso, aprenderás a:
 
   ✔ Configurar **GIT** en tu computadora.
-
   ✔ Crear repositorios locales y modificar archivos.
-
   ✔ Trabajar con ramas y fusionarlas correctamente.
-
   ✔ Gestionar un flujo de trabajo profesional con **GIT y GITHUB**.
-
   ✔ Integrar colaboradores, revisar cambios y resolver conflictos.
-
   ✔ Utilizar herramientas avanzadas como **Codespaces** y automatizaciones.
 
   ### Tu ventaja sobre otros desarrolladores
-
   Muchos dicen que saben **GIT**, pero solo manejan lo básico. En este curso, irás más allá: no solo aprenderás a hacer **commit, pull y push**, sino que también dominarás herramientas avanzadas que te harán destacar en la industria.
+  <br/>
 
   ### ¿Qué necesitas para empezar?
-
   Solo conocimientos básicos de la terminal, como:
-
   - Crear y mover archivos y directorios.
   - Entender lo esencial de cualquier lenguaje de programación.
 
   Si quieres destacar en la industria del software, la próxima clase es tu siguiente paso. ¡Nos vemos allá! 🚀
+  <br/><br/>
 
 </details>
 
