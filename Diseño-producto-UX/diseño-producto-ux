@@ -1,32 +1,32 @@
-# 💻 Escuela de Desarrollo Web
+# 💻 # <img width="48px" src="https://static.platzi.com/media/learningpath/badges/525c8825-38c6-4dd5-9f4b-14e5000e4fbc.jpg"/> Escuela de Diseño de Producto y UX
 
 Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
 
 ---
 
-## 1. 🧱 Fundamentos del Desarrollo Web Profesional
+## 1. 🧱 Fundamentos Diseño UX/UI
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
+👉🏻 [Ruta Fundamentos de Diseño UX/UI Platzi](https://platzi.com/ruta/fundamentos-de-diseno-ux-ui)
   <br/>
 
-> Esta ruta establece las bases esenciales de la informática, el desarrollo web con HTML, CSS, JavaScript, el manejo de herramientas como Git y la terminal, y los principios de ingeniería de software.
+> Establece las bases de la conceptualización, diseño y evaluación de interfaces y experiencias digitales, aprendiendo los principios, procesos, herramientas y vocabulario esencial del Diseño UX/UI.
 
 ### Cursos de la ruta:
 
 | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
-| **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
-| **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
-| **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| **Curso de HTML** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
-| **Curso de CSS** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
-| **Curso Práctico de HTML y CSS** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
-| **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
-| **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
-| **Curso de Git y GitHub** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
+| **Curso de Photoshop** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
+| **Curso de Sketch** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
+| **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
+| **Curso de de Adobe XD** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| **Audiocurso Glosario de Términos de Diseño** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
+| **Curso de Glosario de términos de Diseño Gráfico** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
+| **Curso de Glosario en Product Design** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
+| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
+| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
+| **Curso de Figma** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
   <br/>
 
 ---
