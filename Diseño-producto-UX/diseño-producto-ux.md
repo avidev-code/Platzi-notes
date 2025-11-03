@@ -1,4 +1,4 @@
-# 💻 # <img width="48px" src="https://static.platzi.com/media/learningpath/badges/525c8825-38c6-4dd5-9f4b-14e5000e4fbc.jpg"/> Escuela de Diseño de Producto y UX
+# <img width="48px" src="https://static.platzi.com/media/learningpath/badges/525c8825-38c6-4dd5-9f4b-14e5000e4fbc.jpg"/> Escuela de Diseño de Producto y UX
 
 Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
 
