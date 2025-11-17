@@ -2,6 +2,9 @@
 
 Este repositorio contiene mis notas y resúmenes de los cursos que he completado en Platzi, organizados por Escuelas y Rutas de aprendizaje.
  <br/>
+ <br/>
+ <br/>
+ 
 <img src="https://static.platzi.com/media/user_upload/PlatziConf-Wallpaper-11%400.75x-117abb91-b660-49d0-97cd-e7871e1e7ff1.jpg"/>
 
 ---

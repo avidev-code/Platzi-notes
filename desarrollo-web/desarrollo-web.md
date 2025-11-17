@@ -6,7 +6,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ## 1. 🧱 Fundamentos del Desarrollo Web Profesional
   <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../img/desarrollo-web/01-fundamentos.jpg"/>
 
 👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/intro-desarrollo-web)
   <br/>
@@ -26,7 +26,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | **Curso Práctico de HTML y CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
 | **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
-| **Curso de Git y GitHub** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
+| **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
   <br/>
 
 ---
@@ -34,7 +34,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 <br/>
 
 ## 2. ⚙️📐 Diseño y Desarrollo Frontend
-<img src="../img/02-diseño-desarrollo.jpg"/>
+<img src="../img/desarrollo-web/02-diseño-desarrollo.jpg"/>
 
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/diseno-desarrollo-frontend)
 
@@ -65,7 +65,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 <br/>
 
 ## 3. ⚙️ Desarrollo Frontend con JavaScript
-<img src="../img/03-desarrollo-js.jpg"/>
+<img src="../img/desarrollo-web/03-desarrollo-js.jpg"/>
 
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarollo-frontend-con-javascript)
 
