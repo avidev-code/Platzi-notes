@@ -16,7 +16,8 @@ Este repositorio contiene mis notas y resúmenes de los cursos que he completado
 | **Desarrollo Web** | Fundamentos de frontend y backend, tecnologías modernas. | 80% | [Ir a las notas de la Escuela](./desarrollo-web/desarrollo-web.md) |
 | **Escuela de Diseño de Producto y UX** | Diseño de Producto. | 42% | [Ir a las notas de la Escuela](./Diseño-producto-UX/diseño-producto-ux.md) |
 | **Escuela de Inteligencia Artificial y Data Science** | Machine Learning, análisis de datos y herramientas. | 35% | [Ir a las notas de la Escuela](./inteligencia-artificial-data-science/inteligencia-artificial-data-science.md) |
-| **Escuela de Escuela de Finanzas e Inversiones** | Finanzas e inversiones. | 35% | [Ir a las notas de la Escuela](./finanzas-inversiones/finanzas-inversiones.md) |
-| **Escuela de Escuela de Blockchain y Web3** | Blockchain y WEB3 | 35% | [Ir a las notas de la Escuela](./blockchain/blockchain.md) |
+| **Escuela de Finanzas e Inversiones** | Finanzas e inversiones. | 35% | [Ir a las notas de la Escuela](./finanzas-inversiones/finanzas-inversiones.md) |
+| **Escuela de Blockchain y Web3** | Blockchain y WEB3 | 35% | [Ir a las notas de la Escuela](./blockchain/blockchain.md) |
+| **Escuela de Desarrollo Movil** | Blockchain y WEB3 | 35% | [Ir a las notas de la Escuela](./desarrollo-movil/desarrollo-movil.md) |
 
 ---
