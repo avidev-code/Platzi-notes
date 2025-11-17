@@ -1,4 +1,4 @@
-# 💻 Escuela de Desarrollo Web
+# <img width="48px" src="https://static.platzi.com/media/learningpath/badges/17cd61d0-33b1-4e76-b320-70798f265dc4.jpg"/> Escuela Desarrollo Web
 
 Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
 

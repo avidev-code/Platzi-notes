@@ -1,4 +1,4 @@
-# 💻 Escuela de Desarrollo Web
+# <img width="48px" src="https://static.platzi.com/media/learningpath/badges/6fc3891f-2e7d-4e19-a9c0-fe96f6526ed5.jpg"/> Escuela de Inteligencia Artificial y Data Science
 
 Este es el índice de las rutas y cursos que he tomado en la [Escuela de Inteligencia Artificial y Data Science](https://platzi.com/escuela/datos) que Contiene <br/> **7 rutas**
 
@@ -8,7 +8,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Intelig
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos del Desarrollo web profesional de Platzi](https://platzi.com/ruta/fundamentos-de-data-science-y-ai)
+👉🏻 [Ruta Fundamentos de Data Science y AI de Platzi](https://platzi.com/ruta/fundamentos-de-data-science-y-ai)
   <br/>
 
 > Adquiere las bases matemáticas, de programación y de ingeniería de software necesarias para iniciar en el mundo de la ciencia de datos y la inteligencia artificial.
