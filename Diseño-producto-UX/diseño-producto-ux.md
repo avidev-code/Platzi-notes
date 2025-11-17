@@ -1,6 +1,6 @@
 # <img width="48px" src="https://static.platzi.com/media/learningpath/badges/525c8825-38c6-4dd5-9f4b-14e5000e4fbc.jpg"/> Escuela de Diseño de Producto y UX
 
-Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
+Este es el índice de las rutas y cursos que he tomado en la [Escuela de Producto](https://platzi.com/escuela/producto) que Contiene <br/> **13 rutas**
 
 ---
 
@@ -13,89 +13,353 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 > Establece las bases de la conceptualización, diseño y evaluación de interfaces y experiencias digitales, aprendiendo los principios, procesos, herramientas y vocabulario esencial del Diseño UX/UI.
 
-### Cursos de la ruta:
+### 10 Cursos de la ruta (27 horas de contenido):
 
 | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Photoshop** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
-| **Curso de Sketch** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
-| **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
-| **Curso de de Adobe XD** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| **Audiocurso Glosario de Términos de Diseño** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
-| **Curso de Glosario de términos de Diseño Gráfico** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
-| **Curso de Glosario en Product Design** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
-| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
-| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
-| **Curso de Figma** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
+| **Curso de Photoshop** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso]() |
+| **Curso de Sketch** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso]() |
+| **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.c-terminal.md) |
+| **Curso de de Adobe XD** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.d-ingenieria.md) |
+| **Audiocurso Glosario de Términos de Diseño** | ⏳ Completar contenido | 60% | [Notas del curso](.e-html-2025.md) |
+| **Curso de Glosario de términos de Diseño Gráfico** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.f-css-2025.md) |
+| **Curso de Glosario en Product Design** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.g-html-css-practico.md) |
+| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ⏳ Completar contenido | 30% | [Notas del curso](.h-programacion-basica.md) |
+| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ✅ Completado | 100% | [Notas del curso](.i-fund-js.md) |
+| **Curso de Figma** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.j-git-github.md) |
   <br/>
 
 ---
+<br/>
+<br/>
 
-## 2. ⚙️📐 Diseño y Desarrollo Frontend
-<img src="../img/02-diseño-desarrollo.jpg"/>
+## 2. 🕵️ Investigación de Usuarios (UX Research)
+  <br/>
+<img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta de Platzi](https://platzi.com/ruta/diseno-desarrollo-frontend)
+👉🏻 [Ruta Investigación de Usuarios (UX Research)](https://platzi.com/ruta/investigacion-de-usuarios-ux-research)
+  <br/>
 
-> Domina JavaScript avanzado, manipulación del DOM, CSS moderno (Flexbox, Grid, Sass, Tailwind), rendimiento web y los frameworks/librerías más populares como React, Vue, Angular, junto con TypeScript y herramientas de build.
+> Domina métodos y técnicas cualitativas y cuantitativas para investigar las necesidades, comportamientos y motivaciones de los usuarios, sintetizando hallazgos accionables.
 
-### Cursos de la ruta:
+### 7 Cursos de la ruta (20 horas de contenido):
 
-| Nombre del curso | Estado | Progreso | Notas |
+| Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Frontend Developer** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Frontend Developer** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Responsive Design: Maquetación Mobile First** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Maquetación en CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Diseño Web con CSS Grid y Flexbox** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de CSS Grid Básico** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Profesional de CSS Grid Layout** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Transformaciones y Transiciones en CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Animaciones con CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Fundamentos de Sass: Crea tu Primera Landing Page** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de TailwindCSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Arquitecturas CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Maquetación y Animaciones con CSS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Materialize** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso de Diseño Centrado en Usuario** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de CX Research y UX Testing** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de User Research: Técnicas para una Investigación Efectiva** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Thick Data en Negocios** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Investigación de Usuarios: Estudios Prácticos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Experiencia de Cliente: Estudios Prácticos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Ética en el UX Research** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
 
 ---
+<br/>
+<br/>
 
-## 3. ⚙️ Desarrollo Frontend con JavaScript
-<img src="../img/03-desarrollo-js.jpg"/>
+## 3. 🏗️ 📃 Arquitectura-de-informacion-y-usabilidad
+  <br/>
+<img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarollo-frontend-con-javascript)
-### Cursos de la ruta:
+👉🏻 [Ruta Arquitectura de Información y Usabilidad](https://platzi.com/ruta/arquitectura-de-informacion-y-usabilidad)
+  <br/>
 
-| Nombre del curso | Estado | Progreso | Notas |
+> Aprende a estructurar contenido de forma intuitiva, diseñar sistemas de navegación eficientes y evaluar la facilidad de uso de productos digitales mediante pruebas y herramientas de análisis.
+
+### 7 Cursos de la ruta (20 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de JavaScript: Manipulación del DOM** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de ECMAScript: Historia y Versiones de JavaScript** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Introducción a Empaquetadores Web** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Webpack** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de JavaScript: Web Components** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Single Page Application con JavaScript Vanilla** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Debugging con Chrome DevTools** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Optimización Web** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Vite.js** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de SolidJS** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Svelte** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso de Arquitectura de Información con Usaria** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Usabilidad: Principios, Pruebas y Herramientas Avanzadas** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Introducción a Google Tag Manager 📃** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Pruebas de Usabilidad** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Google Tag Manager para Marketing** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Análisis de Reportes de Ecommerce con Google Analytics** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Google Analytics** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
 
 ---
+<br/>
+<br/>
 
-## 6. ⚙️ Desarrollo Frontend con React.js
-👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-frontend-react-js)
-### Cursos de la ruta:
+## 4. Diseño de Interfaces y Prototipado (UI Design)
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
 
-| Nombre del curso | Estado | Progreso | Notas |
+👉🏻 [Ruta Diseño de Interfaces y Prototipado (UI Design) de Platzi](https://platzi.com/ruta/diseno-de-interfaces-y-prototipado-ui-design)
+  <br/>
+
+> Especialízate en la creación de interfaces visualmente atractivas y funcionales, desarrollando prototipos interactivos de baja y alta fidelidad para validar diseños y flujos de usuario.
+
+### 9 Cursos de la ruta (27 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de React.js** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Manejo Profesional del Estado** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Patrones de Render y Composición** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Navegación con React Router** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Profesional de React.js y Redux** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Server Side Render o SSR con React.js** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React Avanzado** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js con TypeScript** | ✅ Completado | 100% | [Ir a las Notas](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| **Curso de Diseño de Interfaces Móviles** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño de Interfaces Únicas** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Design Sprint Aplicado** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño de Prototipos Móviles** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño Mobile First: Prototipos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Metodologías de Diseño de Productos Digitales** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño en Modo Oscuro** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Figma: Técnicas Avanzadas de Diseño** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Design Thinking** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 5. Sistemas de Diseño y DesignOps
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Diseño de Interfaces y Prototipado (UI Design) de Platzi](https://platzi.com/ruta/sistemas-de-diseno-y-designops)
+  <br/>
+
+> Aprende a crear, gestionar y escalar sistemas de diseño (Design Systems) para mantener la consistencia y eficiencia en productos complejos, optimizando la colaboración (DesignOps) entre equipos.
+
+### 6 Cursos de la ruta (12 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Patrones y Componentes en Sistemas de Diseño** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Colaboración Diseño-Desarrollo** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para Gestionar un Sistema de Diseño como Product Manager** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Práctico de Sistemas de Diseño con Figma** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Storybook: Sistemas de Diseño con JavaScript** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para Implementar Design Ops en tu organización** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 6. Redacción UX (UX Writing)
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Redacción UX (UX Writing) de Platzi](https://platzi.com/ruta/redaccion-ux-ux-writing)
+  <br/>
+
+> Domina el arte de escribir textos claros, concisos y centrados en el usuario para interfaces digitales, mejorando la usabilidad y la comunicación del producto.
+
+### 5 Cursos de la ruta (15 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Copywriting con Técnicas de Storytelling** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de UX Writing básico** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de UX Writing Avanzado** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Copywriting para One Page Web** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Taller de Escritura Estratégica para Redes Sociales** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 7. Creatividad e Innovación en Diseño
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Creatividad e Innovación en Diseño](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
+  <br/>
+
+> Domina el arte de escribir textos claros, concisos y centrados en el usuario para interfaces digitales, mejorando la usabilidad y la comunicación del producto.
+
+### 9 Cursos de la ruta (17 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso para Desarrollar tu Creatividad: Técnicas y Hábitos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para despertar tu Creatividad** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso de Desarrollo de Creatividad para tu Vida Profesional** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso: Cómo salir de un Bloqueo Creativo** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso de Liderazgo para Equipos Creativos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Creatividad e Innovación** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Innovación para el Futuro y Coolhunting** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Innovación para Emprendimiento** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Innovación Empresarial** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 8. Diseño Accesible e Inclusivo
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Diseño Accesible e Inclusivo](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
+  <br/>
+
+> Diseña productos digitales que sean utilizables por todas las personas, independientemente de sus capacidades, aplicando estándares de accesibilidad (WCAG) y principios de diseño inclusivo y ético.
+
+### 5 Cursos de la ruta (11 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Accesibilidad Web** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para Evitar Dark Patterns** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso de Accesibilidad Web: Casos de Estudio** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Accesibilidad Web: Auditoría de Proyectos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Accesibilidad y Diseño Inclusivo** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 9. Diseño Asistido por Inteligencia Artificial
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Diseño Asistido por Inteligencia Artificial](https://platzi.com/ruta/diseno-asistido-por-inteligencia-artificial)
+  <br/>
+
+> Integra herramientas de Inteligencia Artificial en tu flujo de diseño para optimizar la investigación de usuarios, la generación de ideas, el prototipado y la creación de interfaces, manteniendo un enfoque ético.
+
+### 5 Cursos de la ruta (11 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Diseño Ético para el Desarrollo de Productos Digitales con IA** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de ChatGPT para Product Designers: Diseño asistido por AI** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Inteligencia Artificial para Product Discovery y Product Design: Herramientas y Técnicas** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 10. Gestión de Producto y Liderazgo en Diseño
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Gestión de Producto y Liderazgo en Diseño](https://platzi.com/ruta/gestion-de-producto-y-liderazgo-en-diseno)
+  <br/>
+
+> Desarrolla habilidades estratégicas para gestionar el ciclo de vida del producto digital, liderar equipos de diseño, colaborar con stakeholders y tomar decisiones basadas en datos y métricas de negocio.
+
+### 14 Cursos de la ruta (34 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Gestión y Liderazgo en Diseño** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Gestión de Procesos UX** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Introducción a la Creación de Cultura para Startups** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Métricas y Dashboards para Startups** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Business Intelligence: Utilidad y Áreas de Oportunidad** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso de Fundamentos para Product Managers** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Product Management** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Cómo Ser Product Designer** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Product Management para Developers** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Innovación y Creación de Productos** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Audiocurso de Métricas en Product Design** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Habilidades Blandas para Product Designers** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Product Marketing** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Product Management para Mobile** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 11. Diseño de Interacciones Emergentes (VUI/VR)
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Diseño de Interacciones Emergentes (VUI/VR)](https://platzi.com/ruta/diseno-de-interacciones-emergentes-vui-vr)
+  <br/>
+
+> Especialízate en el diseño de experiencias para interfaces de voz (VUI) y realidad virtual (VR), aprendiendo a prototipar, probar y crear interacciones inmersivas y naturales.
+
+### 3 Cursos de la ruta (12 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Diseño de Interfaces de Voz** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Prototipado para Realidad Virtual** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Experiencias Inmersivas en Realidad Virtual** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 12. Desarrollo Web para Diseñadores
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Desarrollo Web para Diseñadores de Platzi](https://platzi.com/ruta/desarrollo-web-para-disenadores)
+  <br/>
+
+> Aprende los fundamentos del desarrollo frontend (HTML, CSS, Responsive Design) para poder implementar tus propios diseños web o colaborar de manera más efectiva con equipos de ingeniería.
+
+### 15 Cursos de la ruta (44 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso Práctico de Maquetación en CSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de HTML** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Práctico de HTML y CSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Responsive Design: Maquetación Mobile First** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Profesional de CSS Grid Layout** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño Web con CSS Grid y Flexbox** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Transformaciones y Transiciones en CSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Animaciones con CSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Frontend Developer** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de CSS Grid Básico** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Práctico de Frontend Developer** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Fundamentos de Sass: Crea tu Primera Landing Page** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Arquitecturas CSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Desarrollo Web para Diseñadores** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de TailwindCSS** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
+
+---
+<br/>
+<br/>
+
+## 13. Diseño y Prototipado No-Code
+<br/>
+<img src="../img/01-fundamentos.jpg"/>
+
+👉🏻 [Ruta Creatividad e Innovación en Diseño](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
+  <br/>
+
+> Crea sitios web, aplicaciones y automatizaciones complejas sin necesidad de escribir código, utilizando plataformas visuales y herramientas de integración No-Code y Low-Code.
+
+### 10 Cursos de la ruta (21 horas de contenido):
+
+| Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- |
+| **Curso de Apps No-code con Bubble: Base de Datos y Estructura Básica** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Apps No-code con Bubble: Interfaz y Funcionalidades** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para Crear Sitios Web No-code con Notion y Super** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Notion** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de No-Code con Softr para Crear Apps sin Código** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Diseño Web No Code** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Webflow para Crear Sitios No-code: Componentes, Layouts e Interacciones** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de No-Code con Appsheet** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso para Crear un MVP sin Código** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso de Herramientas No-Code para la Productividad** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+
+  <br/>
 
 ---
