@@ -5,7 +5,7 @@
 
   👉🏻 [Ve al Curso de HTML](https://platzi.com/cursos/programacion-basica)
   <br/>
-  👉🏻 [Ve al proyecto del curso](https://platzi.com/cursos/programacion-basica)
+  🗂️ [Ve al proyecto del curso](https://platzi.com/cursos/programacion-basica)
   
   <br/>
 
