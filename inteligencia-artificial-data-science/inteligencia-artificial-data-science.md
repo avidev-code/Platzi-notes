@@ -22,7 +22,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Intelig
 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
 | **Curso de Fundamentos de Matemáticas** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
 | **Curso de Lenguaje y Notación Matemática** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
-| **Curso Básico de Cálculo Diferencial para Data Science e Inteligencia Artificia** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| **Curso Básico de Cálculo Diferencial para Data Science e Inteligencia Artificial** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | **Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | **Curso de Estadística y Probabilidad** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | **Curso de Estadística Descriptiva** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
