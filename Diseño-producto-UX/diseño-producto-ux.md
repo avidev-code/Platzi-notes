@@ -6,7 +6,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 1. 🧱 Fundamentos Diseño UX/UI
   <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/01-fundamentos-ui.jpg"/>
 
 👉🏻 [Ruta Fundamentos de Diseño UX/UI Platzi](https://platzi.com/ruta/fundamentos-de-diseno-ux-ui)
   <br/>
@@ -35,7 +35,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 2. 🕵️ Investigación de Usuarios (UX Research)
   <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/02-ux-research.jpg"/>
 
 👉🏻 [Ruta Investigación de Usuarios (UX Research)](https://platzi.com/ruta/investigacion-de-usuarios-ux-research)
   <br/>
@@ -62,7 +62,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 3. 🏗️ 📃 Arquitectura-de-informacion-y-usabilidad
   <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/03-arch-informacion.jpg"/>
 
 👉🏻 [Ruta Arquitectura de Información y Usabilidad](https://platzi.com/ruta/arquitectura-de-informacion-y-usabilidad)
   <br/>
@@ -89,7 +89,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 4. Diseño de Interfaces y Prototipado (UI Design)
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/04-prototipado-ui-design.jpg"/>
 
 👉🏻 [Ruta Diseño de Interfaces y Prototipado (UI Design) de Platzi](https://platzi.com/ruta/diseno-de-interfaces-y-prototipado-ui-design)
   <br/>
@@ -118,7 +118,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 5. Sistemas de Diseño y DesignOps
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/05-designOps.jpg"/>
 
 👉🏻 [Ruta Diseño de Interfaces y Prototipado (UI Design) de Platzi](https://platzi.com/ruta/sistemas-de-diseno-y-designops)
   <br/>
@@ -144,7 +144,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 6. Redacción UX (UX Writing)
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/06-ux-writing.jpg"/>
 
 👉🏻 [Ruta Redacción UX (UX Writing) de Platzi](https://platzi.com/ruta/redaccion-ux-ux-writing)
   <br/>
@@ -169,7 +169,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 7. Creatividad e Innovación en Diseño
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/07-creativity-design.jpg"/>
 
 👉🏻 [Ruta Creatividad e Innovación en Diseño](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
   <br/>
@@ -198,7 +198,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 8. Diseño Accesible e Inclusivo
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/08-diseño-accesible.jpg"/>
 
 👉🏻 [Ruta Diseño Accesible e Inclusivo](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
   <br/>
@@ -223,7 +223,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 9. Diseño Asistido por Inteligencia Artificial
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/09-diseño-ai.jpg"/>
 
 👉🏻 [Ruta Diseño Asistido por Inteligencia Artificial](https://platzi.com/ruta/diseno-asistido-por-inteligencia-artificial)
   <br/>
@@ -246,7 +246,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 10. Gestión de Producto y Liderazgo en Diseño
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/10-diseño-liderazgo.jpg"/>
 
 👉🏻 [Ruta Gestión de Producto y Liderazgo en Diseño](https://platzi.com/ruta/gestion-de-producto-y-liderazgo-en-diseno)
   <br/>
@@ -280,7 +280,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 11. Diseño de Interacciones Emergentes (VUI/VR)
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/11-VUI-VR.jpg"/>
 
 👉🏻 [Ruta Diseño de Interacciones Emergentes (VUI/VR)](https://platzi.com/ruta/diseno-de-interacciones-emergentes-vui-vr)
   <br/>
@@ -303,7 +303,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 12. Desarrollo Web para Diseñadores
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/12-desarrollo-web-diseño.jpg"/>
 
 👉🏻 [Ruta Desarrollo Web para Diseñadores de Platzi](https://platzi.com/ruta/desarrollo-web-para-disenadores)
   <br/>
@@ -338,7 +338,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 ## 13. Diseño y Prototipado No-Code
 <br/>
-<img src="../img/01-fundamentos.jpg"/>
+<img src="../Diseño-producto-UX/banners-diseño-producto/13-design-no-code.jpg"/>
 
 👉🏻 [Ruta Creatividad e Innovación en Diseño](https://platzi.com/ruta/creatividad-e-innovacion-en-diseno)
   <br/>
