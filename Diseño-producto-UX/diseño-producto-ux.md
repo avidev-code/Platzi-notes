@@ -17,16 +17,16 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Product
 
 | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- |
-| **Curso de Photoshop** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso]() |
-| **Curso de Sketch** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso]() |
-| **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.c-terminal.md) |
-| **Curso de de Adobe XD** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.d-ingenieria.md) |
-| **Audiocurso Glosario de Términos de Diseño** | ⏳ Completar contenido | 60% | [Notas del curso](.e-html-2025.md) |
-| **Curso de Glosario de términos de Diseño Gráfico** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.f-css-2025.md) |
-| **Curso de Glosario en Product Design** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.g-html-css-practico.md) |
-| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ⏳ Completar contenido | 30% | [Notas del curso](.h-programacion-basica.md) |
-| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ✅ Completado | 100% | [Notas del curso](.i-fund-js.md) |
-| **Curso de Figma** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](.j-git-github.md) |
+| **Curso de Photoshop** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-a-photoshop.md) |
+| **Curso de Sketch** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-b-sketch.md) |
+| **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-c-diseno-programadores.md) |
+| **Curso de de Adobe XD** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-d-adobe-xd.md) |
+| **Audiocurso Glosario de Términos de Diseño** | ⏳ Completar contenido | 60% | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-e-glosario-ux.md) |
+| **Curso de Glosario de términos de Diseño Gráfico** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-f-glosario-diseno-grafico.md) |
+| **Curso de Glosario en Product Design** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-g-glosario-product-design.md) |
+| **Curso de Fundamentos de Diseño de Interfaces UX/UI** | ✅ Completado | 100% | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-h-basico-ui.md) |
+| **Curso de Illustrator para Diseño Gráfico** | ⏳ Completar contenido | 30% | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-i-illustrator.md) |
+| **Curso de Figma** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-j-basico-figma.md) |
   <br/>
 
 ---

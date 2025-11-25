@@ -18,6 +18,6 @@ Este repositorio contiene mis notas y resúmenes de los cursos que he completado
 | **Escuela de Inteligencia Artificial y Data Science** | Machine Learning, análisis de datos y herramientas. | 35% | [Ir a las notas de la Escuela](./inteligencia-artificial-data-science/inteligencia-artificial-data-science.md) |
 | **Escuela de Finanzas e Inversiones** | Finanzas e inversiones. | 35% | [Ir a las notas de la Escuela](./finanzas-inversiones/finanzas-inversiones.md) |
 | **Escuela de Blockchain y Web3** | Blockchain y WEB3 | 35% | [Ir a las notas de la Escuela](./blockchain/blockchain.md) |
-| **Escuela de Desarrollo Movil** | Blockchain y WEB3 | 35% | [Ir a las notas de la Escuela](./desarrollo-movil/desarrollo-movil.md) |
+| **Escuela de Desarrollo Movil** | Desarrollo de Apps Móviles | 35% | [Ir a las notas de la Escuela](./desarrollo-movil/desarrollo-movil.md) |
 
 ---
