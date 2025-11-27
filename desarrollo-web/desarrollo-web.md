@@ -15,18 +15,18 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ### 10 Cursos de la ruta (53 horas de contenido):
 
-| Nombre del curso | Estado | Progreso | Mis Notas |
-| :--- | :--- | :--- | :--- |
-| **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
-| **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
-| **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
-| **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| **Curso de HTML** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
-| **Curso de CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
-| **Curso Práctico de HTML y CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
-| **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
-| **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
-| **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
+| # | Nombre del curso | Estado | Progreso | Mis Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de Introducción a la Web: Historia y Funcionamiento de Internet** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-a-introweb.md) |
+| 02 | **Curso Básico de Computadores e Informática** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
+| 03 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
+| 04 | **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 05 | **Curso de HTML** | ⏳ Completar contenido | 60% | [Notas del curso](./01-fundamentos-dwp/1-e-html-2025.md) |
+| 06 | **Curso de CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-f-css-2025.md) |
+| 07 | **Curso Práctico de HTML y CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-g-html-css-practico.md) |
+| 08 | **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
+| 09 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
+| 10 | **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
   <br/>
 
 ---
@@ -73,20 +73,48 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ### 12 Cursos de la ruta (39 horas de contenido):
 
-| Nombre del curso | Estado | Progreso | Notas |
-| :--- | :--- | :--- | :--- |
-| **Curso de JavaScript: Manipulación del DOM** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de ECMAScript: Historia y Versiones de JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Introducción a Empaquetadores Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Webpack** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de JavaScript: Web Components** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Single Page Application con JavaScript Vanilla** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Debugging con Chrome DevTools** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Optimización Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Vite.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de SolidJS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Svelte** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de JavaScript: Manipulación del DOM** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 02 | **Curso de ECMAScript: Historia y Versiones de JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 03 | **Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 04 | **Curso de Introducción a Empaquetadores Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 05 | **Curso de Webpack** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 06 | **Curso de JavaScript: Web Components** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 07 | **Curso de Single Page Application con JavaScript Vanilla** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 08 | **Curso de Debugging con Chrome DevTools** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 09 | **Curso de Optimización Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 10 | **Curso de Vite.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 11 | **Curso de SolidJS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 12 | **Curso de Svelte** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+
+---
+<br/>
+<br/>
+
+## 4. ⚙️ Desarrollo Frontend con Vue.js
+<img src="../img/desarrollo-web/03-desarrollo-js.jpg"/>
+
+👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarollo-frontend-con-javascript)
+
+> Desarrollo Frontend con JavaScript
+
+### 12 Cursos de la ruta (39 horas de contenido):
+
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de Vue.js: Introducción y Fundamentos** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 02 | **Curso de Vue.js: Componentes y Composition API** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 03 | **Curso de Reactividad con Vue.js 3** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 04 | **Curso Práctico de Vue.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 05 | **Curso de Vue.js: Navegación con Vue Router** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 06 | **Curso de Vue.js: Manejo del Estado con Vuex** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 07 | **Curso de Vue.js: Manejo del Estado con Pinia** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 08 | **Curso Básico de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 09 | **Curso Avanzado de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 10 | **Curso de Single Page Applications en Laravel con Inertia y Vue.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 11 | **Curso de Testing con Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 12 | **Curso de Svelte** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 
 ---
 <br/>
@@ -99,15 +127,15 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ### 8 Cursos de la ruta (29 horas de contenido):
 
-| Nombre del curso | Estado | Progreso | Notas |
-| :--- | :--- | :--- | :--- |
-| **Curso de React.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Manejo Profesional del Estado** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Patrones de Render y Composición** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js: Navegación con React Router** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Profesional de React.js y Redux** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Server Side Render o SSR con React.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React Avanzado** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de React.js con TypeScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de React.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 02 | **Curso de React.js: Manejo Profesional del Estado** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 03 | **Curso de React.js: Patrones de Render y Composición** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 04 | **Curso de React.js: Navegación con React Router** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 05 | **Curso Profesional de React.js y Redux** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 06 | **Curso de Server Side Render o SSR con React.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 07 | **Curso de React Avanzado** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 08 | **Curso de React.js con TypeScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 
 ---
