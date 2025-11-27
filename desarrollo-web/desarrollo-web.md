@@ -42,23 +42,23 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ### 15 Cursos de la ruta (45 horas de contenido):
 
-| Nombre del curso | Estado | Progreso | Notas |
-| :--- | :--- | :--- | :--- |
-| **Curso de Frontend Developer** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Frontend Developer** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Responsive Design: Maquetación Mobile First** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Maquetación en CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Diseño Web con CSS Grid y Flexbox** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de CSS Grid Básico** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Profesional de CSS Grid Layout** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Transformaciones y Transiciones en CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Animaciones con CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Fundamentos de Sass: Crea tu Primera Landing Page** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de TailwindCSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Arquitecturas CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso Práctico de Maquetación y Animaciones con CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| **Curso de Materialize** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de Frontend Developer** | ✅ Completado | 100% | [Notas del Curso](./2-desarrollo-frontend/2.1-frontend-developer.md) |
+| 02 | **Curso Práctico de Frontend Developer** | ✅ Completado | 100% | [Notas del Curso](./2-desarrollo-frontend/2.2-frontend-developer-practico.md) |
+| 03 | **Curso de CSS** | ✅ Completado | 100% | [Notas del Curso](./2-desarrollo-frontend/2.3-css.md) |
+| 04 | **Curso de Responsive Design: Maquetación Mobile First** | ✅ Completado | 100% | [Notas del Curso](./2-desarrollo-frontend/2.4-mobile-first.md) |
+| 05 | **Curso Práctico de Maquetación en CSS** | ✅ Completado | 100% | [Notas del Curso](./2-desarrollo-frontend/2.5-practico-css.md) |
+| 06 | **Curso de Diseño Web con CSS Grid y Flexbox** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 07 | **Curso de CSS Grid Básico** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 08 | **Curso Profesional de CSS Grid Layout** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 09 | **Curso de Transformaciones y Transiciones en CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 10 | **Curso de Animaciones con CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 11 | **Curso de Fundamentos de Sass: Crea tu Primera Landing Page** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 12 | **Curso de TailwindCSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 13 | **Curso de Arquitecturas CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 14 | **Curso Práctico de Maquetación y Animaciones con CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 15 | **Curso de Materialize** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 
 ---
 <br/>
