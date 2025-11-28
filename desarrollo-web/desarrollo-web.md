@@ -114,7 +114,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 09 | **Curso Avanzado de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 10 | **Curso de Single Page Applications en Laravel con Inertia y Vue.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 11 | **Curso de Testing con Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 12 | **Curso de Svelte** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 12 | **Curso de Unit Testing en Vue.js 3** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 
 ---
 <br/>
