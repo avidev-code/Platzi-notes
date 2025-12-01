@@ -246,3 +246,34 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 <br/>
 <br/>
+
+## 10. Desarrollo Backend con Node.js
+👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-backend-con-php)
+
+> Especialízate en la creación de APIs y servicios backend utilizando Node.js, Express, NestJS, bases de datos SQL/NoSQL, autenticación (JWT, Passport), WebSockets y arquitecturas modernas.
+
+### 22 Cursos de la ruta (88 horas de contenido):
+
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de PHP Avanzado** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.1-php-avanzado-pro.md) |
+| 02 | **Curso de Introducción al Desarrollo Backend** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.2-backend.md) |
+| 03 | **Curso de Fundamentos de PHP** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.3-fundamentos-php.md) |
+| 04 | **Curso de PHP: Integración con HTML** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.4-php-html.md) |
+| 05 | **Curso de PHP: Cookies, Sesiones y Modularización** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.5-php-cookies-sesiones.md) |
+| 06 | **Curso de PHP: Bases de Datos** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.6-php-sql.md) |
+| 07 | **Curso de API REST con PHP** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.7-api-rest.md) |
+| 08 | **Curso de Introducción a Frameworks de PHP** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.8-php-frameworks.md) |
+| 09 | **Curso de Laravel** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.9-desarrollo-laravel.md) |
+| 10 | **Curso de Introducción a Laravel 9** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.10-laravel.md) |
+| 11 | **Curso de API REST con Laravel** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.11-laravel-api.md) |
+| 12 | **Curso de Estándares y Buenas Prácticas para API REST con Laravel** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.12-buenas-practicas-api.md) |
+| 13 | **Curso de Interfaces Dinámicas con Laravel Livewire** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.13-laravel-livewire.md) |
+| 14 | **Curso de Introducción a Laravel 8** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.14-intro-laravel.md) |
+| 15 | **Curso de Desarrollo en Laravel con Test Driven Development** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.15-laravel-tdd.md) |
+| 16 | **Curso Práctico de Symfony** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.16-symfony-practico.md) |
+| 17 | **Curso de Symfony Framework** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.17-symfony-framework.md) |
+
+---
+<br/>
+<br/>
