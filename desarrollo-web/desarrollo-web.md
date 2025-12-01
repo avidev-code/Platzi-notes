@@ -75,18 +75,19 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de JavaScript: Manipulación del DOM** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 02 | **Curso de ECMAScript: Historia y Versiones de JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 03 | **Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 04 | **Curso de Introducción a Empaquetadores Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 05 | **Curso de Webpack** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 06 | **Curso de JavaScript: Web Components** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 07 | **Curso de Single Page Application con JavaScript Vanilla** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 08 | **Curso de Debugging con Chrome DevTools** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 09 | **Curso de Optimización Web** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 10 | **Curso de Vite.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 11 | **Curso de SolidJS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 12 | **Curso de Svelte** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 01 | **Curso de JavaScript: Manipulación del DOM** | ⏳ Completar contenido | 100% | [Notas del Curso](./3-frontend-javascript/3.1-document-object-model.md) |
+| 02 | **Curso de ECMAScript: Historia y Versiones de JavaScript** | ⏳ Completar contenido | 100% | [Notas del Curso](./3-frontend-javascript/3.2-ecmascript-6.md) |
+| 03 | **Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript** | ⏳ Completar contenido | 100% | [Notas del Curso](./3-frontend-javascript/3.3-npm.md) |
+| 04 | **Curso de Introducción a Empaquetadores Web** | ⏳ Completar contenido | 100% | [Notas del Curso](./3-frontend-javascript/3.4-empaquetadores.md) |
+| 05 | **Curso de Webpack** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.5-webpack.md) |
+| 04 | **Curso Práctico de Vue.js** | 🪧 Comenzar curso | 0% 🪫 | [Nota | [Notas del Curso](./3-frontend-javascript/3.4-empaquetadores.md) |
+| 06 | **Curso de JavaScript: Web Components** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.6-web-components-javascript.md) |
+| 07 | **Curso de Single Page Application con JavaScript Vanilla** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.7-spa-javascript.md) |
+| 08 | **Curso de Debugging con Chrome DevTools** | ⏳ Completar contenido | 🧨 35% | [Notas del Curso](./3-frontend-javascript/3.8-devtools.md) |
+| 09 | **Curso de Optimización Web** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.9-web-performance.md) |
+| 10 | **Curso de Vite.js** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.10-vitejs.md) |
+| 11 | **Curso de SolidJS** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.11-solidjs.md) |
+| 12 | **Curso de Svelte** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-frontend-javascript/3.12-svelte.md) |
 
 ---
 <br/>
@@ -103,18 +104,18 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Vue.js: Introducción y Fundamentos** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 02 | **Curso de Vue.js: Componentes y Composition API** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 03 | **Curso de Reactividad con Vue.js 3** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 04 | **Curso Práctico de Vue.js** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 05 | **Curso de Vue.js: Navegación con Vue Router** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 06 | **Curso de Vue.js: Manejo del Estado con Vuex** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 07 | **Curso de Vue.js: Manejo del Estado con Pinia** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 08 | **Curso Básico de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 09 | **Curso Avanzado de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 10 | **Curso de Single Page Applications en Laravel con Inertia y Vue.js** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 11 | **Curso de Testing con Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 12 | **Curso de Unit Testing en Vue.js 3** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 01 | **Curso de Vue.js: Introducción y Fundamentos** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.1-desarrollo-frontend-con-vuejs.md) |
+| 02 | **Curso de Vue.js: Componentes y Composition API** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.2-vuejs-componentes-composition.md) |
+| 03 | **Curso de Reactividad con Vue.js 3** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.3-reactividad-vuejs.md) |
+| 04 | **Curso Práctico de Vue.js** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.4-vue-practico.md) |
+| 05 | **Curso de Vue.js: Navegación con Vue Router** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.5-vue-router.md) |
+| 06 | **Curso de Vue.js: Manejo del Estado con Vuex** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.6-vuex.md) |
+| 07 | **Curso de Vue.js: Manejo del Estado con Pinia** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-frontend-Vue.js/4.7-pinia.md) |
+| 08 | **Curso Básico de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./4-frontend-Vue.js/4.8-vuejs2.md) |
+| 09 | **Curso Avanzado de Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./4-frontend-Vue.js/4.9-avanzado-vue.md) |
+| 10 | **Curso de Single Page Applications en Laravel con Inertia y Vue.js** | ✅ Completado | 100% | [Notas del Curso](./4-frontend-Vue.js/4.10-laravel-spa.md) |
+| 11 | **Curso de Testing con Vue.js 2** | ✅ Completado | 100% | [Notas del Curso](./4-frontend-Vue.js/4.11-testing-vuejs.md) |
+| 12 | **Curso de Unit Testing en Vue.js 3** | ✅ Completado | 100% | [Notas del Curso](./4-frontend-Vue.js/4.12-vue-unit-testing.md) |
 
 ---
 <br/>
