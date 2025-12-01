@@ -22,13 +22,13 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 03 | **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
 | 04 | **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
 | 05 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
-| 06 | **Curso Básico de Programación Orientada a Objetos con JavaScript** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 06 | **Curso Básico de Programación Orientada a Objetos con JavaScript** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | 07 | **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-c-diseno-programadores.md) |
-| 08 | **Curso de Fundamentos de React Native** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
-| 09 | **Curso de API First** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
-| 10 | **Curso de fundamentos de Material Design (Android) y Human Interface Guidelines (iOS)** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 08 | **Curso de Fundamentos de React Native** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 09 | **Curso de API First** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 10 | **Curso de fundamentos de Material Design (Android) y Human Interface Guidelines (iOS)** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | 11 | **Curso de Accesibilidad Web** | ⏳ Completar contenido | 30%🪫 | [Notas del Curso](../404-note.md) |
-| 12 | **Audiocurso de Salidas Profesionales para Desarrolladores de Aplicaciones Móviles 2022** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 12 | **Audiocurso de Salidas Profesionales para Desarrolladores de Aplicaciones Móviles 2022** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 
 ---
 <br/>
@@ -158,9 +158,9 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 03 | **Curso de Android: Modo Offline con Room y Realm** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
 | 04 | **Curso de API First** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-j-git-github.md) |
 | 05 | **Curso de Integración Nativa iOS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
-| 06 | **Curso de iOS: Modo Offline con Swift Data y Realm** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
-| 07 | **Curso de Firebase 5 para Web** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
-| 08 | **Curso de Flutter con Firebase** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 06 | **Curso de iOS: Modo Offline con Swift Data y Realm** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 07 | **Curso de Firebase 5 para Web** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 08 | **Curso de Flutter con Firebase** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 
 ---
 <br/>
@@ -204,7 +204,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 03 | **Curso de Diseño Mobile First: Prototipos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
 | 04 | **Curso de fundamentos de Material Design (Android) y Human Interface Guidelines (iOS)** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-j-git-github.md) |
 | 05 | **Curso del Ciclo de Vida de Apps Mobile** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
-| 06 | **Curso de Product Management para Mobile** | 🏁 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 06 | **Curso de Product Management para Mobile** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 
 ---
 <br/>
