@@ -205,3 +205,23 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 <br/>
 <br/>
+
+## 8. Desarrollo Backend con Python
+👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-frontend-react-js)
+
+> Construye APIs y aplicaciones backend robustas con Python, utilizando frameworks populares como Flask, FastAPI y Django, y gestionando bases de datos SQL.
+
+### 7 Cursos de la ruta (23 horas de contenido):
+
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de Introducción al Desarrollo Backend** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./) |
+| 02 | **Curso de FastAPI** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./7-backend-con-nodejs/) |
+| 03 | **Curso de Flask** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./6-frontend-react-js/6.3-react-patrones-render.md) |
+| 04 | **Curso de Django** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./6-frontend-react-js/6.4-react-router.md) |
+| 05 | **Curso de Django Rest Framework** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./6-frontend-react-js/6.5-react-redux-profesional.md) |
+| 06 | **Curso de Despliegue de Aplicaciones Python en la Nube** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./6-frontend-react-js/6.6-react-avanzado.md) |
+
+---
+<br/>
+<br/>
