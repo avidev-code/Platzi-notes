@@ -225,3 +225,24 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 ---
 <br/>
 <br/>
+
+## 9. Desarrollo Backend con Java
+👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-backend-con-java)
+
+> Especialízate en el desarrollo backend con Java, utilizando el ecosistema Spring (Spring Boot, Spring Data JPA, Spring Security) para crear APIs y servicios escalables y seguros.
+
+### 7 Cursos de la ruta (23 horas de contenido):
+
+| # | Nombre del curso | Estado | Progreso | Notas |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | **Curso de Java** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.1-java.md) |
+| 02 | **Curso de Introducción al Desarrollo Backend** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.2-backend.md) |
+| 03 | **Curso de Java SE: SQL y Bases de Datos** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.3-java-sql.md) |
+| 04 | **Curso de Java Spring Boot** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.4-java-spring-boot.md) |
+| 05 | **Curso de Java Spring** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.5-java-spring.md) |
+| 06 | **Curso de Java Spring Data JPA: Bases de Datos** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.6-java-spring-data.md) |
+| 07 | **Curso de Java Spring Security: Autenticación y Seguridad Web** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.7-java-spring-security.md) |
+
+---
+<br/>
+<br/>
