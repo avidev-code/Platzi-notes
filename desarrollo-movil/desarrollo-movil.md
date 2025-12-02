@@ -17,11 +17,11 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-c-terminal.md) |
-| 02 | **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| 03 | **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./01-fundamentos-dwp/1-h-programacion-basica.md) |
-| 04 | **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./01-fundamentos-dwp/1-j-git-github.md) |
-| 05 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./01-fundamentos-dwp/1-i-fund-js.md) |
+| 01 | **Curso de Introducción a la Terminal y Línea de Comandos** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-dwp/1.3-terminal.md) |
+| 02 | **Curso de Fundamentos de Ingeniería de Software** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-dwp/1.4-ingenieria.md) |
+| 03 | **Curso Gratis de Programación Básica** | ⏳ Completar contenido | 30% | [Notas del curso](./1-fundamentos-dwp/1.8-programacion-basica.md) |
+| 04 | **Curso de Git y GitHub** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-dwp/1.10-git-github.md) |
+| 05 | **Curso de Fundamentos de JavaScript** | ✅ Completado | 100% | [Notas del curso](./1-fundamentos-dwp/1.9-fund-js.md) |
 | 06 | **Curso Básico de Programación Orientada a Objetos con JavaScript** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | 07 | **Curso de Diseño para Developers** | 🎓 Curso Aprobado!✅ | 100% 🔋 | [Notas del curso](./1-fundamentos-de-diseno-ux-ui/1-c-diseno-programadores.md) |
 | 08 | **Curso de Fundamentos de React Native** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
@@ -38,7 +38,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/fundamentos-de-desarrollo-movil)
+👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/desarrollo-nativo-android-con-kotlin)
   <br/>
 
 > Adquiere las bases esenciales de informática, control de versiones, fundamentos de JavaScript y principios de diseño y accesibilidad aplicados al desarrollo móvil.
@@ -47,9 +47,9 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Kotlin** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso Básico de Diseño de Interfaces con Android Studio** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| 03 | **Curso de Jetpack Compose en Android** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
+| 01 | **Curso de Kotlin** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./2-android-con-kotlin/2.1-kotlin.md) |
+| 02 | **Curso Básico de Diseño de Interfaces con Android Studio** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./2-android-con-kotlin/2.2-interfaces-android.md) |
+| 03 | **Curso de Jetpack Compose en Android** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./2-android-con-kotlin/2.3-jetpack-android.md) |
 
 ---
 <br/>
@@ -59,20 +59,20 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/fundamentos-de-desarrollo-movil)
+👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/desarrollo-nativo-ios-con-swift)
   <br/>
 
-> Adquiere las bases esenciales de informática, control de versiones, fundamentos de JavaScript y principios de diseño y accesibilidad aplicados al desarrollo móvil.
+> Domina el desarrollo de aplicaciones nativas para iOS con Swift, aprendiendo a usar Storyboards (UIKit) y el moderno framework declarativo SwiftUI.
 
 ### 5 Cursos de la ruta - (16 horas de contenido):
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Swift para Apps iOS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de Programación Orientada a Objetos en Swift** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| 03 | **Curso de Swift con Storyboards** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 04 | **Curso de Desarrollo de Aplicaciones con SwiftUI** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 05 | **Curso de SwiftUI: Porteo y Ciclo de Vida de Aplicaciones** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
+| 01 | **Curso de Swift para Apps iOS** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-iOS-con-swift/3.1-swift-ios.md) |
+| 02 | **Curso de Programación Orientada a Objetos en Swift** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-iOS-con-swift/3.2-swift-5-poo.md) |
+| 03 | **Curso de Swift con Storyboards** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-iOS-con-swift/3.3-swift-storyboards.md) |
+| 04 | **Curso de Desarrollo de Aplicaciones con SwiftUI** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-iOS-con-swift/3.4-swift-ui.md) |
+| 05 | **Curso de SwiftUI: Porteo y Ciclo de Vida de Aplicaciones** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./3-iOS-con-swift/3.5-swiftui-especializacion.md) |
 
 ---
 <br/>
@@ -82,17 +82,17 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/fundamentos-de-desarrollo-movil)
+👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/desarrollo-multiplataforma-con-react-native)
   <br/>
 
-> Adquiere las bases esenciales de informática, control de versiones, fundamentos de JavaScript y principios de diseño y accesibilidad aplicados al desarrollo móvil.
+> Crea aplicaciones móviles para iOS y Android simultáneamente utilizando JavaScript y el framework React Native.
 
 ### 2 Cursos de la ruta - (6 horas de contenido):
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Introducción a React Native** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de App Mobile utilizando Woocommerce** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 01 | **Curso de Introducción a React Native** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-multiplataforma-react-native/4.1-react-native.md) |
+| 02 | **Curso de App Mobile utilizando Woocommerce** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./4-multiplataforma-react-native/4.2-woocommerce-mobile.md) |
 
 ---
 <br/>
@@ -102,17 +102,17 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/fundamentos-de-desarrollo-movil)
+👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/desarrollo-multiplataforma-con-flutter)
   <br/>
 
-> Adquiere las bases esenciales de informática, control de versiones, fundamentos de JavaScript y principios de diseño y accesibilidad aplicados al desarrollo móvil.
+> Construye aplicaciones compiladas nativamente para móvil, web y escritorio desde una única base de código utilizando Dart y Flutter.
 
 ### 2 Cursos de la ruta - (9 horas de contenido):
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Flutter** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de Flutter con Firebase** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 01 | **Curso de Flutter** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./5-multiplataforma-flutter/5.1-flutter.md) |
+| 02 | **Curso de Flutter con Firebase** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./5-multiplataforma-flutter/5.2-flutter-firebase.md) |
 
 ---
 <br/>
@@ -122,19 +122,19 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 <img src="../img/01-fundamentos.jpg"/>
 
-👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/fundamentos-de-desarrollo-movil)
+👉🏻 [Ruta Fundamentos de Desarrollo Móvil de Platzi](https://platzi.com/ruta/arquitectura-y-patrones-de-diseno-movil)
   <br/>
 
-> Adquiere las bases esenciales de informática, control de versiones, fundamentos de JavaScript y principios de diseño y accesibilidad aplicados al desarrollo móvil.
+> Aprende a estructurar aplicaciones móviles robustas, escalables y mantenibles aplicando patrones como MVP, MVVM y Clean Architecture, junto con principios SOLID.
 
 ### 4 Cursos de la ruta - (16 horas de contenido):
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Patrones de Diseño en Android** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de Patrones MVVM en Android** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| 03 | **Curso de Patrones MVVM en iOS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 04 | **Curso de API First** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
+| 01 | **Curso de Patrones de Diseño en Android** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 02 | **Curso de Patrones MVVM en Android** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 03 | **Curso de Patrones MVVM en iOS** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 04 | **Curso de API First** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 
 ---
 <br/>
@@ -153,11 +153,11 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Consumo de APIs REST con Angular** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de Android: Integración de APIs nativas** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
-| 03 | **Curso de Android: Modo Offline con Room y Realm** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 04 | **Curso de API First** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-j-git-github.md) |
-| 05 | **Curso de Integración Nativa iOS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
+| 01 | **Curso de Consumo de APIs REST con Angular** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 02 | **Curso de Android: Integración de APIs nativas** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 03 | **Curso de Android: Modo Offline con Room y Realm** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 04 | **Curso de API First** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./01-fundamentos-dwp/1-j-git-github.md) |
+| 05 | **Curso de Integración Nativa iOS** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./01-fundamentos-dwp/1-b-computacion-basica.md) |
 | 06 | **Curso de iOS: Modo Offline con Swift Data y Realm** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | 07 | **Curso de Firebase 5 para Web** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
 | 08 | **Curso de Flutter con Firebase** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
@@ -179,8 +179,8 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 | # | Nombre del curso | Estado | Progreso | Mis Notas |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Curso de Swift Unit Testing** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](../404-note.md) |
-| 02 | **Curso de Android: Despliegue a Google Play Store** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
+| 01 | **Curso de Swift Unit Testing** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](../404-note.md) |
+| 02 | **Curso de Android: Despliegue a Google Play Store** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./01-fundamentos-dwp/1-d-ingenieria.md) |
 
 ---
 <br/>
