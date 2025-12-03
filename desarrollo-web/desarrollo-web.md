@@ -46,7 +46,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | :--- | :--- | :--- | :--- | :--- |
 | 01 | **Curso de Frontend Developer** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./2-desarrollo-frontend/2.1-frontend-developer.md) |
 | 02 | **Curso Práctico de Frontend Developer** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./2-desarrollo-frontend/2.2-frontend-developer-practico.md) |
-| 03 | **Curso de CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./2-desarrollo-frontend/2.3-css.md) |
+| 03 | **Curso de CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./1-fundamentos-dwp/1.6-css-2025.md) |
 | 04 | **Curso de Responsive Design: Maquetación Mobile First** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./2-desarrollo-frontend/2.4-mobile-first.md) |
 | 05 | **Curso Práctico de Maquetación en CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./2-desarrollo-frontend/2.5-practico-css.md) |
 | 06 | **Curso de Diseño Web con CSS Grid y Flexbox** | 📄 Presentar examen | ⚠️⏳ | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
