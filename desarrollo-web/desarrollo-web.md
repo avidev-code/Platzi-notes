@@ -1,6 +1,6 @@
 # <img width="48px" src="https://static.platzi.com/media/learningpath/badges/17cd61d0-33b1-4e76-b320-70798f265dc4.jpg"/> Escuela Desarrollo Web
 
-Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) que Contiene <br/> **16 rutas**
+Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarrollo Web](https://platzi.com/escuela/web) y Contiene <br/> **16 rutas**
 
 ---
 
@@ -30,7 +30,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
   <br/>
 
 ---
-<br/>
 <br/>
 
 ## 2. ⚙️📐 Diseño y Desarrollo Frontend
@@ -62,7 +61,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 <br/>
-<br/>
 
 ## 3. ⚙️ Desarrollo Frontend con JavaScript
 <img src="../img/desarrollo-web/03-desarrollo-js.jpg"/>
@@ -91,7 +89,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 <br/>
-<br/>
 
 ## 4. ⚙️ Desarrollo Frontend con Vue.js
 <img src="../img/desarrollo-web/03-desarrollo-js.jpg"/>
@@ -119,7 +116,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 <br/>
-<br/>
 
 ## 5. ⚙️ Desarrollo Frontend con Angular
 <img src="../img/desarrollo-web/03-desarrollo-js.jpg"/>
@@ -145,7 +141,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 <br/>
-<br/>
 
 
 ## 6. ⚙️ Desarrollo Frontend con React.js
@@ -167,7 +162,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 08 | **Curso de React.js con TypeScript** | ✅ Completado | 100% | [Notas del Curso](./6-frontend-react-js/6.8-react-typescript.md) |
 
 ---
-<br/>
 <br/>
 
 ## 7. Desarrollo Backend con Node.js
@@ -204,7 +198,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 
 ---
 <br/>
-<br/>
 
 ## 8. Desarrollo Backend con Python
 👉🏻 [Ruta de Platzi](https://platzi.com/ruta/desarrollo-frontend-react-js)
@@ -223,7 +216,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 06 | **Curso de Despliegue de Aplicaciones Python en la Nube** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./6-frontend-react-js/6.6-react-avanzado.md) |
 
 ---
-<br/>
 <br/>
 
 ## 9. Desarrollo Backend con Java
@@ -244,7 +236,6 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 07 | **Curso de Java Spring Security: Autenticación y Seguridad Web** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./9-backend-con-java/9.7-java-spring-security.md) |
 
 ---
-<br/>
 <br/>
 
 ## 10. Desarrollo Backend con Node.js
@@ -275,5 +266,3 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 17 | **Curso de Symfony Framework** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./10-backend-con-php/10.17-symfony-framework.md) |
 
 ---
-<br/>
-<br/>
