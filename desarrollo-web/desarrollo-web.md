@@ -54,7 +54,7 @@ Este es el índice de las rutas y cursos que he tomado en la [Escuela de Desarro
 | 09 | **Curso de Transformaciones y Transiciones en CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 10 | **Curso de Animaciones con CSS** | 🪧 Comenzar curso | 0% 🪫 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 11 | **Curso de Fundamentos de Sass: Crea tu Primera Landing Page** | ⏳ Completar contenido | 🧨 60% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
-| 12 | **Curso de TailwindCSS** | ⏳ Completar contenido | 🧨 35% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
+| 12 | **Curso de TailwindCSS** | ⏳ Completar contenido | 🧨 35% | [Notas del Curso](./2-desarrollo-frontend/2.12-tailwindcss.md) |
 | 13 | **Curso de Arquitecturas CSS** | ✅ Completado | 100% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 14 | **Curso Práctico de Maquetación y Animaciones con CSS** | 🎓 Curso Aprobado! ✅ | 100% 🔋 | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
 | 15 | **Curso de Materialize** | ⏳ Completar contenido | 🧨 20% | [Notas del Curso](./Ruta-Frontend/Curso-de-JavaScript-Básico/README.md) |
